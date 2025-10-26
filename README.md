@@ -88,7 +88,7 @@ Note though that because of random sampling to select distractors, some of the r
 # Prepare Retriever and LLM Servers
 
 <details>
-<summary> First, install Elasticsearch 7.10. </summary>
+<summary> First, install Elasticsearch 7.16. </summary>
 
 ### Install on Mac (option 1)
 ```
@@ -102,11 +102,11 @@ brew services stop elastic/tap/elasticsearch-full # to stop the server
 ### Install on Mac (option 2)
 ```
 # source: https://www.elastic.co/guide/en/elasticsearch/reference/current/targz.html
-wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.10.2-darwin-x86_64.tar.gz
-wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.10.2-darwin-x86_64.tar.gz.sha512
-shasum -a 512 -c elasticsearch-7.10.2-darwin-x86_64.tar.gz.sha512
-tar -xzf elasticsearch-7.10.2-darwin-x86_64.tar.gz
-cd elasticsearch-7.10.2/
+wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.16.3-darwin-x86_64.tar.gz
+wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.16.3-darwin-x86_64.tar.gz.sha512
+shasum -a 512 -c elasticsearch-7.16.3-darwin-x86_64.tar.gz.sha512
+tar -xzf elasticsearch-7.16.3-darwin-x86_64.tar.gz
+cd elasticsearch-7.16.3/
 ./bin/elasticsearch # start the server
 pkill -f elasticsearch # to stop the server
 ```
@@ -114,12 +114,12 @@ pkill -f elasticsearch # to stop the server
 ### Install on Linux
 
 ```
-# source: https://www.elastic.co/guide/en/elasticsearch/reference/8.1/targz.html
-wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.10.2-linux-x86_64.tar.gz
-wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.10.2-linux-x86_64.tar.gz.sha512
-shasum -a 512 -c elasticsearch-7.10.2-linux-x86_64.tar.gz.sha512
-tar -xzf elasticsearch-7.10.2-linux-x86_64.tar.gz
-cd elasticsearch-7.10.2/
+# source: https://www.elastic.co/guide/en/elasticsearch/reference/7.16/targz.html
+wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.16.3-linux-x86_64.tar.gz
+wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.16.3-linux-x86_64.tar.gz.sha512
+shasum -a 512 -c elasticsearch-7.16.3-linux-x86_64.tar.gz.sha512 
+tar -xzf elasticsearch-7.16.3-linux-x86_64.tar.gz
+cd elasticsearch-7.16.3/ 
 ./bin/elasticsearch # start the server
 pkill -f elasticsearch # to stop the server
 ```

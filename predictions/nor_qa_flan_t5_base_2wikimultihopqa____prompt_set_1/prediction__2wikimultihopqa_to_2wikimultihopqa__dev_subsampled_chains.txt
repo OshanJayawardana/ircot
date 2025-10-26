@@ -1,0 +1,700 @@
+
+6d8ff48a0bdb11eba7f7acde48001122
+Who is the founder of the company which published Big Picture (Magazine)?
+Q: Who is the founder of the company which published Big Picture (Magazine)?
+A: "John McKinney"
+Q: [EOQ]
+S: 0.0
+
+87e4e1e0088b11ebbd6fac1f6bf848b6
+Are Antoine Jean-Baptiste Thomas and Canardo (Rapper) of the same nationality?
+Q: Are Antoine Jean-Baptiste Thomas and Canardo (Rapper) of the same nationality?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+01e265d20bdc11eba7f7acde48001122
+Where did Temüge's father die?
+Q: Where did Temüge's father die?
+A: "Istanbul"
+Q: [EOQ]
+S: 0.0
+
+9231021e0bb011ebab90acde48001122
+Who is Elizabeth Stuart, Countess Of Lennox's mother-in-law?
+Q: Who is Elizabeth Stuart, Countess Of Lennox's mother-in-law?
+A: "Dame Mary Stuart"
+Q: [EOQ]
+S: 0.0
+
+be0f8b4e0bdd11eba7f7acde48001122
+When was Ludwig Gruno Of Hesse-Homburg's father born?
+Q: When was Ludwig Gruno Of Hesse-Homburg's father born?
+A: "18 September 1871"
+Q: [EOQ]
+S: 0.0
+
+f3e6c20309ab11ebbdb0ac1f6bf848b6
+Which song was released more recently, Come With Me (Pure Imagination) or Hold On Me (Grinspoon Song)?
+Q: Which song was released more recently, Come With Me (Pure Imagination) or Hold On Me (Grinspoon Song)?
+A: "Come With Me (Pure Imagination)"
+Q: [EOQ]
+S: 0.0
+
+757e422f089211ebbd73ac1f6bf848b6
+Who was born first, Heo Keon or Ljiljana Nanušević?
+Q: Who was born first, Heo Keon or Ljiljana Nanušević?
+A: "Ljiljana Nanuevi"
+Q: [EOQ]
+S: 0.0
+
+7f70355f097c11ebbdb0ac1f6bf848b6
+Which film was released more recently, The Black Duke or Avalalpam Vaikippoyi?
+Q: Which film was released more recently, The Black Duke or Avalalpam Vaikippoyi?
+A: "The Black Duke"
+Q: [EOQ]
+S: 0.0
+
+5be3ae32084f11ebbd56ac1f6bf848b6
+Which film has the director died later, Begrijpt U Nu Waarom Ik Huil? or We Faw Down?
+Q: Which film has the director died later, Begrijpt U Nu Waarom Ik Huil? or We Faw Down?
+A: "We Faw Down"
+Q: [EOQ]
+S: 0.0
+
+f5855305089211ebbd74ac1f6bf848b6
+Which film has the director who is older, King Of The Zombies or Mon Oncle Benjamin?
+Q: Which film has the director who is older, King Of The Zombies or Mon Oncle Benjamin?
+A: "Mon Oncle Benjamin"
+Q: [EOQ]
+S: 0.0
+
+64f1e5e9086d11ebbd62ac1f6bf848b6
+Which film has the director who was born first, Dead Man'S Evidence or Creature Of The Walking Dead?
+Q: Which film has the director who was born first, Dead Man'S Evidence or Creature Of The Walking Dead?
+A: "Creature Of The Walking Dead"
+Q: [EOQ]
+S: 0.0
+
+b01b7cc40baf11ebab90acde48001122
+Who is Viacheslav I Of Kiev's maternal grandfather?
+Q: Who is Viacheslav I Of Kiev's maternal grandfather?
+A: "Alexander I of Kiev"
+Q: [EOQ]
+S: 0.0
+
+f77e556e0baf11ebab90acde48001122
+Who is the paternal grandfather of Władysław I Of Płock?
+Q: Who is the paternal grandfather of Władysław I Of Płock?
+A: "wiat I"
+Q: [EOQ]
+S: 0.0
+
+c4755995087911ebbd67ac1f6bf848b6
+Which band was formed earlier, The Flower Pot Men or Los Chalchaleros?
+Q: Which band was formed earlier, The Flower Pot Men or Los Chalchaleros?
+A: "Los Chalchaleros"
+Q: [EOQ]
+S: 0.0
+
+ce4f63cc0bdc11eba7f7acde48001122
+Where did the director of film Ręce Do Góry study?
+Q: Where did the director of film Ręce Do Góry study?
+A: "University of Warsaw"
+Q: [EOQ]
+S: 0.0
+
+4667bf20087311ebbd66ac1f6bf848b6
+Was Augusta, Lady Gregory or Luis Yáñez born first?
+Q: Was Augusta, Lady Gregory or Luis Yáñez born first?
+A: "Augusta, Lady Gregory"
+Q: [EOQ]
+S: 0.0
+
+553dcc7a0bdd11eba7f7acde48001122
+Where did the composer of song Ram Chahe Leela graduate from?
+Q: Where did the composer of song Ram Chahe Leela graduate from?
+A: "University of California, Berkeley"
+Q: [EOQ]
+S: 0.0
+
+c6816a87085411ebbd59ac1f6bf848b6
+Which film whose director is younger, Aach... Aku Jatuh Cinta or Ferragosto In Bikini?
+Q: Which film whose director is younger, Aach... Aku Jatuh Cinta or Ferragosto In Bikini?
+A: "Ferragosto In Bikini"
+Q: [EOQ]
+S: 0.0
+
+a26d6fd40bdb11eba7f7acde48001122
+Which country Dorothea Of Denmark, Duchess Of Mecklenburg's father is from?
+Q: Which country Dorothea Of Denmark, Duchess Of Mecklenburg's father is from?
+A: "Denmark"
+Q: [EOQ]
+S: 0.0
+
+f7f0760208e011ebbda2ac1f6bf848b6
+Which film was released more recently, The Unkissed Bride or Fiorile?
+Q: Which film was released more recently, The Unkissed Bride or Fiorile?
+A: "The Unkissed Bride"
+Q: [EOQ]
+S: 0.0
+
+26d66aa60bdb11eba7f7acde48001122
+What nationality is Princess Marie Gasparine Of Saxe-Altenburg's husband?
+Q: What nationality is Princess Marie Gasparine Of Saxe-Altenburg's husband?
+A: "German"
+Q: [EOQ]
+S: 0.0
+
+374844b20baf11ebab90acde48001122
+Who is Ermengarde Of Tuscany's paternal grandfather?
+Q: Who is Ermengarde Of Tuscany's paternal grandfather?
+A: "Countess of Castile"
+Q: [EOQ]
+S: 0.0
+
+372d95020bde11eba7f7acde48001122
+Where was the performer of song Evolution (Ayumi Hamasaki Song) born?
+Q: Where was the performer of song Evolution (Ayumi Hamasaki Song) born?
+A: "Tokyo"
+Q: [EOQ]
+S: 0.0
+
+8bb16ff00bdd11eba7f7acde48001122
+Where was the place of death of Kim Utzon's father?
+Q: Where was the place of death of Kim Utzon's father?
+A: "Seoul"
+Q: [EOQ]
+S: 0.0
+
+b8a95fa60bdb11eba7f7acde48001122
+Where did the director of film Walkover (Film) graduate from?
+Q: Where did the director of film Walkover (Film) graduate from?
+A: "University of California, Berkeley"
+Q: [EOQ]
+S: 0.0
+
+6434ea6708eb11ebbda7ac1f6bf848b6
+Are both Matt Stephens (Politician) and David Townsend (Musician) from the same country?
+Q: Are both Matt Stephens (Politician) and David Townsend (Musician) from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+f557639c0bdd11eba7f7acde48001122
+When did Edmund Grey, 1St Earl Of Kent's father die?
+Q: When did Edmund Grey, 1St Earl Of Kent's father die?
+A: "1 January 1871"
+Q: [EOQ]
+S: 0.0
+
+d8dd8102084e11ebbd56ac1f6bf848b6
+Which film has the director who was born later, Common Clay (1919 Film) or I'M From The City?
+Q: Which film has the director who was born later, Common Clay (1919 Film) or I'M From The City?
+A: "I'M From The City"
+Q: [EOQ]
+S: 0.0
+
+77119398087411ebbd67ac1f6bf848b6
+Which film was released earlier, The Apocalypse Code or Just Imagine?
+Q: Which film was released earlier, The Apocalypse Code or Just Imagine?
+A: "Just Imagine"
+Q: [EOQ]
+S: 0.0
+
+cf9a08f608c911ebbd92ac1f6bf848b6
+Which film has the director died earlier, No, No, Nanette (1930 Film) or What'S Your Husband Doing??
+Q: Which film has the director died earlier, No, No, Nanette (1930 Film) or What'S Your Husband Doing??
+A: "Nanette (1930 Film)"
+Q: [EOQ]
+S: 0.0
+
+a1feed9c0baf11ebab90acde48001122
+Who is Rudolf Hesso, Margrave Of Baden-Baden's mother-in-law?
+Q: Who is Rudolf Hesso, Margrave Of Baden-Baden's mother-in-law?
+A: "helen of saxony"
+Q: [EOQ]
+S: 0.0
+
+e63572a20bdb11eba7f7acde48001122
+Who is the spouse of the director of film Dhaya (Film)?
+Q: Who is the spouse of the director of film Dhaya (Film)?
+A: "Priyanka Chopra"
+Q: [EOQ]
+S: 0.0
+
+5ead80ee0baf11ebab90acde48001122
+Who is Asma Al-Assad's father-in-law?
+Q: Who is Asma Al-Assad's father-in-law?
+A: "Al-Ahmad al-Assad"
+Q: [EOQ]
+S: 0.0
+
+f42ce6e60bdc11eba7f7acde48001122
+Who is the spouse of the performer of song Dreamworld (Robin Thicke Song)?
+Q: Who is the spouse of the performer of song Dreamworld (Robin Thicke Song)?
+A: "Alicia Keys"
+Q: [EOQ]
+S: 0.0
+
+ba1542d00bd911eba7f7acde48001122
+What is the place of birth of the director of film Will Not End Here?
+Q: What is the place of birth of the director of film Will Not End Here?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+4283fa7a0bdb11eba7f7acde48001122
+Where was the husband of Jana Tichá born?
+Q: Where was the husband of Jana Tichá born?
+A: "Budapest"
+Q: [EOQ]
+S: 0.0
+
+2e75dcc60bde11eba7f7acde48001122
+What is the place of birth of the director of film El Cantor Del Pueblo?
+Q: What is the place of birth of the director of film El Cantor Del Pueblo?
+A: "San Francisco"
+Q: [EOQ]
+S: 0.0
+
+1b2e956a092211ebbdaeac1f6bf848b6
+Which film was released more recently, A Night In Casablanca or Matir Ghar?
+Q: Which film was released more recently, A Night In Casablanca or Matir Ghar?
+A: "Matir Ghar"
+Q: [EOQ]
+S: 0.0
+
+ce98e6620bd911eba7f7acde48001122
+Where was the place of death of Alessandro Ruspoli, 2Nd Prince Of Cerveteri's father?
+Q: Where was the place of death of Alessandro Ruspoli, 2Nd Prince Of Cerveteri's father?
+A: "Rome"
+Q: [EOQ]
+S: 0.0
+
+fb846b8a0bdc11eba7f7acde48001122
+Who is the mother of the performer of song Passion (Utada Hikaru Song)?
+Q: Who is the mother of the performer of song Passion (Utada Hikaru Song)?
+A: "Yoko Ono"
+Q: [EOQ]
+S: 0.0
+
+fccfc4800baf11ebab90acde48001122
+Who is the paternal grandfather of Matthew Spender?
+Q: Who is the paternal grandfather of Matthew Spender?
+A: "John Spender"
+Q: [EOQ]
+S: 0.0
+
+a8dc19ef08fa11ebbdacac1f6bf848b6
+Who was born later, Tsvetko Slavov or Marc Burrows?
+Q: Who was born later, Tsvetko Slavov or Marc Burrows?
+A: "Marc Burrows"
+Q: [EOQ]
+S: 0.0
+
+d3faf22c096411ebbdafac1f6bf848b6
+Which film was released earlier, Orma Mathram or Game Of Death?
+Q: Which film was released earlier, Orma Mathram or Game Of Death?
+A: "Orma Mathram"
+Q: [EOQ]
+S: 0.0
+
+4e7c40ed08ea11ebbda7ac1f6bf848b6
+Are Biff Schlitzer and Ryan Groy both from the same country?
+Q: Are Biff Schlitzer and Ryan Groy both from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+b6fdf7820bdd11eba7f7acde48001122
+What is the place of birth of Teresa Gil De Vidaure's husband?
+Q: What is the place of birth of Teresa Gil De Vidaure's husband?
+A: "Paris"
+Q: [EOQ]
+S: 0.0
+
+a4effe30089211ebbd73ac1f6bf848b6
+Which film came out earlier, Painted Post (Film) or Katka'S Reinette Apples?
+Q: Which film came out earlier, Painted Post (Film) or Katka'S Reinette Apples?
+A: "Painted Post"
+Q: [EOQ]
+S: 0.0
+
+4a3edf720bdc11eba7f7acde48001122
+When did Louisa Grace Beauclerk, Duchess Of St Albans's mother die?
+Q: When did Louisa Grace Beauclerk, Duchess Of St Albans's mother die?
+A: "1 January 1871"
+Q: [EOQ]
+S: 0.0
+
+7e6f0a86085f11ebbd5cac1f6bf848b6
+Which film has the director who is older, The Return Of Boston Blackie or Dayavan?
+Q: Which film has the director who is older, The Return Of Boston Blackie or Dayavan?
+A: "The Return Of Boston Blackie"
+Q: [EOQ]
+S: 0.0
+
+389e053c0bdb11eba7f7acde48001122
+What is the place of birth of Aleksey Greig's father?
+Q: What is the place of birth of Aleksey Greig's father?
+A: "Moscow"
+Q: [EOQ]
+S: 0.0
+
+3cfafc9a088211ebbd6dac1f6bf848b6
+Which film has the director who is older, Instructions Not Included or Tainted?
+Q: Which film has the director who is older, Instructions Not Included or Tainted?
+A: "Instructions Not Included"
+Q: [EOQ]
+S: 0.0
+
+fb1ef77a0bda11eba7f7acde48001122
+Who is the spouse of the director of film Voices (1973 Film)?
+Q: Who is the spouse of the director of film Voices (1973 Film)?
+A: "Vivien Leigh"
+Q: [EOQ]
+S: 0.0
+
+a458e6be088a11ebbd6fac1f6bf848b6
+Who died first, Lotte Backes or Willem Van Haecht?
+Q: Who died first, Lotte Backes or Willem Van Haecht?
+A: "Willem Van Haecht"
+Q: [EOQ]
+S: 0.0
+
+5e5e5ee908d911ebbd9cac1f6bf848b6
+Which film has the director who died later, Ridin' Pretty or How Strange To Be Named Federico?
+Q: Which film has the director who died later, Ridin' Pretty or How Strange To Be Named Federico?
+A: "How Strange To Be Named Federico"
+Q: [EOQ]
+S: 0.0
+
+a60b882008b711ebbd88ac1f6bf848b6
+Was Shakila or Øyvind Leonhardsen born first?
+Q: Was Shakila or Øyvind Leonhardsen born first?
+A: "yvind Leonhardsen"
+Q: [EOQ]
+S: 0.0
+
+be53860608d011ebbd95ac1f6bf848b6
+Which film has the director who was born earlier, Brink Of Disaster! or Pro Domo?
+Q: Which film has the director who was born earlier, Brink Of Disaster! or Pro Domo?
+A: "Brink Of Disaster!"
+Q: [EOQ]
+S: 0.0
+
+29487dfc0bda11eba7f7acde48001122
+What is the place of birth of the director of film Reel Zombies?
+Q: What is the place of birth of the director of film Reel Zombies?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+e7e127d00baf11ebab90acde48001122
+Who is Gülçiçek Hatun's mother-in-law?
+Q: Who is Gülçiçek Hatun's mother-in-law?
+A: "lvaro Hatun"
+Q: [EOQ]
+S: 0.0
+
+50a388f20bde11eba7f7acde48001122
+Where was the father of Eric Young Jr. born?
+Q: Where was the father of Eric Young Jr. born?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+2d7263cc0bdd11eba7f7acde48001122
+Where did the director of film 2001: A Space Odyssey (Film) die?
+Q: Where did the director of film 2001: A Space Odyssey (Film) die?
+A: "Los Angeles"
+Q: [EOQ]
+S: 0.0
+
+dfdff31c0bdd11eba7f7acde48001122
+When is John Dalrymple, 12Th Earl Of Stair's father's birthday?
+Q: When is John Dalrymple, 12Th Earl Of Stair's father's birthday?
+A: "1 January 1871"
+Q: [EOQ]
+S: 0.0
+
+2b75986e0bdd11eba7f7acde48001122
+Where was the place of burial of Zeenat Mahal's husband?
+Q: Where was the place of burial of Zeenat Mahal's husband?
+A: "Delhi"
+Q: [EOQ]
+S: 0.0
+
+23a101880bdc11eba7f7acde48001122
+What nationality is the director of film La Torre De Suso?
+Q: What nationality is the director of film La Torre De Suso?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+5a64415f086111ebbd5dac1f6bf848b6
+Who was born first, Mary Lou Marzian or Charles Gonthier, Prince Of Schwarzburg-Sondershausen?
+Q: Who was born first, Mary Lou Marzian or Charles Gonthier, Prince Of Schwarzburg-Sondershausen?
+A: "Mary Lou Marzian"
+Q: [EOQ]
+S: 0.0
+
+bc5a9fef086c11ebbd61ac1f6bf848b6
+Who died later, Giovanni Dei Conti Di Segni or Sakari Simelius?
+Q: Who died later, Giovanni Dei Conti Di Segni or Sakari Simelius?
+A: "Sakari Simelius"
+Q: [EOQ]
+S: 0.0
+
+f481b6100bd911eba7f7acde48001122
+Which country Katherine De Stafford's husband is from?
+Q: Which country Katherine De Stafford's husband is from?
+A: "United States"
+Q: [EOQ]
+S: 0.0
+
+383f1ba4084b11ebbd56ac1f6bf848b6
+Which film was released first, S*P*Y*S or Why Would I Lie??
+Q: Which film was released first, S*P*Y*S or Why Would I Lie??
+A: "Why Would I Lie"
+Q: [EOQ]
+S: 0.0
+
+d76a9dfc08ba11ebbd88ac1f6bf848b6
+Which film has the director who is older than the other, Street Days or The Story Of Two Women? 
+Q: Which film has the director who is older than the other, Street Days or The Story Of Two Women?
+A: "The Story Of Two Women"
+Q: [EOQ]
+S: 0.0
+
+654d62ba0bb011ebab90acde48001122
+Who is Mary Willing Byrd's child?
+Q: Who is Mary Willing Byrd's child?
+A: "Freddie"
+Q: [EOQ]
+S: 0.0
+
+a4721ae4092f11ebbdaeac1f6bf848b6
+Which film was released earlier, Robotech: The Movie or Lakeeran?
+Q: Which film was released earlier, Robotech: The Movie or Lakeeran?
+A: "Lakeeran"
+Q: [EOQ]
+S: 0.0
+
+92e4c1960bdd11eba7f7acde48001122
+Where was the place of death of Phintys's father?
+Q: Where was the place of death of Phintys's father?
+A: "Athens"
+Q: [EOQ]
+S: 0.0
+
+fb37a7ac097511ebbdb0ac1f6bf848b6
+Which film came out first, The Tango Of Our Childhood or Clubbed?
+Q: Which film came out first, The Tango Of Our Childhood or Clubbed?
+A: "The Tango Of Our Childhood"
+Q: [EOQ]
+S: 0.0
+
+04b2864e0bdb11eba7f7acde48001122
+Where was the director of film Trick For Trick born?
+Q: Where was the director of film Trick For Trick born?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+47219fad085111ebbd58ac1f6bf848b6
+Are both airports, Far View Airport and Bellevue Airfield, located in the same country?
+Q: Are both airports, Far View Airport and Bellevue Airfield, located in the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+f64359840bae11ebab90acde48001122
+Who is the paternal grandfather of Mehmet I Of Karaman?
+Q: Who is the paternal grandfather of Mehmet I Of Karaman?
+A: "Muhammad I of Karaman"
+Q: [EOQ]
+S: 0.0
+
+3644026908df11ebbda0ac1f6bf848b6
+Who is younger, Achim Steiner or Norberto Bravo?
+Q: Who is younger, Achim Steiner or Norberto Bravo?
+A: "Achim Steiner"
+Q: [EOQ]
+S: 0.0
+
+91f1a2ae0bdd11eba7f7acde48001122
+What nationality is the director of film Little Fish (Upcoming Film)?
+Q: What nationality is the director of film Little Fish (Upcoming Film)?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+c68eb0be08e611ebbda5ac1f6bf848b6
+Which film has the director who was born later, Felices 140 or Dr. Who And The Daleks?
+Q: Which film has the director who was born later, Felices 140 or Dr. Who And The Daleks?
+A: "Felices 140"
+Q: [EOQ]
+S: 0.0
+
+c69fb1bc0bdd11eba7f7acde48001122
+Where did the director of film Life Without Soul die?
+Q: Where did the director of film Life Without Soul die?
+A: "Los Angeles"
+Q: [EOQ]
+S: 0.0
+
+b2db6b6c0bdd11eba7f7acde48001122
+Where did the director of film Little Door Gods study?
+Q: Where did the director of film Little Door Gods study?
+A: "University of California, Berkeley"
+Q: [EOQ]
+S: 0.0
+
+1de1d43a08c211ebbd8bac1f6bf848b6
+Which film whose director was born first, Wedding In Paris or Twists Of Fate?
+Q: Which film whose director was born first, Wedding In Paris or Twists Of Fate?
+A: "Twists Of Fate"
+Q: [EOQ]
+S: 0.0
+
+995e4c44088711ebbd6dac1f6bf848b6
+Which film has the director who died later, Searchlight On Japan or Beauties Of The Night?
+Q: Which film has the director who died later, Searchlight On Japan or Beauties Of The Night?
+A: "Searchlight On Japan"
+Q: [EOQ]
+S: 0.0
+
+39e5fd3308ea11ebbda7ac1f6bf848b6
+Are Kakwa River and Bighead River located in the same country?
+Q: Are Kakwa River and Bighead River located in the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+a5c2c52908a211ebbd7bac1f6bf848b6
+Which film came out earlier, Le Voyage En Douce or Cobwebs In Concrete?
+Q: Which film came out earlier, Le Voyage En Douce or Cobwebs In Concrete?
+A: "Cobwebs In Concrete"
+Q: [EOQ]
+S: 0.0
+
+3f71d76208de11ebbd9eac1f6bf848b6
+Which film has the director who died earlier, Sam'S Boy or The Pioneers (1926 Film)?
+Q: Which film has the director who died earlier, Sam'S Boy or The Pioneers (1926 Film)?
+A: "The Pioneers (1926 Film)"
+Q: [EOQ]
+S: 0.0
+
+c3d904dc08fa11ebbdacac1f6bf848b6
+Which film came out earlier, Berkeley In The Sixties or Caesar Must Die?
+Q: Which film came out earlier, Berkeley In The Sixties or Caesar Must Die?
+A: "Berkeley In The Sixties"
+Q: [EOQ]
+S: 0.0
+
+fc031d360baf11ebab90acde48001122
+Who is the maternal grandfather of Berthold (Patriarch Of Aquileia)?
+Q: Who is the maternal grandfather of Berthold (Patriarch Of Aquileia)?
+A: "Fran\u00e7ois-Marie"
+Q: [EOQ]
+S: 0.0
+
+6ee0b385096d11ebbdafac1f6bf848b6
+Are both Chak 26/11-L, Chichawatni and Chah-E Ali Kapari located in the same country?
+Q: Are both Chak 26/11-L, Chichawatni and Chah-E Ali Kapari located in the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+6a3f3a92085d11ebbd5cac1f6bf848b6
+Which film has the director died later, God'S Will Be Done or Riding On Air?
+Q: Which film has the director died later, God'S Will Be Done or Riding On Air?
+A: "Riding On Air"
+Q: [EOQ]
+S: 0.0
+
+6ea43168084c11ebbd56ac1f6bf848b6
+Which film has the director born later, La Carapate or Rodeo Rhythm?
+Q: Which film has the director born later, La Carapate or Rodeo Rhythm?
+A: "Rodeo Rhythm"
+Q: [EOQ]
+S: 0.0
+
+333f458a0bde11eba7f7acde48001122
+Where did Mary Ann Angell's husband die?
+Q: Where did Mary Ann Angell's husband die?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+52ed2cb20bde11eba7f7acde48001122
+What is the place of birth of the director of film Panam (Film)?
+Q: What is the place of birth of the director of film Panam (Film)?
+A: "Mumbai"
+Q: [EOQ]
+S: 0.0
+
+78505ad8088c11ebbd6fac1f6bf848b6
+Which film has the director died later, The Fighting Fist Of Shanghai Joe or With Life And Soul?
+Q: Which film has the director died later, The Fighting Fist Of Shanghai Joe or With Life And Soul?
+A: "With Life And Soul"
+Q: [EOQ]
+S: 0.0
+
+9704513d099f11ebbdb0ac1f6bf848b6
+Which song was released earlier, Come And See Me or Hanging On To Nothing?
+Q: Which song was released earlier, Come And See Me or Hanging On To Nothing?
+A: "Come And See Me"
+Q: [EOQ]
+S: 0.0
+
+3b0bf1500bde11eba7f7acde48001122
+Where was the place of death of Enheduanna's father?
+Q: Where was the place of death of Enheduanna's father?
+A: "San Francisco"
+Q: [EOQ]
+S: 0.0
+
+3c10b1ba0bdb11eba7f7acde48001122
+What is the place of birth of Prince Nayef Bin Abdullah's father?
+Q: What is the place of birth of Prince Nayef Bin Abdullah's father?
+A: "Abu Dhabi"
+Q: [EOQ]
+S: 0.0
+
+16e20a3a0bde11eba7f7acde48001122
+Which country Li Lingrong's husband is from?
+Q: Which country Li Lingrong's husband is from?
+A: "China"
+Q: [EOQ]
+S: 0.0
+
+b72c73d3088611ebbd6dac1f6bf848b6
+Who was born later, Edwin Vose Sumner Jr. or Rene Röthke?
+Q: Who was born later, Edwin Vose Sumner Jr. or Rene Röthke?
+A: "Rene R\u00f6thke"
+Q: [EOQ]
+S: 0.0
+
+55c66eca093111ebbdaeac1f6bf848b6
+Which film came out earlier, 100,000 Cobbers or A Thousand Months?
+Q: Which film came out earlier, 100,000 Cobbers or A Thousand Months?
+A: "A Thousand Months"
+Q: [EOQ]
+S: 0.0
+
+8055aca40bdb11eba7f7acde48001122
+Which country the director of film Romanoff And Juliet (1961 Film) is from?
+Q: Which country the director of film Romanoff And Juliet (1961 Film) is from?
+A: "United States"
+Q: [EOQ]
+S: 0.0
+
+86aedade0baf11ebab90acde48001122
+Who is Archduke Charles Joseph Of Austria (1745–1761)'s father?
+Q: Who is Archduke Charles Joseph Of Austria (1745–1761)'s father?
+A: "Charles I of Austria"
+Q: [EOQ]
+S: 0.0

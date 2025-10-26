@@ -1,29 +1,29 @@
 jsonnet
-torch>=1.7,!=1.12.0
-git+https://github.com/huggingface/transformers.git@8637316e5e94ba0a2493e5df7846f2f23f46eaef
-accelerate==0.15.0
+torch
+transformers
+accelerate==1.4.0
 sentencepiece
 protobuf==3.19.0
-nltk
-scipy
-openai
-diskcache
-typing_extensions<4.6.0
-spacy==3.4.1 # Only for one of the experiments.
-rapidfuzz
+nltk==3.9.1 # nltk.download('stopwords')
+scipy==1.13.1
+openai==1.63.2
+diskcache==5.6.3
+typing_extensions
+spacy==3.8.3 # 运行python -m spacy download en_core_web_sm
+rapidfuzz==3.12.1
 datasets
 pandas
 requests
-tqdm
-ftfy
+tqdm==4.67.1
+ftfy==6.3.1
 ujson
-fastapi
-uvicorn[standard]
-elasticsearch==7.9.1
+fastapi==0.115.8
+uvicorn[standard]==0.34.0
+elasticsearch==7.16.3
 dill
-base58
+base58==2.1.1
 pygments
-beautifulsoup4
+beautifulsoup4==4.13.3
 blingfire
 wget
 black

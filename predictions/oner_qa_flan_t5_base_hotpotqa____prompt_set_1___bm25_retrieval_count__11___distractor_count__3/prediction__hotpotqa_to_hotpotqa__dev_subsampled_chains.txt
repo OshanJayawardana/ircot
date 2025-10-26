@@ -1,0 +1,800 @@
+
+5ae28c0a554299495565daaa
+What is the length of the river into which Pack Creek runs after it goes through the Spanish Valley? 
+A: ["Spanish Valley", "Spanish Creek (Plumas County, California)", "List of tributaries of Catawissa Creek", "Spanish Creek", "Beaverdam Run", "Valley Creek (Pennsylvania)", "Polk Valley Run", "Mahoning Creek (Susquehanna River)", "Pine Run (Mill Creek, Neshaminy Creek, Delaware River)", "Wairau Valley", "Run with the Pack"]
+Q: What is the length of the river into which Pack Creek runs after it goes through the Spanish Valley?
+A: ".7 mi"
+Q: [EOQ]
+S: 0.0
+
+5a8ed8b955429917b4a5bdd3
+North Midland Divisional Engineers took part in a battle during WWII that went on for how many weeks ?
+A: ["North Midland Divisional Engineers", "The Week the Women Went", "Decisive Battles of WWII: Korsun Pocket", "59th (Staffordshire) Divisional Engineers", "Secret Lives: Hidden Children and Their Rescuers During WWII", "North Midlands Shield", "Battle of Cisterna", "North Midlands Cup", "Midlands 2 West (North)"]
+Q: North Midland Divisional Engineers took part in a battle during WWII that went on for how many weeks ?
+A: "2 weeks"
+Q: [EOQ]
+S: 0.0
+
+5ae25c815542992decbdcccc
+What trio was the songwriter of "What Are We Doin' Lonesome" from?
+A: ["What Are We Doin' Lonesome", "What Are We Doin' in Love", "What We Been Doin", "What We Want, What We Get", "We Are Only What We Feel", "Where Do We Come From? What Are We? Where Are We Going?", "Doin' What She Likes", "What If We (song)", "The Wes Montgomery Trio", "What's Bootsy Doin'?", "What We Made"]
+Q: What trio was the songwriter of "What Are We Doin' Lonesome" from?
+A: "Larry Gatlin"
+Q: [EOQ]
+S: 0.0
+
+5ae12a4b55429920d52342df
+Baraki Barak District is situated in the western part of a province whose capital is what?
+A: ["Baraki Barak District", "Baraki Barak", "Baraki Rajan", "Baraki Barak airstrike", "Baraki District", "Baraki, Algiers", "Baraki, Afghanistan", "Baraki, Iran", "Asia Barak, Rudbar", "Barak, Kyrgyzstan", "Su\u0142kowo-Baraki"]
+Q: Baraki Barak District is situated in the western part of a province whose capital is what?
+A: "Baraki"
+Q: [EOQ]
+S: 0.0
+
+5a81b99c5542995ce29dcc56
+Atlas Shrugged was a film based on the books by a proponent of what philosophy?
+A: ["Atlas Shrugged (film series)", "Atlas Shrugged: Part II", "Atlas Shrugged", "List of Atlas Shrugged characters", "Atlas Shrugged Part III: Who Is John Galt?", "Atlas Shrugged: Part I", "Atlas (film)", "Shoulder shrug", "John Galt (disambiguation)", "Shrug (clothing)", "List of films based on film books"]
+Q: Atlas Shrugged was a film based on the books by a proponent of what philosophy?
+A: "Objectivism"
+Q: [EOQ]
+S: 0.0
+
+5ab29486554299545a2cf9a4
+Which has more members, Dada or Alt-J?
+A: ["Alt-J", "Alt-J discography", "Ronnie Alting", "Dada (Dada album)", "Alt.* hierarchy", "Sonia Dada", "Vachara Dada", "Dada (disambiguation)", "Ron Alting", "Dada-Review", "Dada Manifesto"]
+Q: Which has more members, Dada or Alt-J?
+A: "Dada"
+Q: [EOQ]
+S: 0.0
+
+5ab736a65542992aa3b8c7db
+ "She's a Mystery to Me" is a song on an album released in 1989 by what label?
+A: ["She's a Mystery to Me", "She's with Me", "Release Me (Lyle Lovett album)", "She Loves Me Not (song)", "Trick Me", "She's Not Me", "Sherry She Needs Me", "Mystery Song", "Mystery to Me", "She Drives Me Crazy", "Release Me (The Like album)"]
+Q: "She's a Mystery to Me" is a song on an album released in 1989 by what label?
+A: "RCA Records"
+Q: [EOQ]
+S: 0.0
+
+5ab90d8955429916710eb0f1
+Jalen Jones plays basketball for an NBA team that plays their home games in what arena?
+A: ["Jalen Jones", "2003 NBA All-Star Game", "2000 NBA All-Star Game", "List of games played between NBA and international teams", "NBA Global Games", "Washington NBA G League team", "Jalen Rose", "NBA Africa Game 2015", "Eddie Jones (basketball)", "2004 NBA All-Star Game", "2001 NBA All-Star Game"]
+Q: Jalen Jones plays basketball for an NBA team that plays their home games in what arena?
+A: "New Orleans Pelicans"
+Q: [EOQ]
+S: 0.0
+
+5ae0aaf35542993d6555ec02
+What was the former name of the stadium, from 1997-2017, where the Aztecs play?
+A: ["2017 San Diego State Aztecs football team", "Aztec Bowl (stadium)", "SDCCU Stadium", "2017 NHL Stadium Series", "Aztec Code", "Aztec", "Aztec mythology", "1997 San Diego State Aztecs football team", "Aztec slavery", "Aztec architecture", "Aztec Motel"]
+Q: What was the former name of the stadium, from 1997-2017, where the Aztecs play?
+A: "SDCCU Stadium"
+Q: [EOQ]
+S: 0.0
+
+5ac344d6554299741d48a23f
+What is the gross leasable area of the shopping mall served by the Merrick Boulevard buses?
+A: ["List of largest shopping malls", "List of largest shopping malls in Thailand", "List of shopping malls in India", "Oakdale Mall", "List of shopping malls in Belgium", "List of shopping malls in California", "List of largest shopping malls in Nigeria", "Merrick Boulevard buses", "Boulevard Mall", "Mercato Shopping Mall", "Ledgewood Mall"]
+Q: What is the gross leasable area of the shopping mall served by the Merrick Boulevard buses?
+A: "904,000 square feet"
+Q: [EOQ]
+S: 0.0
+
+5ac2cb125542996773102626
+Are both Leycesteria and Anigozanthos native to Australia?
+A: ["Leycesteria", "Anigozanthos humilis", "Leycesteria formosa", "Anigozanthos preissii", "Anigozanthos manglesii", "Anigozanthos", "Anigozanthos flavidus", "Australian Native Plants Society", "Native title legislation in Australia", "Native title in Australia", "List of mammals of Western Australia"]
+Q: Are both Leycesteria and Anigozanthos native to Australia?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5abb02fe554299232ef4a39f
+Anna Aglatova made her first public appearance at which Moscow theatre in 2005?
+A: ["Anna Aglatova", "Anna of Moscow", "Moscow Satire Theatre", "Moscow Art Theatre", "Anna Kyoyama", "Anna Scher Theatre", "List of first appearances in Marvel Comics publications", "Maly Theatre (Moscow)", "Anna Krauja", "Moscow Pushkin Drama Theatre", "Her Majesty's Theatre"]
+Q: Anna Aglatova made her first public appearance at which Moscow theatre in 2005?
+A: "Bolshoi Theatre"
+Q: [EOQ]
+S: 0.0
+
+5ae4bc7955429913cc2044e9
+To which competition did the University at Albany, SUNY send a Puerto Rican hurdler and sprinter?
+A: ["University at Albany, SUNY", "Grace Claxton", "Puerto Rican citizenship", "Puerto Rican nesophontes", "Puerto Rican parakeet", "Puerto Ricans", "SUNY Polytechnic Institute", "Asian Puerto Rican", "List of Stateside Puerto Ricans", "Puerto Rican spindalis", "Puerto Rican flycatcher"]
+Q: To which competition did the University at Albany, SUNY send a Puerto Rican hurdler and sprinter?
+A: "World Indoor Championships"
+Q: [EOQ]
+S: 0.0
+
+5a7b1c745542992d025e6777
+What was unique about the attraction that was replaced by Monsters, Inc. Laughing Floor on April 2,2007?
+A: ["Monsters, Inc. Laugh Floor", "Monsters, Inc. Ride &amp; Go Seek", "Monster from the Ocean Floor", "List of Monsters, Inc. characters", "Monsters, Inc. (franchise)", "Monsters, Inc. Scream Team", "Monsters, Inc. Mike &amp; Sulley to the Rescue!", "Monsters, Inc.", "Tickle monster", "Monsters, Inc. Scream Arena", "Monsters, Inc. (video game)"]
+Q: What was unique about the attraction that was replaced by Monsters, Inc. Laughing Floor on April 2,2007?
+A: "The Timekeeper"
+Q: [EOQ]
+S: 0.0
+
+5abd583255429924427fcfb9
+Both Olaf Eller and Lars Eller are involved in which sport?
+A: ["Olaf Eller", "Lars Eller", "D\u00fcsseldorf-Eller", "Fabiano Eller", "Eller (Rhume)", "Geroder Eller", "Weilroder Eller", "Nino Eller", "C\u00e1ssia Rock Eller", "Eller College of Management", "Karl Eller"]
+Q: Both Olaf Eller and Lars Eller are involved in which sport?
+A: "ice hockey"
+Q: [EOQ]
+S: 0.0
+
+5a7621bb554299109176e650
+ Which album did the band Kraftwerk release after their successful album which reached number 25 on the US "Billboard" Hot 100 chart?
+A: ["Autobahn (album)", "Brigade (album)", "Hot Chocolate (album)", "Kraftwerk (album)", "In Action (Johnny Rivers album)", "Side 3 (Raspberries album)", "Shang\u00f3 (Santana album)", "Toni Basil (album)", "SMAP 25 Years", "Yeah! (Brownsville Station album)", "Killer (Alice Cooper album)"]
+Q: Which album did the band Kraftwerk release after their successful album which reached number 25 on the US "Billboard" Hot 100 chart?
+A: "The Road"
+Q: [EOQ]
+S: 0.0
+
+5ae048a255429924de1b708e
+What movie did Pitof direct which had an action-adventure tie-in video game based off of it in 2004?
+A: ["Action-adventure game", "Catwoman (video game)", "The Lego Ninjago Movie Video Game", "Bill &amp; Ted's Excellent Video Game Adventure", "Conan (2004 video game)", "The Polar Express (video game)", "Goosebumps (video game series)", "Angry Video Game Nerd: The Movie", "Clever &amp; Smart - A Movie Adventure", "Madagascar (video game)", "King Arthur (video game)"]
+Q: What movie did Pitof direct which had an action-adventure tie-in video game based off of it in 2004?
+A: "King Arthur"
+Q: [EOQ]
+S: 0.0
+
+5a7302b75542991f9a20c5fd
+What supernatural horror film did Miles Doleac have a role in?
+A: ["Miles Doleac", "The Penguin Encyclopedia of Horror and the Supernatural", "The Supernaturals (film)", "Horror film", "Supernatural (film)", "Mile High Horror Film Festival", "Supernatural Horror in Literature", "Michael Doleac", "The Historian (film)", "Supernatural Role Playing Game", "Horror films of Cambodia"]
+Q: What supernatural horror film did Miles Doleac have a role in?
+A: "The Historian"
+Q: [EOQ]
+S: 0.0
+
+5ab428915542991751b4d6b2
+Who acted in the film and television series, "Harry and the Hendersons," and also worked with Danny Glover?
+A: ["Harry and the Hendersons (TV series)", "Danny Glover", "Harry and the Hendersons", "Anwan Glover", "Danny Mulheron", "Andron (film)", "Harry Henderson (boxer)", "Harry Potter (film series)", "Harry Henderson (footballer)", "Simon Says (film)", "Gone Fishin' (film)"]
+Q: Who acted in the film and television series, "Harry and the Hendersons," and also worked with Danny Glover?
+A: "John Lithgow"
+Q: [EOQ]
+S: 0.0
+
+5a84bbb35542991dd0999dc0
+Mother and daughter duo Indian actresses appear in which type of films
+A: ["Mothers &amp; Daughters (film)", "Sindhu (actress)", "Daughters of Mother India", "List of Indian film actresses", "Daughters, Wives and a Mother", "Nakshatra (actress)", "Uma (actress)", "Mothers and Daughters (book)", "Mother's Daughter", "Mothers and Daughters (2016 film)", "When the Mother and the Daughter"]
+Q: Mother and daughter duo Indian actresses appear in which type of films
+A: "Indian film"
+Q: [EOQ]
+S: 0.0
+
+5ae4988655429970de88d9c1
+Which is a post-punk band, Boy Hits Car or The The?
+A: ["Boy Hits Car (album)", "List of post-punk bands", "The Passage (Boy Hits Car album)", "Boy Hits Car", "List of post-punk revival bands", "Boy Crisis", "Stealing Fire (Boy Hits Car album)", "The Boys (English band)", "Downtown Boys (band)", "Hit-and-run posting", "Trash Hit"]
+Q: Which is a post-punk band, Boy Hits Car or The The?
+A: "Boy Hits Car"
+Q: [EOQ]
+S: 0.0
+
+5ae0198455429942ec259c1e
+How many times did the man who coached the 1986-87 UNLV Runnin' Rebels fail to win 20 games in a season?
+A: ["1986\u201387 UNLV Runnin' Rebels basketball team", "2013\u201314 UNLV Runnin' Rebels basketball team", "UNLV Runnin' Rebels basketball", "2017\u201318 UNLV Runnin' Rebels basketball team", "2011\u201312 UNLV Runnin' Rebels basketball team", "2009\u201310 UNLV Runnin' Rebels basketball team", "2010\u201311 UNLV Runnin' Rebels basketball team", "2014\u201315 UNLV Runnin' Rebels basketball team", "1990\u201391 UNLV Runnin' Rebels basketball team", "2012\u201313 UNLV Runnin' Rebels basketball team"]
+Q: How many times did the man who coached the 1986-87 UNLV Runnin' Rebels fail to win 20 games in a season?
+A: 2
+Q: [EOQ]
+S: 0.0
+
+5adf123f5542995ec70e8f63
+Who are the executive producer of the Adult Swim skit show that Odd Future had?
+A: ["Odd Future", "Odd Future Records", "Adult Swim (Australia)", "The Odd Future Tape", "Adult Swim", "Odd Job Jack", "Adult Swim (Canada)", "12 Odd Future Songs", "Adult Swim (UK &amp; Ireland)", "Executive producer", "Adult Digital Distraction"]
+Q: Who are the executive producer of the Adult Swim skit show that Odd Future had?
+A: "Tyler, The Creator"
+Q: [EOQ]
+S: 0.0
+
+5a7b81715542997c3ec971d4
+The author of the "The Dagger and the Coin" fantasy series was nominated for what award in 2017?
+A: ["The Dagger and the Coin", "The Dragon's Dagger", "British Movie Nominations Awards 2017", "Dagger category", "Fantasy author", "CWA International Dagger", "Saturn Award for Best Fantasy Television Series", "Dagger in the Library", "List of fantasy authors", "Cloak and Dagger (radio series)", "World Fantasy Award\u2014Collection"]
+Q: The author of the "The Dagger and the Coin" fantasy series was nominated for what award in 2017?
+A: "British Movie Nominations Awards"
+Q: [EOQ]
+S: 0.0
+
+5ae3dce45542994393b9e783
+Oak Beach, New York and Great South Bay are both situated between what same island?
+A: ["Oak Beach, New York", "Great South Bay", "Oak Beach\u2013Captree, New York", "Great South Bay Bridge", "Gilgo-Oak Beach-Captree, New York", "South Oak Bay", "Oak Beach Inn", "South Oyster Bay", "Great River, New York", "South Beach, Staten Island", "Lower South Bay, New York"]
+Q: Oak Beach, New York and Great South Bay are both situated between what same island?
+A: "Long Island"
+Q: [EOQ]
+S: 0.0
+
+5a8c4c625542995e66a475a1
+Which airplane was this Major test-flying after whom the base, that 514th Flight Test Squadron is stated at, is named?
+A: ["514th Flight Test Squadron", "417th Flight Test Squadron", "370th Flight Test Squadron", "586th Flight Test Squadron", "461st Flight Test Squadron", "339th Flight Test Squadron", "40th Flight Test Squadron", "415th Flight Test Flight", "416th Flight Test Squadron"]
+Q: Which airplane was this Major test-flying after whom the base, that 514th Flight Test Squadron is stated at, is named?
+A: "Lockheed C-130"
+Q: [EOQ]
+S: 0.0
+
+5ab874ba5542990e739ec904
+The Twelfth United States Army Group commander was the first chairman of what?
+A: ["Twelfth United States Army Group", "First United States Army Group", "United States Army Sustainment Command", "Fourteenth United States Army", "Commanding General, United States Army Forces Command", "United States Army Reserve Command", "United States Army Human Resources Command", "Sixth United States Army Group", "Commanding General, United States Army Europe", "Commanding General of the United States Army", "First United States Army"]
+Q: The Twelfth United States Army Group commander was the first chairman of what?
+A: "the United States Army"
+Q: [EOQ]
+S: 0.0
+
+5ade881f5542992fa25da7af
+Heinrich Scholz was a peer of what English computer scientist, mathematician, logician, cryptanalyst, philosopher and theoretical biologist?
+A: ["Alan Turing", "Heinrich Scholz", "Turing (disambiguation)", "Computer scientist", "Ray Turner (computer scientist)", "Computability in Europe", "Stathis Zachos", "Heinrich Scholz (entomologist)", "Ernst Mayr (computer scientist)", "Mark Braverman (mathematician)", "Computational scientist"]
+Q: Heinrich Scholz was a peer of what English computer scientist, mathematician, logician, cryptanalyst, philosopher and theoretical biologist?
+A: "Alan Turing"
+Q: [EOQ]
+S: 0.0
+
+5a7da6015542995f4f40229d
+What was the third studio album released by Richard Melville Hall?
+A: ["Melville (album)", "For the Birds (The Mess Hall album)", "Third Generation (album)", "Little Richard (album)", "Thirds (album)", "The Third Album (Barbra Streisand album)", "Andrew Melville Hall", "Third Strike (album)", "Electric (Richard Thompson album)", "Megatone (Richard Wahnfried album)", "Third Album"]
+Q: What was the third studio album released by Richard Melville Hall?
+A: "Third Strike"
+Q: [EOQ]
+S: 0.0
+
+5a80f42b55429938b614226c
+When was the medieval fortress abandoned that is to the north of Yellowcraig?
+A: ["Yellowcraigs", "Glamo\u010d Fortress", "T\u00f8nsberg Fortress", "Ozark Medieval Fortress", "Ba\u010d Fortress", "Zve\u010dan Fortress", "The Fortress Series", "Potravlje Fortress", "Fortress of Doboj", "Pirot Fortress", "Bora\u010d Fortress"]
+Q: When was the medieval fortress abandoned that is to the north of Yellowcraig?
+A: 2009
+Q: [EOQ]
+S: 0.0
+
+5a73090455429901807daf6e
+Vocelli Pizza and Noble Roman's serve which kind of food?
+A: ["Vocelli Pizza", "Noble Roman's", "Pizza saver", "Greek pizza", "Pizza box", "Peppes Pizza", "Pizza Pizza", "Pizza rolls", "Four Star Pizza", "Pizza Etang", "Apache Pizza"]
+Q: Vocelli Pizza and Noble Roman's serve which kind of food?
+A: "pizza"
+Q: [EOQ]
+S: 0.0
+
+5ae377415542992e3233c40a
+Which author was a dentist, Zane Grey or Bhabananda Deka?
+A: ["Zane Grey Cabin", "Zane Grey Estate", "Zane Grey", "Romer Zane Grey", "Zane Grey Museum", "Bhabananda Deka", "Dick Powell's Zane Grey Theatre", "Nalini Prava Deka", "Zane", "Zane (author)", "Timeless (Jim Ankan Deka album)"]
+Q: Which author was a dentist, Zane Grey or Bhabananda Deka?
+A: "Zane Grey"
+Q: [EOQ]
+S: 0.0
+
+5a78f59755429970f5fffdf7
+Mick Carter is the landlord of a public house located at what address?
+A: ["Mick Carter", "Carter\u2013Jones House", "Landlord Law &amp; Multi-housing Report", "Fred Carter House", "Landlords' Party", "Landlord", "Landlord's lien", "Landlord (disambiguation)", "Walde\u2013Carter House", "House of Carters", "Carter\u2013Gilmer House"]
+Q: Mick Carter is the landlord of a public house located at what address?
+A: "30 Carter Street"
+Q: [EOQ]
+S: 0.0
+
+5abc817c5542993a06baf8fd
+"This Ole House" topped the UK chart in 1981 in a recording by a platinum-selling British rock and roll singer whose recording and performing career began when? 
+A: ["This Ole House (album)", "This Ole House", "Shakin' Stevens", "Rock 'n Roll Records", "Record chart", "All Platinum Records", "Chart recorder", "Rocking and rolling", "Rolling Stones Records", "Raucous Records", "Texas Rock and Roll"]
+Q: "This Ole House" topped the UK chart in 1981 in a recording by a platinum-selling British rock and roll singer whose recording and performing career began when?
+A: "1960s"
+Q: [EOQ]
+S: 0.0
+
+5a8b98665542995d1e6f1413
+What is name of one of the primary holders of Schottenstein Stores Corp which was born in 1954?
+A: ["Schottenstein Stores", "Jerome Schottenstein", "Jay Schottenstein", "Schottenstein campus", "Schottenstein Center, Ohio 2005", "Schottenstein Edition of the Babylonian Talmud", "Gas holder", "Holderness (borough)", "HMS Holderness", "Value City", "Number-one ticket holder"]
+Q: What is name of one of the primary holders of Schottenstein Stores Corp which was born in 1954?
+A: "Jay Schottenstein"
+Q: [EOQ]
+S: 0.0
+
+5abec9b25542997ec76fd366
+What city was the capital of the Ostrogothic Kingdom and the birth place of Ornella Fiorentini?
+A: ["Ornella Fiorentini", "Ostrogothic Kingdom", "Ostrogothic Ravenna", "Place of birth", "Ostrogoths", "Ostrogothic Papacy", "Fiorentini", "Ornella", "Ornella Muti", "Capital Cities and Tombs of the Ancient Koguryo Kingdom", "Ostrogoth (band)"]
+Q: What city was the capital of the Ostrogothic Kingdom and the birth place of Ornella Fiorentini?
+A: "Ravenna"
+Q: [EOQ]
+S: 0.0
+
+5a8a833855429970aeb702fe
+How many rooms are in the hotel that is home to the Cirque du Soleil show Mystere?
+A: ["Myst\u00e8re (Cirque du Soleil)", "Volta (Cirque du Soleil)", "Delirium (Cirque du Soleil)", "Totem (Cirque du Soleil)", "Luzia (Cirque du Soleil)", "Cirque du Soleil discography", "Zed (Cirque du Soleil)", "Cirque du Soleil: Fire Within", "Alegr\u00eda (Cirque du Soleil)", "Cirque du Soleil Theme Park", "Love (Cirque du Soleil)"]
+Q: How many rooms are in the hotel that is home to the Cirque du Soleil show Mystere?
+A: 62
+Q: [EOQ]
+S: 0.0
+
+5a79cd395542994bb94570be
+What year was the recipient of the 2016 Best Footballer in Asia born?
+A: ["Best Footballer in Asia 2016", "Best Footballer in Asia", "Best Footballer in Asia 2014", "Best Footballer in Asia 2015", "Best Footballer in Asia 2013", "The Best FIFA Football Awards 2016", "2016 Badminton Asia Junior Championships", "Asian Young Footballer of the Year", "2016 TCR Asia Series", "2016 UCI Asia Tour", "Romanian Footballer of the Year"]
+Q: What year was the recipient of the 2016 Best Footballer in Asia born?
+A: ""
+Q: [EOQ]
+S: 0.0
+
+5a7793275542992a6e59df04
+Which country is the firm that owns Babycham located?
+A: ["Babycham", "The Firm (brand)", "Architectural firm", "God's Own Country (2014 film)", "List of seawatching locations by country", "Economics of location", "Location theory", "Country Willie \u2013 His Own Songs", "The Flick Law Firm", "God's Own Country", "List of hooligan firms"]
+Q: Which country is the firm that owns Babycham located?
+A: "England"
+Q: [EOQ]
+S: 0.0
+
+5ab92f52554299131ca422a9
+Of what ethnicity is the founder of the Orchestra which debuted on January 1, 1988?
+A: ["Concerto for Orchestra No. 1 (Stucky)", "List of VFL debuts in 1988", "Johann Strauss Orchestra", "1988 1. deild", "Savannah Philharmonic Orchestra", "Australian Brandenburg Orchestra", "Symphony No 1 for Orchestra and Turntables", "Cadaqu\u00e9s Orchestra", "Suite for Jazz Orchestra No. 1 (Shostakovich)", "The Orchestra and Its Instruments", "Orchestra (album)"]
+Q: Of what ethnicity is the founder of the Orchestra which debuted on January 1, 1988?
+A: "German"
+Q: [EOQ]
+S: 0.0
+
+5a8c5d3f554299585d9e3675
+Which band formed first Cha Cha Cohen or Swervedriver?
+A: ["Cha Cha Cohen", "Cha Cha Cha Films", "Cha Cha Cha (EMF album)", "Cha Cha (soundtrack)", "Della Della Cha-Cha-Cha", "Las Viudas del Cha Cha Cha", "Cha Cha Sing", "Cha cha cha (film)", "Cha Cha Twist", "The Cha-Cha-Cha", "Dracula Cha Cha Cha"]
+Q: Which band formed first Cha Cha Cohen or Swervedriver?
+A: "Cha Cha Cohen"
+Q: [EOQ]
+S: 0.0
+
+5a85fa815542996432c57155
+Where was the movement that August Brancart published literature from centerd?
+A: ["Auguste Brancart", "Taiwanese literature movement", "Evelyne Brancart", "August 29th Movement", "People's Literature Publishing House", "The Symbolist Movement in Literature", "The Movement (literature)", "Panamanian literature", "National Temperance Society and Publishing House", "International Catalogue of Scientific Literature", "List of 18th-century British children's literature publishers"]
+Q: Where was the movement that August Brancart published literature from centerd?
+A: "United Kingdom of Great Britain and Northern Ireland"
+Q: [EOQ]
+S: 0.0
+
+5a72634d5542997f82783994
+what city will host the event in which marie gisele eleme asse won twoo medals in 2017
+A: ["Marie Gis\u00e8le Eleme Asse", "Eleme language", "Creole Giselle", "Giselle Bissot", "Giselle Bellas", "Eleme, Mali", "The Gisele MacKenzie Show", "Eleme people", "Giselle", "Giselle Blondet", "Eleme, Ghana"]
+Q: what city will host the event in which marie gisele eleme asse won twoo medals in 2017
+A: "Paris"
+Q: [EOQ]
+S: 0.0
+
+5ab9cfe655429970cfb8ebaf
+Walt Disney World Quest: Magical Racing Tour includes the space-themed roller coaster that was opened on what date?
+A: ["Walt Disney World Quest: Magical Racing Tour", "The Magic of Walt Disney World", "Space Mountain (Magic Kingdom)", "Walt Disney World", "Rock 'n' Roller Coaster Starring Aerosmith", "Space Mountain", "Magic Flyer (roller coaster)", "Crush's Coaster", "Space Mountain (Disneyland)", "Walt Disney World Company", "Walt Disney Parks and Resorts"]
+Q: Walt Disney World Quest: Magical Racing Tour includes the space-themed roller coaster that was opened on what date?
+A: "May 27, 1977"
+Q: [EOQ]
+S: 0.0
+
+5a79f27e5542990198eaf014
+Who was born first Dame Zara Kate Bate or Harold Edward Holt?
+A: ["Zara Bate", "Harold Holt (disambiguation)", "Who Killed Harold Holt?", "Harold Holt", "Edward Holt", "Kate Holt", "Edward Bates (disambiguation)", "USS Harold E. Holt (FF-1074)", "Bela Bates Edwards", "Edward Bates", "Harold Edwards (mathematician)"]
+Q: Who was born first Dame Zara Kate Bate or Harold Edward Holt?
+A: "Harold Edward Holt"
+Q: [EOQ]
+S: 0.0
+
+5add870b5542995b365fab3c
+Which actor starred in both "The Best Years of Our Lives" in 1946 and "The Crowded Sky" in 1960?
+A: ["The Best Years of Our Lives (disambiguation)", "The Crowded Sky", "Best Years of Our Lives (song)", "The Best Years of Our Lives", "The Best Years of Our Lives (Steve Harley &amp; Cockney Rebel album)", "Our Crowd", "And the Sky Full of Stars", "Best Night of Our Lives", "The Best Years of Our Lives (Neil Diamond album)", "PMPC Star Award for Best Drama Actor and Actress"]
+Q: Which actor starred in both "The Best Years of Our Lives" in 1946 and "The Crowded Sky" in 1960?
+A: "Hank Searls"
+Q: [EOQ]
+S: 0.0
+
+5a8f93f5554299458435d67e
+The name od the Jason Hook album "Safety Dunce" is a play on the words of a song released in what year? 
+A: ["Safety Dunce", "Jason Hook", "Dunce", "Zmaj od No\u0107aja (album)", "Hooked on a Feeling (album)", "Ode to Joy (album)", "The Hook (album)", "Hooks (album)", "Odes (album)", "The Word (song)", "Ode to Boy"]
+Q: The name od the Jason Hook album "Safety Dunce" is a play on the words of a song released in what year?
+A: 2007
+Q: [EOQ]
+S: 0.0
+
+5a7b782455429927d897bfd7
+Staten Island Summer, starred what actress who was a cast member of "Saturday Night Live"?
+A: ["Saturday Night Live cast members", "List of recurring Saturday Night Live characters and sketches by cast member", "Saturday Night Live", "List of Saturday Night Live guests", "Saturday Night Live in the 2000s", "Saturday Night Live Band", "Le Saturday Night Live", "Saturday Night Live from Milano", "Live from New York, it's Saturday Night!", "Saturday Night Live parodies of Sarah Palin", "Staten Island Cakes"]
+Q: Staten Island Summer, starred what actress who was a cast member of "Saturday Night Live"?
+A: "Tina Fey"
+Q: [EOQ]
+S: 0.0
+
+5ab9b1fd5542996be202058e
+What is the most populous city in the county where Caleb Stegall served as District attorney?
+A: ["Caleb Stegall", "Kings County District Attorney", "District Attorney of Philadelphia", "Bronx County District Attorney", "City Attorney of San Francisco", "Queens County District Attorney", "Milwaukee County District Attorney", "Stegall, Arkansas", "Texas District and County Attorneys Association", "County attorney", "Allegheny County District Attorney"]
+Q: What is the most populous city in the county where Caleb Stegall served as District attorney?
+A: "Perry"
+Q: [EOQ]
+S: 0.0
+
+5ae375955542990afbd1e15d
+what is the group called that Dianne Morgan and Joe Wilkinson a part of in the BBC comedy "Two Episodes of Mash"
+A: ["Diane Morgan", "Dianne Wilkinson", "Two-part episode", "Live at the Electric", "Joe Wilkinson", "Joe Wilkinson (disambiguation)", "Mashing", "Wilkinson Call", "Comedy Nation", "Live from the BBC", "Comedy Cabaret"]
+Q: what is the group called that Dianne Morgan and Joe Wilkinson a part of in the BBC comedy "Two Episodes of Mash"
+A: "Totally Tom"
+Q: [EOQ]
+S: 0.0
+
+5ae2fa1b55429928c4239583
+Masters and Johnson labeled the orgasmic platform while researching what?
+A: ["Orgasmic platform", "Masters and Johnson", "Master of Research", "Masters and Johnson Institute", "The Myth of the Vaginal Orgasm", "The Littlest Orgasm", "Uterine orgasm", "Orgasm (Alan Shorter album)", "Fake orgasm", "Forced orgasm", "Orgasm Addict"]
+Q: Masters and Johnson labeled the orgasmic platform while researching what?
+A: "human sexual response"
+Q: [EOQ]
+S: 0.0
+
+5a8347d65542996488c2e3f6
+in the 2004 Hockey film produced by a former major league baseball pitcher who played the USA coach?
+A: ["List of Major League Baseball career putouts as a pitcher leaders", "List of Major League Baseball Opening Day starting pitchers", "Major League Baseball Pitcher of the Month Award", "Dan Meyer (pitcher)", "Mark Johnson (pitcher)", "Roger Craig (baseball)", "Jeff Jones (pitcher)", "List of Major League Baseball all-time leaders in home runs by pitchers", "List of Major League Baseball pitchers who have thrown an immaculate inning", "2004 Major League Baseball All-Star Game", "List of Major League Baseball triple plays"]
+Q: in the 2004 Hockey film produced by a former major league baseball pitcher who played the USA coach?
+A: "bobby savage"
+Q: [EOQ]
+S: 0.0
+
+5ab969ca55429970cfb8eac9
+Where is Anticimex's parent company headquartered?
+A: ["Anticimex", "Parent company", "Parent company guarantee", "Headquarters and Headquarters Company (United States)", "Headquarters and Service Company", "List of companies headquartered in San Diego", "List of companies headquartered in Moncton", "Parenting (magazine)", "Reynolds Metals Company International Headquarters", "List of companies headquartered in Northern Virginia", "Becton, Dickinson and Company headquarters"]
+Q: Where is Anticimex's parent company headquartered?
+A: "Franklin Lakes, New Jersey"
+Q: [EOQ]
+S: 0.0
+
+5a8e40f65542995a26add498
+This cabin built in 1925 is located in a park encompasses over 1 million acre and includes parts of two what?
+A: ["Settlers Cabin Park", "Lower Park Creek Patrol Cabin", "Glacier National Park (U.S.)", "Botten Cabin", "Timberline Cabin", "Conant's Cabin and Park", "Upper Park Creek Patrol Cabin", "Kirk's Cabin Complex", "Corbin Cabin", "A Million Wild Acres", "Hodgdon Homestead Cabin"]
+Q: This cabin built in 1925 is located in a park encompasses over 1 million acre and includes parts of two what?
+A: "mountain ranges"
+Q: [EOQ]
+S: 0.0
+
+5ae7f7ec554299540e5a56de
+ Still Reigning is a live performance DVD that showcases an album described by Kerrang! as what?
+A: ["Still Reigning", "Still Live (The Clarks album)", "Pepper LIVE DVD", "Live at the Bass Performance Hall", "Live (Korn DVD)", "Kerrang! Awards", "Reign in Blood", "Live at the Fillmore (Ozomatli album)", "Live at the Ventura Theatre (Switchfoot DVD)", "Kerrang! TV", "Live at Paradiso"]
+Q: Still Reigning is a live performance DVD that showcases an album described by Kerrang! as what?
+A: "the heaviest album of all"
+Q: [EOQ]
+S: 0.0
+
+5a72b8de5542994cef4bc3df
+Which runner-up from "American Idol" wrote country song "Next Boyfriend"?
+A: ["Next Boyfriend", "American Idol: Greatest Moments", "List of American Idol Hot 100 singles", "Boyfriend (RaeLynn song)", "Super Idol 2004", "Boyfriend (Alphabeat song)", "Runner-up", "Going Up the Country", "Idols 1", "Idols 2", "Idols 3"]
+Q: Which runner-up from "American Idol" wrote country song "Next Boyfriend"?
+A: "Raffala Paton"
+Q: [EOQ]
+S: 0.0
+
+5a832e715542990548d0b1bf
+What annual gathering that inlcudes David Starfire takes place at Black Rock City?
+A: ["David Starfire", "Gathering place", "Starfire (Star Hunters)", "The Starfires", "Black Rock City, LLC", "Starfire (album)", "Oldsmobile Starfire", "The Starfires (Cleveland band)", "Burning Man", "Rock the Universe", "Starfire Firebolt"]
+Q: What annual gathering that inlcudes David Starfire takes place at Black Rock City?
+A: "Burning Man"
+Q: [EOQ]
+S: 0.0
+
+5abc2e1c554299700f9d7806
+How many months apart are Johan Mjällby and Neil Lennon in age?
+A: ["Johan Mj\u00e4llby", "Neil Lennon", "Mj\u00e4llby", "Johan Svensson", "Mj\u00e4llby AIF", "Lennon Bermuda", "Mansion of Many Apartments", "Cynthia Lennon", "Lennon (box set)", "Month", "The Many Sides of Neil Sedaka"]
+Q: How many months apart are Johan Mjällby and Neil Lennon in age?
+A: 2
+Q: [EOQ]
+S: 0.0
+
+5a85ab905542994c784ddb35
+Two positions were filled in The Voice of Ireland b which British-Irish girl group based in London, England?
+A: ["The Irish Workers' Voice", "Irish Girl Guides", "British and Irish Communist Organisation", "List of Girls Aloud concert tours", "London Irish Rifles", "London Defence Positions", "Irish Voice", "Irish Whale and Dolphin Group", "The Voice of Ireland (series 4)", "London Irish Centre", "Reform Group (Ireland)"]
+Q: Two positions were filled in The Voice of Ireland b which British-Irish girl group based in London, England?
+A: "Girls Aloud"
+Q: [EOQ]
+S: 0.0
+
+5ac282875542996773102546
+Is James Bourne a band member of both McBusted and The Auteurs?
+A: ["McBusted", "James Bourne", "McBusted's Most Excellent Adventure Tour", "McBusted Tour", "The Auteur", "The Auteurs", "McBusted (album)", "Air Guitar (song)", "James Bourne discography", "Bourne baronets", "Bourne Academy"]
+Q: Is James Bourne a band member of both McBusted and The Auteurs?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5a710a915542994082a3e504
+Which of these men, Scott Treleaven and Edmund Mortimer, is credited with working in both films and photography?
+A: ["Scott Treleaven", "Edmund Mortimer, 2nd Baron Mortimer", "Edmund Mortimer (actor)", "Edmund Mortimer (1302\u20131331)", "Edmund Mortimer, 5th Earl of March", "Edmund Mortimer McDonald", "Sarah Mortimer", "Edmund Mortimer, 3rd Earl of March", "Ross Treleaven", "Freeman Ferrier Treleaven", "Dick Treleaven"]
+Q: Which of these men, Scott Treleaven and Edmund Mortimer, is credited with working in both films and photography?
+A: "Edmund Mortimer"
+Q: [EOQ]
+S: 0.0
+
+5ae254565542992decbdccbb
+In what year was the writer of the drama "Ingenious" born?
+A: ["Ingenious (2009 British film)", "Ingenious (board game)", "Ingenious Media", "Ingenious Pain", "Ingenious Minds", "Ingenious Animals", "A Complete Collection of Genteel and Ingenious Conversation", "Patrick McKenna (Ingenious Media)", "Writers Guild of America Award for Television: Episodic Drama", "Machinations: An Anthology of Ingenious Designs", "Year Zero (audio drama)"]
+Q: In what year was the writer of the drama "Ingenious" born?
+A: 1903
+Q: [EOQ]
+S: 0.0
+
+5ade949b5542997c77adee63
+The city Charles Prince Airport is approximately 16 km northwest of was called Salisbury until what year?
+A: ["Charles Prince Airport", "Taechon Northwest Airport", "Salisbury\u2013Ocean City\u2013Wicomico Regional Airport", "City of Salisbury", "Kajaani Airport", "Kor\u00e7\u00eb Northwest Airport", "Irkutsk Northwest Airport", "Lake Charles Regional Airport", "Calling Lake Airport", "Northwest Arkansas Regional Airport", "Prince George Airport"]
+Q: The city Charles Prince Airport is approximately 16 km northwest of was called Salisbury until what year?
+A: 1903
+Q: [EOQ]
+S: 0.0
+
+5a7c67c15542990527d55498
+Who was the electoral division that James Tully  represented in 1928 named after?
+A: ["Electoral division of Gillen", "Roger Tully", "Electoral division of Rosevears", "Electoral division of Prosser", "Bradgate Electoral Division", "Electoral division of Windermere", "Electoral division of Palmerston", "Electoral division of Ludmilla", "Electoral division of Tiwi", "Electoral division of Elsey", "Electoral division of Millner"]
+Q: Who was the electoral division that James Tully  represented in 1928 named after?
+A: "James Tully"
+Q: [EOQ]
+S: 0.0
+
+5a8da1815542994ba4e3dcd7
+Naseer & Shahab is a Pakistani band playing a genre that dominated radio in what decade?
+A: ["Naseer &amp; Shahab", "Naseer Khan", "Naseer Akram", "Naseer Shaukat", "Pir Naseer-uddin-Naseer", "Naseer Ahmed (WAPDA cricketer)", "Shahab Basharat", "Naseer Soomro", "Naseer Ahmed (cricketer, born 1972)", "Naseer Malik"]
+Q: Naseer & Shahab is a Pakistani band playing a genre that dominated radio in what decade?
+A: "1980s"
+Q: [EOQ]
+S: 0.0
+
+5ab529005542996a3a96a045
+In 2008, The Littlewoods Ireland Carnogie Leagues sponsor known as?
+A: ["2008 League of Ireland Cup", "2017 National Camogie League", "Littlewood's rule", "Littlewood", "League of Ireland", "2008 League of Ireland First Division", "2008 V-League", "2008 League of Ireland Premier Division", "2008 National Football League (Ireland)", "Littlewood Treaty Document", "National Football League (Ireland)"]
+Q: In 2008, The Littlewoods Ireland Carnogie Leagues sponsor known as?
+A: "the Irish Carnogie League"
+Q: [EOQ]
+S: 0.0
+
+5abfd3d65542994516f4550b
+Are both Don Giovanni and Cardillac operas with three acts?
+A: ["Cardillac", "Don Giovanni", "Don Giovanni discography", "Don Giovanni Tenorio", "Don John of Austria (opera)", "Don Quixote (opera)", "Don Pasquale", "Don Giovanni (1979 film)", "Tacoma Opera", "I, Don Giovanni", "Don Giovanni Records"]
+Q: Are both Don Giovanni and Cardillac operas with three acts?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5a88696b554299206df2b25b
+What type of profession does Chris Jericho and Gary Barlow have in common?
+A: ["Barlow Common", "Gary Barlow: On Her Majesty's Service", "Chris Barlow", "Gary Barlow: In Concert", "Gary Barlow", "Stronger (Gary Barlow song)", "Sing (Gary Barlow album)", "Chris Jericho", "Gary Barlow discography", "Open Road (Gary Barlow song)", "Lie to Me (Gary Barlow song)"]
+Q: What type of profession does Chris Jericho and Gary Barlow have in common?
+A: "wrestler"
+Q: [EOQ]
+S: 0.0
+
+5adfdc7d55429942ec259b64
+Who was older, George Atzerodt or Andrew Johnson?
+A: ["George Atzerodt", "Bibliography of Andrew Johnson", "Andrew Johnson Building", "Andrew Johnson (disambiguation)", "Jacob Johnson (father of Andrew Johnson)", "Andrew Johnson (golfer)", "Andrew Johnson National Cemetery", "Andrew Johnson (actor)", "President Andrew Johnson Museum and Library", "Andrew Johnson National Historic Site", "Andrew N. Johnson"]
+Q: Who was older, George Atzerodt or Andrew Johnson?
+A: "Andrew Johnson"
+Q: [EOQ]
+S: 0.0
+
+5a8901a2554299515336125a
+Ghostkeeper's plot is inspired by a legend that lends its name to what type of medical condition?
+A: ["Ghostkeeper", "Ghostkeeper (band)", "The Gunpowder Plot: Exploding The Legend", "RA plot", "Lending Works", "2017 Islamic inspired bomb plot on Australian aeroplane", "Neumann boundary condition", "List of psychiatric medications by condition treated", "Robin boundary condition", "In-house lending", "Heart Condition (film)"]
+Q: Ghostkeeper's plot is inspired by a legend that lends its name to what type of medical condition?
+A: "psychiatric"
+Q: [EOQ]
+S: 0.0
+
+5a7499eb55429929fddd8470
+What game did the team with an 11-1 regular season record play in for the BCS title game?
+A: ["BC Games Society", "2007 BCS National Championship Game", "1965 BC Lions season", "1964 BC Lions season", "2010\u201311 LEB Oro season", "NBA regular season records", "List of college football post-season games that were rematches of regular season games", "2003 LSU Tigers football team", "2010\u201311 Australian Baseball League regular season", "NFL regular season", "Play-in game"]
+Q: What game did the team with an 11-1 regular season record play in for the BCS title game?
+A: "Sugar Bowl"
+Q: [EOQ]
+S: 0.0
+
+5ae824295542997ec272772f
+Dan Scalco is best known as a contributing author for a magazine owned by who?
+A: ["Dan Scalco", "Dan Tyler Moore (author)", "John Skelton (author)", "Dan Hurley (author)", "The Girl Who Owned a City", "Dan DeLuca", "Dan Milne", "Dan Kennedy (author)", "The Best of Steely Dan: Then and Now", "Dan Rahmel", "Dan Savoie"]
+Q: Dan Scalco is best known as a contributing author for a magazine owned by who?
+A: "Digitalux"
+Q: [EOQ]
+S: 0.0
+
+5abd38285542993062266c19
+Who passed away first Max Ophüls and Shirley Clarke ?
+A: ["Max Oph\u00fcls", "Pass away", "Shirley Clarke", "Max Clark", "Passed Away (film)", "Max Stafford-Clark", "Far Away Trains Passing By", "Lewis and Clark Pass (Montana)", "Jason and Shirley", "Slipping Away (Max Merritt &amp; The Meteors song)", "Max Clark (footballer)"]
+Q: Who passed away first Max Ophüls and Shirley Clarke ?
+A: "Max Oph\u00fcls"
+Q: [EOQ]
+S: 0.0
+
+5ae056c755429945ae959319
+James Garner had a role in the 2004 romantic drama directed by whom?
+A: ["James Garner", "James Garner (disambiguation)", "She Had to Choose", "Jack Garner", "James Garner (cricketer)", "Kelli Garner", "Paul Garner", "Whom the Gods Destroy", "Style (2004 film)", "James Wilford Garner", "Black-Eyed Susan (2004 film)"]
+Q: James Garner had a role in the 2004 romantic drama directed by whom?
+A: "James Riffel"
+Q: [EOQ]
+S: 0.0
+
+5abc7d6d5542993a06baf8f3
+Kevin Yorn an American entertainment attorney who represents an Australian actor who  played the role of Josh Taylor in what soap opera?
+A: ["Kevin Yorn", "Kevin Harrington (actor)", "List of longest-serving soap opera actors", "Josh Taylor", "Kevin Kennedy (actor)", "Josh Wingate", "Josh Casaubon", "Josh Mapleston", "Jeff Kevin", "Kevin Sacre", "Graham Harvey (actor)"]
+Q: Kevin Yorn an American entertainment attorney who represents an Australian actor who  played the role of Josh Taylor in what soap opera?
+A: "The Hogan Family"
+Q: [EOQ]
+S: 0.0
+
+5ab91dc555429919ba4e23b4
+What role did Slim Dunlap take when he joined the Minnesota band the Replacements in 1987?
+A: ["Slim Dunlap", "The Replacements (band)", "Songs for Slim", "Join the Band (Take 6 album)", "Slim Lake, Minnesota", "Slim (band)", "He Did That", "He Did and He Didn't", "Join The Club (band)", "Ron Dunlap", "Dunlap, Seattle"]
+Q: What role did Slim Dunlap take when he joined the Minnesota band the Replacements in 1987?
+A: "lead guitarist"
+Q: [EOQ]
+S: 0.0
+
+5abd68b45542993062266c77
+What did the main character in Unbroken do in the Olympics?
+A: ["Unbroken Praise", "Will the Circle Be Unbroken (disambiguation)", "Will the Circle Be Unbroken?", "Unbroken (band)", "An Unbroken Agony", "The River Unbroken", "Can the Circle Be Unbroken (By and By)", "Unbroken Glass", "What Did We Do Wrong?", "List of Hannah Montana main characters", "Will the Circle Be Unbroken, Volume III"]
+Q: What did the main character in Unbroken do in the Olympics?
+A: "he competed in the men's individual sabre"
+Q: [EOQ]
+S: 0.0
+
+5ae362105542991a06ce99ae
+What was the size of the 1700 Cascadia earthquake predicted by Kenji Satake?
+A: ["Kenji Satake", "1700 Cascadia earthquake", "Earthquake prediction", "California Earthquake Prediction Evaluation Council", "National Earthquake Prediction Evaluation Council", "Coordinating Committee for Earthquake Prediction", "Ichir\u014d Satake", "Cascadia", "The Boy Who Predicted Earthquakes", "Earthquake forecasting", "Cascadia Channel"]
+Q: What was the size of the 1700 Cascadia earthquake predicted by Kenji Satake?
+A: "8.7\u20139.2"
+Q: [EOQ]
+S: 0.0
+
+5adf315c5542995ec70e8f8b
+Sudha Kheterpal who is  musician best know as the percussionist in Faithless has played with what singer who is recognized at the highest-selling Australian artist of all time by the Australian Recording industry Association?
+A: ["Sudha Kheterpal", "Australian Recording Industry Association", "List of Australian records in athletics", "List of Australian records in swimming", "ARIA Award for Best Female Artist", "Australian Information Industry Association", "Hannah (Australian singer)", "Australian Independent Record Labels Association", "All I Know (EP)", "List of best-selling albums in Chile"]
+Q: Sudha Kheterpal who is  musician best know as the percussionist in Faithless has played with what singer who is recognized at the highest-selling Australian artist of all time by the Australian Recording industry Association?
+A: "The Return of the Spice Girls"
+Q: [EOQ]
+S: 0.0
+
+5a85a2845542997175ce1fe1
+Are both Aloinopsis and Eriogonum ice plants?
+A: ["Aloinopsis", "Aloinopsis setifera", "Aloinopsis malherbei", "Aloinopsis rosulata", "Eriogonum", "Eriogonum inflatum", "Eriogonum coloradense", "Eriogonum exilifolium", "Eriogonum thymoides", "Eriogonum alatum", "Eriogonum saxatile"]
+Q: Are both Aloinopsis and Eriogonum ice plants?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5a81b4cc5542995ce29dcc3c
+Hotride is the fifteenth single released by what music group from Braintree, Essex, that was formed in 1990?
+A: ["Hotride", "Braintree Sixth Form", "Braintree, Essex", "Braintree College", "Braintree District", "Braintree railway station", "Bocking, Essex", "Braintree, Massachusetts", "Braintree Rural District", "Tabor Academy, Braintree", "Braintree Town F.C."]
+Q: Hotride is the fifteenth single released by what music group from Braintree, Essex, that was formed in 1990?
+A: "The Prodigy"
+Q: [EOQ]
+S: 0.0
+
+5ac4d314554299076e296e02
+William Novac co-wrote the memoir of what American retired professional basketball player who is current president of basketball operations for the Los Angeles Lakers?
+A: ["Los Angeles Lakers accomplishments and records", "Los Angeles Lakers", "Jerry Grote (basketball)", "List of Los Angeles Lakers broadcasters", "History of the Los Angeles Lakers", "Billy Thompson (basketball)", "Casey Owens (basketball)", "1988\u201389 Los Angeles Lakers season", "Jason Hart (basketball)", "Trevor Wilson (basketball)", "Los Angeles Clippers"]
+Q: William Novac co-wrote the memoir of what American retired professional basketball player who is current president of basketball operations for the Los Angeles Lakers?
+A: "Bill Russell"
+Q: [EOQ]
+S: 0.0
+
+5a72b9155542992359bc3187
+What service is an Amtrak flagship that includes BWI Rail Station as one of its Amtrak intercity services?
+A: ["BWI Rail Station", "Norfolk station (Amtrak)", "Amtrak", "Orlando Health/Amtrak station", "Amtrak Thruway Motorcoach", "List of accidents on Amtrak", "Moline (Amtrak station)", "Bakersfield station (Amtrak)", "Quincy station (Amtrak)", "Hayward station (Amtrak)", "List of busiest Amtrak stations"]
+Q: What service is an Amtrak flagship that includes BWI Rail Station as one of its Amtrak intercity services?
+A: "MARC Penn Line"
+Q: [EOQ]
+S: 0.0
+
+5a8a3a355542996c9b8d5e5e
+Which light rail system would one use to visit the museum that explores the impact of modern conflicts on people and society?
+A: ["Health impact of light rail systems", "List of modern tramway &amp; light rail systems in England", "Light Rail (MTR)", "Light rail in Canada", "Manila Light Rail Transit System", "Pittsburgh Light Rail", "Jerusalem Light Rail", "Bucharest Light rail", "TEDA Modern Guided Rail Tram", "Land-use conflict", "Danhai Light Rail"]
+Q: Which light rail system would one use to visit the museum that explores the impact of modern conflicts on people and society?
+A: "Light Rail"
+Q: [EOQ]
+S: 0.0
+
+5a7f0c4b5542993067513600
+WHICH GROUP OF PEOPLE NICKNAMED THE US ARMYS REGIMENT "BUFFALO SOLDIERS" IN WHICH THOMAS SHAW WON THE MEDAL OF HONOR DURING THE INDIAN WARS?
+A: ["Thomas Shaw (Medal of Honor)", "Buffalo Soldier", "Thomas Evans (Medal of Honor)", "Buffalo Soldier (disambiguation)", "Thomas Smith (Medal of Honor, 1869)", "Benjamin Brown (Medal of Honor)", "John Denny (Medal of Honor)", "Thomas Anderson (Medal of Honor)", "Richard Barrett (Medal of Honor)", "Thomas Baker (Medal of Honor)", "Henry Johnson (Buffalo Soldier)"]
+Q: WHICH GROUP OF PEOPLE NICKNAMED THE US ARMYS REGIMENT "BUFFALO SOLDIERS" IN WHICH THOMAS SHAW WON THE MEDAL OF HONOR DURING THE INDIAN WARS?
+A: "BUFFALO SOLDIERS"
+Q: [EOQ]
+S: 0.0
+
+5ae4d8475542993aec5ec0e0
+Repertoire of Plácido Domingo appeared in an opera written by whom which was based on a play by William Shakespeare?
+A: ["Repertoire of Pl\u00e1cido Domingo", "Pl\u00e1cido Domingo Jr.", "Pl\u00e1cido Domingo", "Adoro (Pl\u00e1cido Domingo album)", "Pl\u00e1cido Domingo Ferrer", "List of awards and nominations received by Pl\u00e1cido Domingo", "The Plays of William Shakespeare", "Pl\u00e1cido Domingo discography", "Songs (2012 Pl\u00e1cido Domingo album)", "The Tempest (opera)", "Characters of Shakespear's Plays"]
+Q: Repertoire of Plácido Domingo appeared in an opera written by whom which was based on a play by William Shakespeare?
+A: "Samuel Johnson"
+Q: [EOQ]
+S: 0.0
+
+5a88a23f5542997e5c09a652
+Which director, Chris O'Dea or Lucky McKee,  is a Master of Fine Arts graduate of the UCLA School of Theater, Film and Television?
+A: ["Chris O'Dea", "List of UCLA School of Theater, Film and Television alumni", "UCLA School of Theater, Film and Television", "Lucky McKee", "Milton Avery Graduate School of the Arts", "Columbia University School of the Arts", "Master of Fine Arts", "School of Fine Arts", "University of Iowa School of Art and Art History", "Art director", "UCLA Graduate School of Education and Information Studies"]
+Q: Which director, Chris O'Dea or Lucky McKee,  is a Master of Fine Arts graduate of the UCLA School of Theater, Film and Television?
+A: "Lucky McKee"
+Q: [EOQ]
+S: 0.0
+
+5a8b429f5542995d1e6f132c
+Stella Maxwell has been a model for a famous fashion shown since when?
+A: ["Stella Maxwell", "Fashion Model Directory", "Brandon Maxwell", "Generalized Maxwell model", "Upper-convected Maxwell model", "Clara Alonso (model)", "Fashion Story: Model", "Fashion Model", "List of black fashion models", "List of Russian fashion models", "Since When (song)"]
+Q: Stella Maxwell has been a model for a famous fashion shown since when?
+A: 2015
+Q: [EOQ]
+S: 0.0
+
+5ae234385542992decbdcc59
+in 1992 Spengler Cup all matches were played at the home arena of what professional Swiss ice hockey club 
+A: ["1992 Spengler Cup", "Spengler Cup", "2015 Spengler Cup", "2005 Spengler Cup", "2010 Spengler Cup"]
+Q: in 1992 Spengler Cup all matches were played at the home arena of what professional Swiss ice hockey club
+A: "HC Davos"
+Q: [EOQ]
+S: 0.0
+
+5ab95a63554299743d22eb06
+Who was a student of Rolls Gracie and ran the Gracie Humaitá school in Rio de Janeiro?
+A: ["Gracie Humait\u00e1", "Royler Gracie", "Daniel Gracie", "Rolls Gracie", "Reyson Gracie", "Robson Gracie", "Gracie Barra", "Humait\u00e1, Rio de Janeiro", "Ralph Gracie", "Carley Gracie", "Rener Gracie"]
+Q: Who was a student of Rolls Gracie and ran the Gracie Humaitá school in Rio de Janeiro?
+A: "Carlos Gracie"
+Q: [EOQ]
+S: 0.0
+
+5a8494b15542991dd0999d35
+Which magazine was founded first, Allure or Genre?
+A: ["Allure (magazine)", "Allure (album)", "Genre (magazine)", "Allur", "Allured (Archdeacon of Barnstaple)", "List of Allure cover models", "Allured Business Media", "Found Magazine", "Allur, Nellore district", "Alluring Albany", "Eden Allure"]
+Q: Which magazine was founded first, Allure or Genre?
+A: "Allure"
+Q: [EOQ]
+S: 0.0
+
+5ab6e07b55429954757d33a0
+Which Equerry to a British monarch was married to a Marchioness Camden?
+A: ["Rosemary Pratt, Marchioness Camden", "Monarchs of the British Isles", "Marchio", "Crown Equerry (Sweden)", "Gertrude Blount, Marchioness of Exeter", "Equerry", "List of Jubilees of British monarchs", "Coronation of the British monarch", "Marchioness (disambiguation)", "John Miller (equerry)", "List of British monarchs by longevity"]
+Q: Which Equerry to a British monarch was married to a Marchioness Camden?
+A: "John Miller"
+Q: [EOQ]
+S: 0.0
+
+5a8aee3d55429950cd6afc01
+Which has more species, Clianthus or Callicoma?
+A: ["Callicoma", "Myrcianthes callicoma", "Clianthus puniceus", "Clianthus maximus", "Stenoma callicoma", "Roscidotoga callicomae", "Clianthus", "Aceria clianthi", "Flagship species", "Tehran Has No More Pomegranates!", "Species complex"]
+Q: Which has more species, Clianthus or Callicoma?
+A: "Clianthus"
+Q: [EOQ]
+S: 0.0
+
+5a832ad55542990548d0b1b5
+What city hosts an annual convention devoted to a line of toys manufactured by a company based in Denmark?
+A: ["Barclay Manufacturing Company", "Boucher Manufacturing Company", "Parris Manufacturing Company", "Tekno (toy manufacturer)", "List of stuffed toy manufacturers", "Toy Center", "Ives Manufacturing Company", "Duncan Toys Company", "Mercury (toy manufacturer)", "List of Hasbro toys", "Wrinkles (toy)"]
+Q: What city hosts an annual convention devoted to a line of toys manufactured by a company based in Denmark?
+A: "Copenhagen"
+Q: [EOQ]
+S: 0.0
+
+5a7bb983554299042af8f7c1
+Who directed the nuclear war drama where Rita May played Jimmy Kemp's mother?
+A: ["Jimmy Kemp", "Rita May (actress)", "The Mother (\u010capek play)", "Nuclear War (disambiguation)", "Nuclear War MUD", "Be a Mother", "Rita Ortiz", "Rita May (song)", "Rita Cosby: Live &amp; Direct", "Girls Can Play", "Mother Holly"]
+Q: Who directed the nuclear war drama where Rita May played Jimmy Kemp's mother?
+A: "Fritz Genschow"
+Q: [EOQ]
+S: 0.0
+
+5ab2d28b55429916697740ee
+Oprah Winfrey narrated a documentary about this athlete who rode 400 miles across his country to bring attention to the plight of the disabled in the country?
+A: ["Emmanuel Ofosu Yeboah", "Oprah Winfrey Foundation", "Oprah Winfrey's Legends Ball", "The Oprah Winfrey Show", "Media works of Oprah Winfrey", "Oprah Winfrey", "Emmanuel's Gift", "List of awards and nominations received by Oprah Winfrey", "Oprah's Lifeclass", "Oprah Winfrey Network (U.S. TV channel)", "List of Oprah's Lifeclass episodes"]
+Q: Oprah Winfrey narrated a documentary about this athlete who rode 400 miles across his country to bring attention to the plight of the disabled in the country?
+A: "Emmanuel Ofosu Yeboah"
+Q: [EOQ]
+S: 0.0
+
+5a84524a554299123d8c2203
+How many books are in the text composed by the founder Nyaya school of Hindu philosophy and is used in the development of Indian logic?
+A: ["Indian logic", "List of Hindu texts", "Hindu philosophy", "Ny\u0101ya S\u016btras", "Philosophy of logic", "Nyaya", "Samskara (Indian philosophy)", "Hindu texts", "Logical Analysis and History of Philosophy", "List of teachers of Nyaya", "Aztec philosophy"]
+Q: How many books are in the text composed by the founder Nyaya school of Hindu philosophy and is used in the development of Indian logic?
+A: 5
+Q: [EOQ]
+S: 0.0
+
+5ab1e75f554299340b525422
+What is the name of the director from a country which has only one-tenth of its historical boundaries?
+A: ["Boundary Country", "List of countries that border only one other country", "Only One Love in My Life (song)", "Hell Has No Boundary", "Tenth (country subdivision)", "Only One You", "The Tenth", "Only One Moon (song)", "Boundary Creek (British Columbia)", "One Has My Name (The Other Has My Heart)", "List of countries and territories by maritime boundaries"]
+Q: What is the name of the director from a country which has only one-tenth of its historical boundaries?
+A: "John Lennon"
+Q: [EOQ]
+S: 0.0
+
+5a7a69365542996c55b2dd9b
+Which film was Shannyn Sossamon in that was directed by Michael Lehmann?
+A: ["Shannyn Sossamon", "The Heavy (film)", "The Order (2003 film)", "Michael Lehmann", "40 Days and 40 Nights", "Catacombs (2007 film)", "Road to Nowhere (film)", "The Rules of Attraction (film)", "Michael Lehmann (footballer)", "The Day (2011 film)", "Mrs. Lehmann's Daughters"]
+Q: Which film was Shannyn Sossamon in that was directed by Michael Lehmann?
+A: "A Knight's Tale"
+Q: [EOQ]
+S: 0.0
+
+5abe369055429976d4830a8a
+What area once connected Great Britain to continental Europe, and is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf?
+A: ["Continental shelf of Russia", "Continental shelf", "Norwegian continental shelf", "Continental Connection", "Outer Continental Shelf", "Convention on the Continental Shelf", "Continental Shelf Station Two", "Continental shelf pump", "Continental margin", "Continental shelf of the United States", "Antarctic continental shelf"]
+Q: What area once connected Great Britain to continental Europe, and is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf?
+A: "the Great Barrier Reef"
+Q: [EOQ]
+S: 0.0

@@ -1,0 +1,12 @@
+{
+    "em": 0.2,
+    "f1": 0.273,
+    "precision": 0.312,
+    "recall": 0.274,
+    "count": 100,
+    "sp_em": 0.2,
+    "sp_f1": 0.2,
+    "sp_precision": 0.2,
+    "sp_recall": 0.2,
+    "git_hash": "3c1820f698eea5eeddb4fba3c56b64c961e063e4"
+}

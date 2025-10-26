@@ -1,0 +1,800 @@
+
+6d8ff48a0bdb11eba7f7acde48001122
+Who is the founder of the company which published Big Picture (Magazine)?
+A: ["Big Picture (magazine)", "Picture Play (magazine)", "Warren Publishing", "The Big Picture", "Current Publishing (UK)", "Highline Big Picture", "Kappa Publishing Group", "Motion Picture Daily", "Arena Publishing Co.", "Compete Magazine", "The Fly (magazine)", "Magazine Management", "Big Picture High School", "Act III Publishing", "The New England Magazine"]
+Q: Who is the founder of the company which published Big Picture (Magazine)?
+A: "J. N. McClinctock"
+Q: [EOQ]
+S: 0.0
+
+87e4e1e0088b11ebbd6fac1f6bf848b6
+Are Antoine Jean-Baptiste Thomas and Canardo (Rapper) of the same nationality?
+A: ["Antoine Jean-Baptiste", "Canardo (rapper)", "Antoine Jean-Baptiste Thomas", "Jean Baptiste Antoine Auget de Montyon", "Jean-Baptiste Colbert, Marquis de Seignelay", "Jean-Baptiste Bo\u00ebsset", "Jean-Baptiste de Lavalette", "Jean-Baptiste C\u00e9cille", "Jean Baptiste Antoine Guillemin", "Jean-Baptiste Belin", "Dominique Antoine Magaud", "Sacajawea and Jean-Baptiste", "Jean-Baptiste Pitois", "Jean-Baptiste Pellissier", "Jean-Baptiste Chaussard"]
+Q: Are Antoine Jean-Baptiste Thomas and Canardo (Rapper) of the same nationality?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+01e265d20bdc11eba7f7acde48001122
+Where did Temüge's father die?
+A: ["Tem\u00fcge", "Did a Good Man Die?", "And When Did You Last See Your Father?", "The Woman Who Did (1925 film)", "A Time to Die", "Son of My Father", "Live and Let Die (video game)", "To Live and Die in L.A. (Wang Chung song)", "A Good Day to Die", "The Dumb Die Fast, The Smart Die Slow", "Do or Die", "Live or Die", "Dance or Die", "March or Die", "Ride or Die"]
+Q: Where did Temüge's father die?
+A: "in the monastery"
+Q: [EOQ]
+S: 0.0
+
+9231021e0bb011ebab90acde48001122
+Who is Elizabeth Stuart, Countess Of Lennox's mother-in-law?
+A: ["Elizabeth Stuart, Countess of Lennox", "Margaret, Countess of Lennox", "Elizabeth Dudley, Countess of L\u00f6wenstein", "Esm\u00e9 Stuart, 2nd Duke of Lennox", "Charles Stuart, 1st Earl of Lennox", "Elizabeth Clinton, Countess of Lincoln", "Elizabeth Boleyn, Countess of Wiltshire", "Elizabeth Stuart Bowdler", "Elizabeth Stuart (theologian)", "Amy Gordon-Lennox, Countess of March", "Elizabeth the Queen Mother (disambiguation)", "Mary Stuart, Countess of Bute", "Elizabeth Darcy, Countess of Ormond", "Elizabeth Tilney, Countess of Surrey"]
+Q: Who is Elizabeth Stuart, Countess Of Lennox's mother-in-law?
+A: "Arbella Stuart"
+Q: [EOQ]
+S: 0.0
+
+be0f8b4e0bdd11eba7f7acde48001122
+When was Ludwig Gruno Of Hesse-Homburg's father born?
+A: ["Ludwig Gruno of Hesse-Homburg", "William Christoph, Landgrave of Hesse-Homburg", "Leopold of Hesse-Homburg", "Landgravine Auguste of Hesse-Homburg", "Anna Margaret of Hesse-Homburg", "Princess Amalie of Hesse-Homburg", "Caroline of Hesse-Homburg", "Casimir William of Hesse-Homburg", "Frederick III, Landgrave of Hesse-Homburg", "Gustav, Landgrave of Hesse-Homburg", "Philip, Landgrave of Hesse-Homburg"]
+Q: When was Ludwig Gruno Of Hesse-Homburg's father born?
+A: "15 January 1705"
+Q: [EOQ]
+S: 0.0
+
+f3e6c20309ab11ebbdb0ac1f6bf848b6
+Which song was released more recently, Come With Me (Pure Imagination) or Hold On Me (Grinspoon Song)?
+A: ["Hold on Me (Grinspoon song)", "Come with Me (Pure Imagination)", "Hold On to Me (The Black Sorrows song)", "Hold Me (Laura Branigan song)", "Hold Me, Thrill Me, Kiss Me (disambiguation)", "Hold on Me (Phixx song)", "Come Dance with Me (song)", "You Used to Hold Me (Ralphi Rosario song)", "Hold on Me (Marlon Roudette song)", "Come with Me (Ricky Martin song)", "Hold Me Tight or Don't", "Stay with Me (You Me at Six song)", "Hold Me Now (album)", "Hold Me in Your Arms (Rick Astley song)"]
+Q: Which song was released more recently, Come With Me (Pure Imagination) or Hold On Me (Grinspoon Song)?
+A: "Hold On Me (Grinspoon Song)"
+Q: [EOQ]
+S: 0.0
+
+757e422f089211ebbd73ac1f6bf848b6
+Who was born first, Heo Keon or Ljiljana Nanušević?
+A: ["Heo Keon", "Ljiljana Nanu\u0161evi\u0107", "Keone Young", "Ljiljana Smajlovi\u0107", "Johnny Keon", "Heo Jeok", "Jenice Heo", "Heo Hwang-ok", "Madame Piano", "Kim Bo-sung", "First Born (film)", "Kim Geon-ung", "The First Born (1921 film)", "First Born (Eyedea & Abilities album)", "The First Born (1928 film)"]
+Q: Who was born first, Heo Keon or Ljiljana Nanušević?
+A: "Heo Keon"
+Q: [EOQ]
+S: 0.0
+
+7f70355f097c11ebbdb0ac1f6bf848b6
+Which film was released more recently, The Black Duke or Avalalpam Vaikippoyi?
+A: ["Avalalpam Vaikippoyi", "The Black Duke", "Thin Black Duke", "No More Tears (EP)", "Release (film)", "Black Caesar (film)", "Black Orchids (film)", "Men in Black (film series)", "Leszek II the Black", "Black Eagle (1948 film)", "More Is More", "Ladies in Black (film)", "Black Mask (film)"]
+Q: Which film was released more recently, The Black Duke or Avalalpam Vaikippoyi?
+A: "Avalalpam Vaikippoyi"
+Q: [EOQ]
+S: 0.0
+
+5be3ae32084f11ebbd56ac1f6bf848b6
+Which film has the director died later, Begrijpt U Nu Waarom Ik Huil? or We Faw Down?
+A: ["Begrijpt U Nu Waarom Ik Huil?", "We Faw Down", "The Price of Survival", "FAW", "FAW-Volkswagen", "FAW Bus and Coach", "We All Fall Down", "Block-Heads", "Alibi Ike", "Waarom?", "We All Fall Down (album)", "Yang Ik-june"]
+Q: Which film has the director died later, Begrijpt U Nu Waarom Ik Huil? or We Faw Down?
+A: "We Faw Down"
+Q: [EOQ]
+S: 0.0
+
+f5855305089211ebbd74ac1f6bf848b6
+Which film has the director who is older, King Of The Zombies or Mon Oncle Benjamin?
+A: ["Mon oncle Benjamin", "Mon Oncle", "My Uncle Benjamin (1924 film)", "Mon oncle Antoine", "King of the Zombies", "Zombies! Zombies! Zombies!", "Benjamin King (actor)", "Bernard Alane", "Mons (film)", "Mon Mon Mon Monsters", "Zomby", "Mon"]
+Q: Which film has the director who is older, King Of The Zombies or Mon Oncle Benjamin?
+A: "Mon Oncle Benjamin"
+Q: [EOQ]
+S: 0.0
+
+64f1e5e9086d11ebbd62ac1f6bf848b6
+Which film has the director who was born first, Dead Man'S Evidence or Creature Of The Walking Dead?
+A: ["Creature of the Walking Dead", "Dead Man Walking", "Dead Man's Evidence", "Walking Dead", "Music for 'The Dead Man 2: Return of the Dead Man'", "Dead man", "The Walking Dead: World Beyond", "The Walking Dead (comic book)", "Dead Man Down", "The Walking Dead (1936 film)", "The Prisoners (The Walking Dead)", "List of Fear the Walking Dead characters", "The Walking Dead: Songs of Survival Vol. 2", "The Walking Dead (video game)"]
+Q: Which film has the director who was born first, Dead Man'S Evidence or Creature Of The Walking Dead?
+A: "Creature Of The Walking Dead"
+Q: [EOQ]
+S: 0.0
+
+b01b7cc40baf11ebab90acde48001122
+Who is Viacheslav I Of Kiev's maternal grandfather?
+A: ["Viacheslav I of Kiev", "Mstislav I of Kiev", "Rostislav I of Kiev", "Anastasia of Kiev", "Ingeborg of Kiev", "Yaropolk II of Kiev", "Viacheslav Datsik", "Yaropolk I of Kiev", "Roman I of Kiev", "Maria Mstislavna of Kiev"]
+Q: Who is Viacheslav I Of Kiev's maternal grandfather?
+A: "Vladimir II of Monomakh"
+Q: [EOQ]
+S: 0.0
+
+f77e556e0baf11ebab90acde48001122
+Who is the paternal grandfather of Władysław I Of Płock?
+A: ["W\u0142adys\u0142aw I of P\u0142ock", "W\u0142adys\u0142aw II of P\u0142ock", "W\u0142adys\u0142aw Broniewski", "Siemowit VI of P\u0142ock", "W\u0142adys\u0142aw I Herman", "Casimir III of P\u0142ock", "W\u0142adys\u0142aw I \u0141okietek", "Janusz II of P\u0142ock", "W\u0142adys\u0142aw III of Poland", "W\u0142adys\u0142aw Odonic", "Wenceslaus of P\u0142ock", "Trojden I, Duke of Masovia"]
+Q: Who is the paternal grandfather of Władysław I Of Płock?
+A: "Bolesaw III"
+Q: [EOQ]
+S: 0.0
+
+c4755995087911ebbd67ac1f6bf848b6
+Which band was formed earlier, The Flower Pot Men or Los Chalchaleros?
+A: ["Los Chalchaleros", "The Flower Pot Men", "The Flower Pot Gang", "Dia de los Muertos (band)", "Bee and Flower", "Particle (band)", "Pot of Gold", "Like a Pot of Strawberries", "Fruit & Flowers", "Damel Flowers", "Die Form", "Shannon Pot", "B-flower", "Pol Pot", "Ko Pot"]
+Q: Which band was formed earlier, The Flower Pot Men or Los Chalchaleros?
+A: "Los Chalchaleros"
+Q: [EOQ]
+S: 0.0
+
+ce4f63cc0bdc11eba7f7acde48001122
+Where did the director of film Ręce Do Góry study?
+A: ["R\u0119ce do g\u00f3ry", "Krzysztof Grabowski", "Why Did You Do That?", "Khoa Do", "Daddy, what did you do in the Great War?", "What Did You Do in the War, Thanasi?", "A Lady Did It", "Do Raha", "What Did You Do in the War, Daddy?", "Study", "I Did It (film)", "Paulo Rocha (film director)", "Birds Do It, Bees Do It"]
+Q: Where did the director of film Ręce Do Góry study?
+A: "University of Poland"
+Q: [EOQ]
+S: 0.0
+
+4667bf20087311ebbd66ac1f6bf848b6
+Was Augusta, Lady Gregory or Luis Yáñez born first?
+A: ["Augusta, Lady Gregory", "Luis Y\u00e1\u00f1ez", "Luis Marcoleta", "Eduardo Y\u00e1\u00f1ez", "William Henry Gregory", "Felipe Y\u00e1\u00f1ez", "Lady Augusta Murray", "Augusta Mostyn", "\u00d3scar Gonz\u00e1lez Y\u00e1\u00f1ez", "Augusta Leigh", "First Presbyterian Church (Augusta, Georgia)", "Augusta Stanley", "First Lady (disambiguation)"]
+Q: Was Augusta, Lady Gregory or Luis Yáñez born first?
+A: "Augusta, Lady Gregory"
+Q: [EOQ]
+S: 0.0
+
+553dcc7a0bdd11eba7f7acde48001122
+Where did the composer of song Ram Chahe Leela graduate from?
+A: ["Ram Chahe Leela", "Goliyon Ki Raasleela Ram-Leela", "Bhoomi Trivedi", "Nagada Sang Dhol", "Tarek Chahed", "Manmadha Leela Kamaraju Gola", "Sofian Chahed", "Ram Ramirez", "Krishna Leela", "Ram", "The Leela Palaces, Hotels and Resorts", "The Leela Group", "Did It Again (Shakira song)", "Ram Ram Gangaram"]
+Q: Where did the composer of song Ram Chahe Leela graduate from?
+A: "University of California, Berkeley"
+Q: [EOQ]
+S: 0.0
+
+c6816a87085411ebbd59ac1f6bf848b6
+Which film whose director is younger, Aach... Aku Jatuh Cinta or Ferragosto In Bikini?
+A: ["Aach... Aku Jatuh Cinta", "Ferragosto in bikini", "Hans G\u00fcnther Aach", "Cinta (film)", "P.U.S.P.A Repackage", "Aku Louhimies", "Bikini Drive-In", "Cinta Pertama (2006 film)", "Bikini Planet (film)", "Bikini Bloodbath", "Love Is Cinta", "Radio Bikini"]
+Q: Which film whose director is younger, Aach... Aku Jatuh Cinta or Ferragosto In Bikini?
+A: "Ferragosto in Bikini"
+Q: [EOQ]
+S: 0.0
+
+a26d6fd40bdb11eba7f7acde48001122
+Which country Dorothea Of Denmark, Duchess Of Mecklenburg's father is from?
+A: ["Dorothea of Denmark, Duchess of Mecklenburg", "Elizabeth of Denmark, Duchess of Mecklenburg", "Dorothea of Denmark, Duchess of Prussia", "Dorothea of Denmark, Duchess of Brunswick-L\u00fcneburg", "Ingeborg of Denmark, Duchess of Mecklenburg", "Duchess Caroline Mariane of Mecklenburg", "Duchess Louise Charlotte of Mecklenburg-Schwerin", "Duchess Sophia Frederica of Mecklenburg-Schwerin", "Maria of Mecklenburg-Schwerin", "Hedwig of Mecklenburg-G\u00fcstrow", "Duchess Charlotte Frederica of Mecklenburg-Schwerin", "Christine of Mecklenburg-G\u00fcstrow"]
+Q: Which country Dorothea Of Denmark, Duchess Of Mecklenburg's father is from?
+A: "Denmark"
+Q: [EOQ]
+S: 0.0
+
+f7f0760208e011ebbda2ac1f6bf848b6
+Which film was released more recently, The Unkissed Bride or Fiorile?
+A: ["The Unkissed Bride", "Fiorile", "Bride Wars (2015 film)", "Father of the Bride Part II", "The Bride (2017 film)", "The Tsar's Bride (film)", "Here Comes the Bride (1919 film)", "Picture Bride (film)", "Bride 13", "Kiss the Bride (2007 film)", "Brides to Be", "The Bride's Awakening", "Brides of Blood"]
+Q: Which film was released more recently, The Unkissed Bride or Fiorile?
+A: "Fiorile"
+Q: [EOQ]
+S: 0.0
+
+26d66aa60bdb11eba7f7acde48001122
+What nationality is Princess Marie Gasparine Of Saxe-Altenburg's husband?
+A: ["Princess Marie Gasparine of Saxe-Altenburg", "Princess Marie Anne of Saxe-Altenburg", "Princess Louise Charlotte of Saxe-Altenburg", "Princess Antoinette of Saxe-Altenburg", "Princess Therese of Saxe-Altenburg", "Princess Charlotte of Saxe-Altenburg", "Marie of Saxe-Altenburg", "Princess Marie of Saxe-Altenburg (1854\u20131898)", "Princess Elisabeth Sophie of Saxe-Altenburg", "Dorothea of Saxe-Altenburg", "Princess Alexandra of Saxe-Altenburg", "Princess Marie of Hanover"]
+Q: What nationality is Princess Marie Gasparine Of Saxe-Altenburg's husband?
+A: "German"
+Q: [EOQ]
+S: 0.0
+
+374844b20baf11ebab90acde48001122
+Who is Ermengarde Of Tuscany's paternal grandfather?
+A: ["Ermengarde of Tuscany", "Ermengarde of Limburg", "Ermengarde-Gerberga of Anjou", "Ermengarde of Burgundy", "Ermengarde of Tours", "Ermengarde, Viscountess of Narbonne", "Ermengard of Italy", "Paternity (film)", "Ermengarde of Hesbaye", "Ermengarde of Nevers", "Ermengarde of Tonnerre"]
+Q: Who is Ermengarde Of Tuscany's paternal grandfather?
+A: "Bertha of Lotharingia"
+Q: [EOQ]
+S: 0.0
+
+372d95020bde11eba7f7acde48001122
+Where was the performer of song Evolution (Ayumi Hamasaki Song) born?
+A: ["Evolution (Ayumi Hamasaki song)", "You & Me (Ayumi Hamasaki song)", "You (Ayumi Hamasaki song)", "Trust (Ayumi Hamasaki song)", "Blue Bird (Ayumi Hamasaki song)", "Merry-Go-Round (Ayumi Hamasaki song)", "Feel the Love (Ayumi Hamasaki song)", "Ayumi Hamasaki", "M (song)", "Line in the Sand (Mot\u00f6rhead song)", "Born (song)", "Kazuhito Kikuchi", "Ayuready?", "Thumbs (song)"]
+Q: Where was the performer of song Evolution (Ayumi Hamasaki Song) born?
+A: "Fukuoka, Fukuoka Prefecture"
+Q: [EOQ]
+S: 0.0
+
+8bb16ff00bdd11eba7f7acde48001122
+Where was the place of death of Kim Utzon's father?
+A: ["Kim Utzon", "Jan Utzon", "Utzon's House in Helleb\u00e6k", "J\u00f8rn Utzon", "Kim Han-sol", "Kim Joong-up", "Kim Jong-il", "Kim Young-sook", "White: Melody of Death", "Kim Hyong-jik", "Kim Chang-ju", "Kim Ok", "Kim Seung-ho", "Kim Seung-gu"]
+Q: Where was the place of death of Kim Utzon's father?
+A: "Copenhagen"
+Q: [EOQ]
+S: 0.0
+
+b8a95fa60bdb11eba7f7acde48001122
+Where did the director of film Walkover (Film) graduate from?
+A: ["Walkover (film)", "Graduation (2016 film)", "I Did It (film)", "Graduation (2007 film)", "Graduate First", "A Lady Did It", "The Woman Who Did (1915 film)", "Zhang Yang (director)", "The Young Graduates", "Graduation Party", "I Graduated, But...", "Prem (film director)", "The Woman Who Did (1925 film)"]
+Q: Where did the director of film Walkover (Film) graduate from?
+A: "Sun Yat-sen University"
+Q: [EOQ]
+S: 0.0
+
+6434ea6708eb11ebbda7ac1f6bf848b6
+Are both Matt Stephens (Politician) and David Townsend (Musician) from the same country?
+A: ["David Townsend (musician)", "David R. Townsend Jr.", "Matt Stephens (politician)", "Richard Townsend (politician)", "Bryan Townsend (Irish politician)", "Captain Thomas Townsend", "Jonathan Townsend", "Matt Taylor (musician)", "Stephen Jackson (musician)", "James W. Townsend House", "Addicted (Devin Townsend Project album)", "Nick J. Townsend", "Townsend's shearwater", "Richard Boyle Townsend", "Matt Glass"]
+Q: Are both Matt Stephens (Politician) and David Townsend (Musician) from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+f557639c0bdd11eba7f7acde48001122
+When did Edmund Grey, 1St Earl Of Kent's father die?
+A: ["Edmund Grey, 1st Earl of Kent", "George Grey, 2nd Earl of Kent", "Edmund of Woodstock, 1st Earl of Kent", "Henry Grey, 4th Earl of Kent", "Henry Grey, 8th Earl of Kent", "Anthony Grey, 9th Earl of Kent", "Edmund Holland, 4th Earl of Kent", "Anthony Grey, 11th Earl of Kent", "Henry Grey, 6th Earl of Kent", "Edmund, 2nd Earl of Kent", "Philip Kent Grey, 7th Earl Grey"]
+Q: When did Edmund Grey, 1St Earl Of Kent's father die?
+A: 1865
+Q: [EOQ]
+S: 0.0
+
+d8dd8102084e11ebbd56ac1f6bf848b6
+Which film has the director who was born later, Common Clay (1919 Film) or I'M From The City?
+A: ["Common Clay (1919 film)", "God's Clay (1919 film)", "Common Clay (1930 film)", "I'm From the City", "God's Clay (1928 film)", "Clay Kaytis", "The City of Beautiful Nonsense (1919 film)", "I'm from Arkansas", "A Damsel in Distress (1919 film)", "Lilli (1919 film)", "Alan Clay", "Clay (1965 film)", "Desert Gold (1919 film)"]
+Q: Which film has the director who was born later, Common Clay (1919 Film) or I'M From The City?
+A: "I'M From The City"
+Q: [EOQ]
+S: 0.0
+
+77119398087411ebbd67ac1f6bf848b6
+Which film was released earlier, The Apocalypse Code or Just Imagine?
+A: ["Just Imagine", "The Apocalypse Code", "Warriors of the Apocalypse (2009 film)", "Deadman Apocalypse", "Apocalypse Oz", "Apocalypse Now Redux", "Aya: Imagined Autobiography", "Code Name: Wild Geese", "Imagine That", "Imagine (2012 film)", "Apocalypse, CA", "Imagination (film)", "Just a Gigolo (1931 film)", "Apocalypse of Ezra"]
+Q: Which film was released earlier, The Apocalypse Code or Just Imagine?
+A: "Just Imagine"
+Q: [EOQ]
+S: 0.0
+
+cf9a08f608c911ebbd92ac1f6bf848b6
+Which film has the director died earlier, No, No, Nanette (1930 Film) or What'S Your Husband Doing??
+A: ["What's Your Husband Doing?", "No, No, Nanette (1930 film)", "No, No, Nanette (1940 film)", "What's Wrong with Nanette?", "Nanette (film)", "Don't Change Your Husband (1929 film)", "Nanette Burstein", "Don't Change Your Husband", "Nanette Makes Everything", "Lend Me Your Husband", "What Men Want (1930 film)", "Do Your Duty", "What Made Her Do It?"]
+Q: Which film has the director died earlier, No, No, Nanette (1930 Film) or What'S Your Husband Doing??
+A: "No, No, Nanette"
+Q: [EOQ]
+S: 0.0
+
+a1feed9c0baf11ebab90acde48001122
+Who is Rudolf Hesso, Margrave Of Baden-Baden's mother-in-law?
+A: ["Rudolf Hesso, Margrave of Baden-Baden", "Hesso, Margrave of Baden-Baden", "Herman VIII, Margrave of Baden-Baden", "Rudolf II, Margrave of Baden-Baden", "Louis George, Margrave of Baden-Baden", "Philip II, Margrave of Baden-Baden", "Augustus George, Margrave of Baden-Baden", "Louis William, Margrave of Baden-Baden", "William, Margrave of Baden-Baden", "Leopold Wilhelm, Margrave of Baden-Baden", "Philibert, Margrave of Baden-Baden", "Charles I, Margrave of Baden-Baden", "Christoph I, Margrave of Baden-Baden"]
+Q: Who is Rudolf Hesso, Margrave Of Baden-Baden's mother-in-law?
+A: "Sibylle of Saxe-Lauenburg"
+Q: [EOQ]
+S: 0.0
+
+e63572a20bdb11eba7f7acde48001122
+Who is the spouse of the director of film Dhaya (Film)?
+A: ["Dhaya (film)", "Spouse of the Prime Minister of Singapore", "Spouse of the Prime Minister of Malaysia", "Spouse of the Prime Minister of Cambodia", "List of spouses of Prime Ministers of Thailand", "Spouse of the President of the People's Republic of China", "Prem (film director)", "List of spouses of chief executives of Hong Kong", "Ashokan (film director)", "John Mackenzie (film director)", "Daniel Lee (film director)"]
+Q: Who is the spouse of the director of film Dhaya (Film)?
+A: "Prakash Raj"
+Q: [EOQ]
+S: 0.0
+
+5ead80ee0baf11ebab90acde48001122
+Who is Asma Al-Assad's father-in-law?
+A: ["Asma al-Assad", "Bassel al-Assad", "Ali Sulayman al-Assad", "Rifaat al-Assad", "Jamil al-Assad", "Qura al-Assad", "Basatin al-Assad", "Bassel Al-Assad International Airport", "Bushra al-Assad", "Bashar al-Assad", "Ribal al-Assad", "S\u00e9rgio Assad", "Janita Asma", "Clarice Assad"]
+Q: Who is Asma Al-Assad's father-in-law?
+A: "Bashar al-Assad"
+Q: [EOQ]
+S: 0.0
+
+f42ce6e60bdc11eba7f7acde48001122
+Who is the spouse of the performer of song Dreamworld (Robin Thicke Song)?
+A: ["Dreamworld (Robin Thicke song)", "Morning Sun (Robin Thicke song)", "Feel Good (Robin Thicke song)", "Something Else (Robin Thicke album)", "Dreamworld", "Robin Thicke", "Wanna Love You Girl", "The Longest Night (song)", "For the Rest of My Life (disambiguation)", "Get Her Back", "Paducah (song)", "Prince Ali (song)", "Angela (Bee Gees song)"]
+Q: Who is the spouse of the performer of song Dreamworld (Robin Thicke Song)?
+A: "Paula Patton"
+Q: [EOQ]
+S: 0.0
+
+ba1542d00bd911eba7f7acde48001122
+What is the place of birth of the director of film Will Not End Here?
+A: ["Place of birth", "Will Not End Here", "Happy End (1966 film)", "The Birth of a Race", "Here at the End of All Things", "If All Ever Ended Here", "Place of origin", "Here, Here and Here", "Here and There (film)", "By Right of Birth", "Birth Control (film)", "Sign Here, Here and Here", "Endings (film)"]
+Q: What is the place of birth of the director of film Will Not End Here?
+A: "Croatian"
+Q: [EOQ]
+S: 0.0
+
+4283fa7a0bdb11eba7f7acde48001122
+Where was the husband of Jana Tichá born?
+A: ["Jana Tich\u00e1", "Irena Tich\u00e1", "Zdena Tich\u00e1", "Jana Gantnerov\u00e1", "Pawe\u0142 Janas", "Jana Wendt", "Jana Lab\u00e1thov\u00e1", "Jana Nikolovska", "Jana Schmidt", "Jana Radosavljevi\u0107", "Jana Mlakar", "Jana Komrskov\u00e1", "Jana \u0160ko\u013cina", "Jana Kantorov\u00e1-B\u00e1likov\u00e1", "John Janas"]
+Q: Where was the husband of Jana Tichá born?
+A: "esk\u00e9 Budjovice"
+Q: [EOQ]
+S: 0.0
+
+2e75dcc60bde11eba7f7acde48001122
+What is the place of birth of the director of film El Cantor Del Pueblo?
+A: ["El cantor del pueblo", "El Cantor del circo", "El hijo del pueblo", "Itat\u00ed Cantoral", "Place of birth", "El Cantor de Buenos Aires", "El Hombre del a\u00f1o", "El Hijo del barrio", "El Mariscal del infierno", "El Club del clan", "El canto del gallo", "The Eddie Cantor Story", "El Sue\u00f1o del Mara'akame", "Steven Cantor"]
+Q: What is the place of birth of the director of film El Cantor Del Pueblo?
+A: "Buenos Aires"
+Q: [EOQ]
+S: 0.0
+
+1b2e956a092211ebbdaeac1f6bf848b6
+Which film was released more recently, A Night In Casablanca or Matir Ghar?
+A: ["Matir Ghar", "A Night in Casablanca", "Casablanca, Casablanca", "Matir Thikana", "Ghar (film)", "Ghar Ghar Ki Kahani", "Ghar Bazar", "Ghar Ghar Ki Kahani (1988 film)", "No More Lonely Nights", "One More Night", "Apna Ghar (1960 film)", "Ghar Sansar (1958 film)", "Yeh Teraa Ghar Yeh Meraa Ghar", "Swamir Ghar"]
+Q: Which film was released more recently, A Night In Casablanca or Matir Ghar?
+A: "Matir Ghar"
+Q: [EOQ]
+S: 0.0
+
+ce98e6620bd911eba7f7acde48001122
+Where was the place of death of Alessandro Ruspoli, 2Nd Prince Of Cerveteri's father?
+A: ["Alessandro Ruspoli, 2nd Prince of Cerveteri", "Alessandro Ruspoli, 4th Prince of Cerveteri", "Alessandro Ruspoli, 7th Prince of Cerveteri", "Francesco Ruspoli, 3rd Prince of Cerveteri", "Alessandro Ruspoli, 9th Prince of Cerveteri", "Giovanni Nepomucene Ruspoli, 5th Prince of Cerveteri", "Francesco Ruspoli, 8th Prince of Cerveteri", "Francesco Ruspoli, 10th Prince of Cerveteri"]
+Q: Where was the place of death of Alessandro Ruspoli, 2Nd Prince Of Cerveteri's father?
+A: "Rome"
+Q: [EOQ]
+S: 0.0
+
+fb846b8a0bdc11eba7f7acde48001122
+Who is the mother of the performer of song Passion (Utada Hikaru Song)?
+A: ["Passion (Utada Hikaru song)", "For You (Utada Hikaru song)", "First Love (Utada Hikaru song)", "Letters (song)", "Utada Hikaru", "First Love (Utada Hikaru album)", "Can't Wait 'Til Christmas", "Can You Keep a Secret? (song)", "The Passion of the Christ: Songs", "Passionate Song", "Kiss & Cry (song)", "Passion (Rod Stewart song)", "Night of Passion"]
+Q: Who is the mother of the performer of song Passion (Utada Hikaru Song)?
+A: "Maiti Alfonzetti"
+Q: [EOQ]
+S: 0.0
+
+fccfc4800baf11ebab90acde48001122
+Who is the paternal grandfather of Matthew Spender?
+A: ["Matthew Spender", "The Spender", "Philip Spender", "Natasha Spender", "The Spenders", "John Spender", "Michael Spender", "Dale Spender", "Elizabeth Spender", "Mama Kin Spender", "Nancy Spender", "Harold Spender", "J\u00e9r\u00e9my Spender"]
+Q: Who is the paternal grandfather of Matthew Spender?
+A: "Stephen Spender"
+Q: [EOQ]
+S: 0.0
+
+a8dc19ef08fa11ebbdacac1f6bf848b6
+Who was born later, Tsvetko Slavov or Marc Burrows?
+A: ["Tsvetko Slavov", "Marc Burrows", "James Burrows", "Stuart Burrows", "Jonathan Burrows (producer)", "Steven Burrows", "Karl Burrows", "Jamie Burrows", "Frank Burrows", "Tony Burrows", "Phil Burrows", "Norma Burrowes", "Geoff Burrowes", "Larry Burrows"]
+Q: Who was born later, Tsvetko Slavov or Marc Burrows?
+A: "Marc Burrows"
+Q: [EOQ]
+S: 0.0
+
+d3faf22c096411ebbdafac1f6bf848b6
+Which film was released earlier, Orma Mathram or Game Of Death?
+A: ["Orma Mathram", "Ormas, Indiana", "Game of Death", "January Oru Orma", "Game of Death (disambiguation)", "Ithu Oru Thudakkom Mathram", "The True Game of Death", "Game of Death (2010 film)", "Hridayathil Nee Mathram", "A Game of Death", "Game of Death II", "Madhu Kaithapram", "Goodbye Bruce Lee: His Last Game of Death"]
+Q: Which film was released earlier, Orma Mathram or Game Of Death?
+A: "Game of Death"
+Q: [EOQ]
+S: 0.0
+
+4e7c40ed08ea11ebbda7ac1f6bf848b6
+Are Biff Schlitzer and Ryan Groy both from the same country?
+A: ["Biff Schlitzer", "Ryan Groy", "Biff Manard", "Biff Elliot", "Country Is", "Same Same", "Biff Yeager", "If It's All the Same to You", "Tonia Ryan", "Ryan Tyler", "Ryan Estep", "Ryan Adams & the Cardinals: A View of Other Windows", "The Both", "Ryan Crossroads, Alabama", "Be Real (Phoebe Ryan song)"]
+Q: Are Biff Schlitzer and Ryan Groy both from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+b6fdf7820bdd11eba7f7acde48001122
+What is the place of birth of Teresa Gil De Vidaure's husband?
+A: ["Teresa Gil de Vidaure", "Place of birth", "Gil de Le\u00f3n", "Jose de Teresa", "Mart\u00edn Alfonso de Le\u00f3n", "Teresa Larra\u00edn", "The Husbands of Leontine", "Mar\u00eda Teresa de Vega", "Gil", "Maria Teresa Rafaela of Spain", "Teresa Venerd\u00ec", "Teresa Edwards", "Infanta Mar\u00eda Teresa of Spain"]
+Q: What is the place of birth of Teresa Gil De Vidaure's husband?
+A: "King James I of Aragon"
+Q: [EOQ]
+S: 0.0
+
+a4effe30089211ebbd73ac1f6bf848b6
+Which film came out earlier, Painted Post (Film) or Katka'S Reinette Apples?
+A: ["Katka's Reinette Apples", "Painted Post (film)", "Painted Post station", "Painted Post, New York", "Four Adventures of Reinette and Mirabelle", "The Man from Painted Post", "Came Out of the Grave", "Corning\u2013Painted Post Airport", "The Red Apple (film)", "The Night Evelyn Came Out of the Grave", "Apple Trees (film)", "The Day the Fish Came Out", "Adam's Apple (film)"]
+Q: Which film came out earlier, Painted Post (Film) or Katka'S Reinette Apples?
+A: "Painted Post"
+Q: [EOQ]
+S: 0.0
+
+4a3edf720bdc11eba7f7acde48001122
+When did Louisa Grace Beauclerk, Duchess Of St Albans's mother die?
+A: ["Louisa Grace Beauclerk, Duchess of St Albans", "Catherine Beauclerk, Duchess of St Albans", "Maria Beauclerk, Duchess of St Albans", "Suzanne Beauclerk, Duchess of St Albans", "George Beauclerk, 4th Duke of St Albans", "Duchess of St Albans", "George Beauclerk, 3rd Duke of St Albans", "Aubrey Beauclerk, 6th Duke of St Albans", "Charles Beauclerk, 2nd Duke of St Albans", "Charles Beauclerk, 13th Duke of St Albans", "Charles Beauclerk, 1st Duke of St Albans", "Murray Beauclerk, 14th Duke of St Albans", "Lord George Beauclerk", "Dean of St Albans"]
+Q: When did Louisa Grace Beauclerk, Duchess Of St Albans's mother die?
+A: "19 February 1816"
+Q: [EOQ]
+S: 0.0
+
+7e6f0a86085f11ebbd5cac1f6bf848b6
+Which film has the director who is older, The Return Of Boston Blackie or Dayavan?
+A: ["The Return of Boston Blackie", "Alias Boston Blackie", "Boston Blackie and the Law", "Boston Blackie's Rendezvous", "Confessions of Boston Blackie", "Trapped by Boston Blackie", "A Close Call for Boston Blackie", "Boston Blackie's Chinese Venture", "After Midnight with Boston Blackie", "Boston Blackie Goes Hollywood", "Boston Blackie Booked on Suspicion", "Meet Boston Blackie", "Boston Blackie (film)"]
+Q: Which film has the director who is older, The Return Of Boston Blackie or Dayavan?
+A: "The Return Of Boston Blackie"
+Q: [EOQ]
+S: 0.0
+
+389e053c0bdb11eba7f7acde48001122
+What is the place of birth of Aleksey Greig's father?
+A: ["Aleksey Greig", "Place of birth", "Keiller Greig", "Geordie Greig", "Samuel Greig", "Kyle Greig", "Mel Greig", "Charlotte Greig", "Mitchey Greig", "John Greig (mathematician)", "Aleksey Apukhtin", "Aleksei Domshinskiy", "Aleksei Kutsenko", "Aleksei Panin", "Aleksei Yeryomin"]
+Q: What is the place of birth of Aleksey Greig's father?
+A: "Kronstadt"
+Q: [EOQ]
+S: 0.0
+
+3cfafc9a088211ebbd6dac1f6bf848b6
+Which film has the director who is older, Instructions Not Included or Tainted?
+A: ["Instructions Not Included", "Tainted", "The Taint (film)", "Instructing the Heart", "Older Sister", "Ten Thousand Years Older", "Batteries Not Included", "Ravichandran (Tamil film director)", "Charles Older", "Older But No Wiser", "Kicha (director)", "Ramana (director)"]
+Q: Which film has the director who is older, Instructions Not Included or Tainted?
+A: "Tainted"
+Q: [EOQ]
+S: 0.0
+
+fb1ef77a0bda11eba7f7acde48001122
+Who is the spouse of the director of film Voices (1973 Film)?
+A: ["Voices (1973 film)", "The Voice (1982 film)", "The Voice (1920 film)", "The Table (1973 film)", "Voice of Silence (2013 film)", "Belle (1973 film)", "My Voice (film)", "The Invitation (1973 film)", "The Voice of Love (film)", "A Voice in the Dark (film)", "Little Voice (film)", "Jaal (1973 film)", "The Voice of the Heart (1924 film)"]
+Q: Who is the spouse of the director of film Voices (1973 Film)?
+A: "Gayle Hunnicutt"
+Q: [EOQ]
+S: 0.0
+
+a458e6be088a11ebbd6fac1f6bf848b6
+Who died first, Lotte Backes or Willem Van Haecht?
+A: ["Willem van Haecht", "Willem van Haecht the Elder", "Lotte Backes", "Willem van Haren", "Willem van Herp", "Willem van Loon", "Willem van den Blocke", "Willem van Oldenbarnevelt", "Willem van den Bundel", "Willem van Aelst", "Jan Willem van Ede", "Willem van der Vliet", "Willem van der Codde", "Jan-Willem van Ewijk"]
+Q: Who died first, Lotte Backes or Willem Van Haecht?
+A: "Willem van Haecht"
+Q: [EOQ]
+S: 0.0
+
+5e5e5ee908d911ebbd9cac1f6bf848b6
+Which film has the director who died later, Ridin' Pretty or How Strange To Be Named Federico?
+A: ["How Strange to Be Named Federico", "Ridin' Pretty", "Died Pretty", "Ridin' Wild", "Ridin' Thru", "The Ridin' Rascal", "Ridin' the Wind", "Ridin' the Outlaw Trail", "Ridin' Wild (1922 film)", "Mark Strange", "Ridin' on a Rainbow", "Rough Ridin' Red", "Federico Barocci"]
+Q: Which film has the director who died later, Ridin' Pretty or How Strange To Be Named Federico?
+A: "How Strange to Be Named Federico"
+Q: [EOQ]
+S: 0.0
+
+a60b882008b711ebbd88ac1f6bf848b6
+Was Shakila or Øyvind Leonhardsen born first?
+A: ["\u00d8yvind Leonhardsen", "Shakila Karim", "Shakila", "Shakila (actress)", "\u00d8yvind Venner\u00f8d", "\u00d8yvind Dahl", "\u00d8yvind Alfred Stensrud", "Gone Too Soon (Shakila Karim song)", "First Born (film)", "\u00d8yvind Torvund", "Mulzim (1963 film)", "The First Born (1921 film)", "First Born (Eyedea & Abilities album)", "The First Born (1928 film)", "Thank You for the Sunshine"]
+Q: Was Shakila or Øyvind Leonhardsen born first?
+A: "Shakila"
+Q: [EOQ]
+S: 0.0
+
+be53860608d011ebbd95ac1f6bf848b6
+Which film has the director who was born earlier, Brink Of Disaster! or Pro Domo?
+A: ["Pro domo", "Pro domo (disambiguation)", "Brink of Disaster!", "Brink of Disaster", "On the Brink", "The Brink", "Brink of Life", "Sjoert Brink", "Royal Alexander Brink", "The Brink's Job", "It's a Disaster", "Back from the Brink", "Gary J. Brink"]
+Q: Which film has the director who was born earlier, Brink Of Disaster! or Pro Domo?
+A: "Brink of Disaster!"
+Q: [EOQ]
+S: 0.0
+
+29487dfc0bda11eba7f7acde48001122
+What is the place of birth of the director of film Reel Zombies?
+A: ["Reel Zombies", "Place of birth", "Zombie Night 2: Awakening", "Zombies! Zombies! Zombies!", "Zombi Kampung Pisang", "Black Reel Award for Outstanding Independent Film", "Vampires vs. Zombies", "L.A. Zombie", "Plaga Zombie (film series)", "Zombies on Broadway", "Revolt of the Zombies"]
+Q: What is the place of birth of the director of film Reel Zombies?
+A: "Canada"
+Q: [EOQ]
+S: 0.0
+
+e7e127d00baf11ebab90acde48001122
+Who is Gülçiçek Hatun's mother-in-law?
+A: ["G\u00fcl\u00e7i\u00e7ek Hatun", "Aspor\u00e7a Hatun", "Nil\u00fcfer Hatun", "H\u00fcma Hatun", "Emine Hatun", "\u00c7i\u00e7ek Hatun", "Halime Hatun", "G\u00fclfem Hatun", "Devlet Hatun", "Nefise Hatun", "G\u00fclbahar Hatun (wife of Bayezid II)"]
+Q: Who is Gülçiçek Hatun's mother-in-law?
+A: "H\u00fcma Hatun"
+Q: [EOQ]
+S: 0.0
+
+50a388f20bde11eba7f7acde48001122
+Where was the father of Eric Young Jr. born?
+A: ["Eric Young Jr.", "Eric Young (baseball)", "Charles Young Jr.", "Eric Trump", "Donald Trump Jr.", "Eric Lloyd Wright", "John J. Young Jr.", "David M. Young Jr.", "Eric Etheridge", "Kevin Young (basketball, born 1990)", "Eric Doitch", "Eric Garc\u00eda (footballer, born 1993)", "Eric Steelberg", "Born of Unknown Father"]
+Q: Where was the father of Eric Young Jr. born?
+A: "New Brunswick, New Jersey"
+Q: [EOQ]
+S: 0.0
+
+2d7263cc0bdd11eba7f7acde48001122
+Where did the director of film 2001: A Space Odyssey (Film) die?
+A: ["2001: A Space Odyssey", "2001: A Space Odyssey (score)", "2001: A Space Odyssey (disambiguation)", "2001: A Space Odyssey (film)", "Star Odyssey", "All Cheerleaders Die (2001 film)", "2001: A Space Travesty", "Did a Good Man Die?", "The Odyssey (film)", "A Chinese Odyssey", "An Odyssey of the North"]
+Q: Where did the director of film 2001: A Space Odyssey (Film) die?
+A: "Los Angeles"
+Q: [EOQ]
+S: 0.0
+
+dfdff31c0bdd11eba7f7acde48001122
+When is John Dalrymple, 12Th Earl Of Stair's father's birthday?
+A: ["John Dalrymple, 12th Earl of Stair", "John Dalrymple, 13th Earl of Stair", "John Dalrymple, 7th Earl of Stair", "John Dalrymple, 5th Earl of Stair", "John Dalrymple, 6th Earl of Stair", "John Dalrymple, 8th Earl of Stair", "John Dalrymple, 11th Earl of Stair", "James Dalrymple, 3rd Earl of Stair", "John Dalrymple, 10th Earl of Stair", "John Dalrymple, 14th Earl of Stair", "William Dalrymple (British Army officer)", "North Dalrymple, 9th Earl of Stair"]
+Q: When is John Dalrymple, 12Th Earl Of Stair's father's birthday?
+A: "1 February 1879"
+Q: [EOQ]
+S: 0.0
+
+2b75986e0bdd11eba7f7acde48001122
+Where was the place of burial of Zeenat Mahal's husband?
+A: ["Zeenat Mahal", "Burial place of Fatimah", "Mumtaz Mahal", "Zeenat Karzai", "Zeenat (1945 film)", "Book of Burial", "Oo Na, Mahal Na Kung Mahal", "Jahangir Mahal, Orchha", "Zeenat-un-Nissa", "Planning for Burial", "Aurangabadi Mahal", "Dahil Mahal na Mahal Kita", "Ivan Mahal", "Taj Mahal (1963 film)"]
+Q: Where was the place of burial of Zeenat Mahal's husband?
+A: "Orchha Palace"
+Q: [EOQ]
+S: 0.0
+
+23a101880bdc11eba7f7acde48001122
+What nationality is the director of film La Torre De Suso?
+A: ["La torre de Suso", "Claudio de la Torre (writer)", "La Torre de Cabdella", "Lola de la Torre", "Facundo de la Torre", "La Torre de Claramunt", "Sylvia La Torre", "Ra\u00fal de la Torre", "Jose Ramon de la Torre", "Jos\u00e9 Manuel de la Torre", "Josefina de la Torre", "Hector De La Torre", "La Torre de los suplicios", "Antonio de la Torre (soccer)"]
+Q: What nationality is the director of film La Torre De Suso?
+A: "Spanish"
+Q: [EOQ]
+S: 0.0
+
+5a64415f086111ebbd5dac1f6bf848b6
+Who was born first, Mary Lou Marzian or Charles Gonthier, Prince Of Schwarzburg-Sondershausen?
+A: ["Charles Gonthier, Prince of Schwarzburg-Sondershausen", "Henry XXXV, Prince of Schwarzburg-Sondershausen", "G\u00fcnther XLIII, Prince of Schwarzburg-Sondershausen", "Mary Lou Marzian", "Princess Marie Gasparine of Saxe-Altenburg", "Sizzo, Prince of Schwarzburg", "Anton Henry, Count of Schwarzburg-Sondershausen", "Friedrich G\u00fcnther, Prince of Schwarzburg", "John G\u00fcnther I, Count of Schwarzburg-Sondershausen", "Christian G\u00fcnther I, Count of Schwarzburg-Sondershausen", "Anton G\u00fcnther I, Count of Schwarzburg-Sondershausen", "Frederick Charles, Prince of Schwarzburg-Rudolstadt", "Princess Marie Antoinette of Schwarzburg", "G\u00fcnther XL, Count of Schwarzburg"]
+Q: Who was born first, Mary Lou Marzian or Charles Gonthier, Prince Of Schwarzburg-Sondershausen?
+A: "Mary Lou Marzian"
+Q: [EOQ]
+S: 0.0
+
+bc5a9fef086c11ebbd61ac1f6bf848b6
+Who died later, Giovanni Dei Conti Di Segni or Sakari Simelius?
+A: ["Giovanni dei Conti di Segni", "Ottaviano dei Conti di Segni", "Sakari Simelius", "San Giovanni Battista dei Cavalieri di Rodi", "Giacomo Di Segni", "Andrea dei Conti", "Giovanni dei Tagliacozzi", "Giovanni dei Porcari", "Pellegrino di Giovanni", "Bartolomeo di Giovanni", "Girolamo di Giovanni di Camerino", "Alessio Di Giovanni", "Dario di Giovanni", "Giuseppe Di Giovanni", "Fiorenzo Di Giovanni"]
+Q: Who died later, Giovanni Dei Conti Di Segni or Sakari Simelius?
+A: "Sakari Simelius"
+Q: [EOQ]
+S: 0.0
+
+f481b6100bd911eba7f7acde48001122
+Which country Katherine De Stafford's husband is from?
+A: ["Katherine de Stafford", "Katherine de la Pole", "Margaret de Stafford", "Robert de Stafford", "Philippa de Beauchamp", "Edmund Stafford, 1st Baron Stafford", "Hugh Stafford, 2nd Earl of Stafford", "Ralph Stafford, 1st Earl of Stafford", "Elizabeth Stafford", "Edmund Stafford, 5th Earl of Stafford"]
+Q: Which country Katherine De Stafford's husband is from?
+A: "England"
+Q: [EOQ]
+S: 0.0
+
+383f1ba4084b11ebbd56ac1f6bf848b6
+Which film was released first, S*P*Y*S or Why Would I Lie??
+A: ["S*P*Y*S", "S. P. Rajkumar", "Why Would I Lie?", "S. P. Jananathan", "P. S. Nivas", "S. P. Jayaraman", "P. S. Veerappa", "S. P. Parasuram", "S. P. B. Charan", "S. P. Bhargavi", "S&P 500 Index", "S. P. Muthuraman", "P. S. Muthuselvan"]
+Q: Which film was released first, S*P*Y*S or Why Would I Lie??
+A: "Why Would I Lie?"
+Q: [EOQ]
+S: 0.0
+
+d76a9dfc08ba11ebbd88ac1f6bf848b6
+Which film has the director who is older than the other, Street Days or The Story Of Two Women? 
+A: ["The Story of Two Women", "Some Days Are Better Than Others", "Glory Days and Other Stories", "In Praise of Older Women (1978 film)", "Between Two Women (2000 film)", "Two Women (1999 film)", "In Praise of Older Women (1997 film)", "Robert Day (director)", "Story of Women", "Street of Women", "The Other Story (film)", "Three Days (1992 film)", "Two Women"]
+Q: Which film has the director who is older than the other, Street Days or The Story Of Two Women?
+A: "The Story Of Two Women"
+Q: [EOQ]
+S: 0.0
+
+654d62ba0bb011ebab90acde48001122
+Who is Mary Willing Byrd's child?
+A: ["Mary Willing Byrd", "William Byrd III", "Charles Willing Byrd", "Mary Willing Clymer", "Mount Burnham (Marie Byrd Land)", "Byrd in the Wind", "Bobby Byrd", "Wills & Burke", "Harry Byrd", "Wills Sainte Claire", "The Byrds", "Byrds (album)", "The Byrds' Greatest Hits", "Jennifer Hope Wills", "The Spirit Is Willing"]
+Q: Who is Mary Willing Byrd's child?
+A: "Charles Willing"
+Q: [EOQ]
+S: 0.0
+
+a4721ae4092f11ebbdaeac1f6bf848b6
+Which film was released earlier, Robotech: The Movie or Lakeeran?
+A: ["Robotech: The Movie", "Lakeeran", "Robotech 3000", "Robotech: Love Live Alive", "ABBA: The Movie", "Release (film)", "Then: The Earlier Years", "Blue Movie", "Road, Movie", "The Fluffy Movie", "A Movie", "ITV at the Movies", "Choices: The Movie", "Catch and Release (film)"]
+Q: Which film was released earlier, Robotech: The Movie or Lakeeran?
+A: "Robotech: The Movie"
+Q: [EOQ]
+S: 0.0
+
+92e4c1960bdd11eba7f7acde48001122
+Where was the place of death of Phintys's father?
+A: ["Phintys", "Death Valley (disambiguation)", "In Memory of My Father", "Place of birth", "Shades Death Creek", "Father and Guns 2", "Place of origin", "Fighting Death", "Three Fathers for Anna", "Father to Be", "No Place (disambiguation)", "The Father Christmas Letters", "A Place with No Name"]
+Q: Where was the place of death of Phintys's father?
+A: "Battle of Arginusae"
+Q: [EOQ]
+S: 0.0
+
+fb37a7ac097511ebbdb0ac1f6bf848b6
+Which film came out first, The Tango Of Our Childhood or Clubbed?
+A: ["The Tango of Our Childhood", "Histoire du Tango", "Came Out of the Grave", "Out of Our Heads (disambiguation)", "The Night Evelyn Came Out of the Grave", "Out of Our Minds (film)", "A Childhood", "Tango (1998 film)", "Out of Our Minds", "The Soul of a Tango", "Heartbreak Tango (film)"]
+Q: Which film came out first, The Tango Of Our Childhood or Clubbed?
+A: "The Tango Of Our Childhood"
+Q: [EOQ]
+S: 0.0
+
+04b2864e0bdb11eba7f7acde48001122
+Where was the director of film Trick For Trick born?
+A: ["Trick for Trick", "Tricks (film)", "Ryan Tricks", "Trick (film)", "Trick or treat (disambiguation)", "Magic Trick (film)", "Cheap Trick", "Trick of the Light", "Dirty Tricks", "The Last Trick", "Stephanie Trick", "A Trick of Fate", "Trick (2019 film)"]
+Q: Where was the director of film Trick For Trick born?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+47219fad085111ebbd58ac1f6bf848b6
+Are both airports, Far View Airport and Bellevue Airfield, located in the same country?
+A: ["Far View Airport", "Mountain View Airport (Missouri)", "Valley View Airport", "Mountain View Airport", "Bellevue Airfield", "Lae Nadzab Airport", "Mountain View Airport (Arkansas)", "Dolores Airport", "Mosteiros Airport", "Reconquista Airport", "Juniper Airport", "Doaktown Airport", "Brockway Airport", "Union Airport (Nebraska)", "Trenton/Mountain View Airport"]
+Q: Are both airports, Far View Airport and Bellevue Airfield, located in the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+f64359840bae11ebab90acde48001122
+Who is the paternal grandfather of Mehmet I Of Karaman?
+A: ["Mehmet I of Karaman", "Mehmet II of Karaman", "G\u00fcneri of Karaman", "Karaman Bey", "Firman of Karamano\u011flu Mehmet Bey", "Mahmut of Karaman", "Pir Ahmet of Karaman", "Karaman, Zonguldak", "Ahmet of Karaman", "Alaattin Ali of Karaman", "Ibrahim II of Karaman", "Kenan Karaman", "Mehmet Akif Pasha"]
+Q: Who is the paternal grandfather of Mehmet I Of Karaman?
+A: "Mehmet I"
+Q: [EOQ]
+S: 0.0
+
+3644026908df11ebbda0ac1f6bf848b6
+Who is younger, Achim Steiner or Norberto Bravo?
+A: ["Norberto Bravo", "Achim Steiner", "Achim Beierlorzer", "Achim Petry", "Achim Stoia", "Norberto's Deadline", "Norberto Barba", "Norberto Pereira Marinho Neto", "Elio Steiner", "Peter Steiner", "Norberto Arrieta", "Achim Mentzel", "Achim Krause-Wichmann", "Norberto Aroldi", "Hermann Steiner"]
+Q: Who is younger, Achim Steiner or Norberto Bravo?
+A: "Achim Steiner"
+Q: [EOQ]
+S: 0.0
+
+91f1a2ae0bdd11eba7f7acde48001122
+What nationality is the director of film Little Fish (Upcoming Film)?
+A: ["Little Fish (upcoming film)", "Little Fish (2005 film)", "Little Fish", "Little Fish, Strange Pond", "Peculiarities of the National Fishing", "Summerland (upcoming film)", "Swim Little Fish Swim", "The Swordsman (upcoming film)", "Go Fish (film)", "Anastasia (upcoming film)", "Flying Fish (film)", "The Price (upcoming film)", "Resistance (upcoming film)"]
+Q: What nationality is the director of film Little Fish (Upcoming Film)?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+c68eb0be08e611ebbda5ac1f6bf848b6
+Which film has the director who was born later, Felices 140 or Dr. Who And The Daleks?
+A: ["Felices 140", "Dr. Who and the Daleks", "Daleks' Invasion Earth 2150 A.D.", "Felice...Felice...", "Felice Mancini", "Felicity (film)", "Short Trips: Dalek Empire", "Felice Damiani", "Felicity Land", "Felice Bauer", "Felicity Kendal", "Felice Salis", "Felicity Dean"]
+Q: Which film has the director who was born later, Felices 140 or Dr. Who And The Daleks?
+A: "Dr. Who and the Daleks"
+Q: [EOQ]
+S: 0.0
+
+c69fb1bc0bdd11eba7f7acde48001122
+Where did the director of film Life Without Soul die?
+A: ["Life Without Soul", "The Woman Without a Soul", "A Man Without a Soul", "Men Without Souls", "With Life and Soul", "Did a Good Man Die?", "Body Without Soul", "The Woman Without Nerves", "The Searching Soul", "My Life Without Me", "A Life Without Pain", "Freeze Die Come to Life", "A Time to Die (1982 film)"]
+Q: Where did the director of film Life Without Soul die?
+A: "Prague"
+Q: [EOQ]
+S: 0.0
+
+b2db6b6c0bdd11eba7f7acde48001122
+Where did the director of film Little Door Gods study?
+A: ["Little Door Gods", "The Little Door Into the World", "The Little Lady Next Door", "Little Brother of God", "Door (Every Little Thing album)", "No Names on the Doors", "God of Gamblers II", "Door to Door (album)", "The Locked Door", "Red Doors", "God's Comedy", "The Door", "Behind Locked Doors (1991 film)"]
+Q: Where did the director of film Little Door Gods study?
+A: "China"
+Q: [EOQ]
+S: 0.0
+
+1de1d43a08c211ebbd8bac1f6bf848b6
+Which film whose director was born first, Wedding In Paris or Twists Of Fate?
+A: ["Twist of Fate", "Twist of Fate (film)", "Twists of Fate", "A Simple Twist of Fate", "Wedding in Paris", "General Hospital: Twist of Fate", "The Wedding Director", "My First Wedding (2006 film)", "My First Wedding", "Oliver Twist (1912 film)", "My First Wedding (2011 film)", "Derek Twist", "Robert Fate"]
+Q: Which film whose director was born first, Wedding In Paris or Twists Of Fate?
+A: "Twists of Fate"
+Q: [EOQ]
+S: 0.0
+
+995e4c44088711ebbd6dac1f6bf848b6
+Which film has the director who died later, Searchlight On Japan or Beauties Of The Night?
+A: ["Searchlight on Japan", "Seven Nights in Japan", "A City Is Beautiful at Night", "Beauties of the Night", "Beauties of the Night (2016 film)", "Night Has Settled", "Japan Japan", "The Night Has Eyes", "Night Terrors (film)", "The Beauty of Grace", "The Night of Nights", "The Bad and the Beautiful"]
+Q: Which film has the director who died later, Searchlight On Japan or Beauties Of The Night?
+A: "Searchlight On Japan"
+Q: [EOQ]
+S: 0.0
+
+39e5fd3308ea11ebbda7ac1f6bf848b6
+Are Kakwa River and Bighead River located in the same country?
+A: ["Kakwa River", "Bighead River", "River Country", "Peace River Country", "Nanaimo River", "Little River (Snowy River National Park)", "Grand River Airport", "Quepe River", "Murrindindi River", "Big River (Goulburn River, Victoria)", "Kolent\u00e9 River", "Diep River (Limpopo)", "North River (Cacapon River)", "Clearwater River (White River)", "Ochkhamuri river"]
+Q: Are Kakwa River and Bighead River located in the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+a5c2c52908a211ebbd7bac1f6bf848b6
+Which film came out earlier, Le Voyage En Douce or Cobwebs In Concrete?
+A: ["Le Voyage en douce", "Cobwebs in Concrete", "C\u00e9cile Le Bailly", "Le Voyage en Am\u00e9rique", "Jacqueline Parent", "L'\u00e9t\u00e9 en pente douce", "Jacques Pieiller", "Jean Crubelier", "Fran\u00e7oise Morhange", "Andr\u00e9 Marcon", "Le Voyage \u00e9tranger", "Le Voyage \u00e0 Alger", "The Cobweb (1917 film)"]
+Q: Which film came out earlier, Le Voyage En Douce or Cobwebs In Concrete?
+A: "Le Voyage en Douce"
+Q: [EOQ]
+S: 0.0
+
+3f71d76208de11ebbd9eac1f6bf848b6
+Which film has the director who died earlier, Sam'S Boy or The Pioneers (1926 Film)?
+A: ["The Pioneers (1926 film)", "Sam's Boy", "The Pioneers (1916 film)", "The Boy Friend (1926 film)", "It's a Boy (film)", "Boy (2009 film)", "For Heaven's Sake (1926 film)", "Penrod and Sam (1931 film)", "Hooray, It's a Boy! (1931 film)", "Sam Taylor (director)", "Pioneer (film)", "The Last Frontier (1926 film)"]
+Q: Which film has the director who died earlier, Sam'S Boy or The Pioneers (1926 Film)?
+A: "The Pioneers"
+Q: [EOQ]
+S: 0.0
+
+c3d904dc08fa11ebbdacac1f6bf848b6
+Which film came out earlier, Berkeley In The Sixties or Caesar Must Die?
+A: ["Caesar Must Die", "Berkeley in the Sixties", "This Man Must Die", "The Beast Must Die", "The Beast Must Die (1952 film)", "John Tucker Must Die (soundtrack)", "All Superheroes Must Die", "Man Must Die", "All Pigs Must Die", "The Pope Must Die", "He Who Must Die", "All Pigs Must Die (band)", "Bill Gates Must Die"]
+Q: Which film came out earlier, Berkeley In The Sixties or Caesar Must Die?
+A: "Berkeley in the Sixties"
+Q: [EOQ]
+S: 0.0
+
+fc031d360baf11ebab90acde48001122
+Who is the maternal grandfather of Berthold (Patriarch Of Aquileia)?
+A: ["Berthold (patriarch of Aquileia)", "Epiphanius (patriarch of Aquileia)", "Maxentius of Aquileia", "Paulinus I of Aquileia", "Pellegrinus I of Aquileia", "Hilarius of Aquileia", "Hermann Berthold", "Albert Pessler", "Berthold of Schweinfurt", "Berthold of Chiemsee", "Gregorio di Montelongo", "Berthold Leibinger", "Bertrand of Saint-Geni\u00e8s", "Berthold Leibinger Stiftung", "Berthold Leibinger Zukunftspreis"]
+Q: Who is the maternal grandfather of Berthold (Patriarch Of Aquileia)?
+A: "Gregorio di Montelongo"
+Q: [EOQ]
+S: 0.0
+
+6ee0b385096d11ebbdafac1f6bf848b6
+Are both Chak 26/11-L, Chichawatni and Chah-E Ali Kapari located in the same country?
+A: ["Chak 26/11-L, Chichawatni", "Chah-e Ali Kapari", "Noqsan-e Kapari", "Chah-e Ali, Kerman", "Chah-e Ali Sarbazi", "Chah-e Ali Baqery", "Chah-e Ali Pangi", "Chah-e Aruj Ali Joghatayi", "Chah-e Mohammad Ali Farahmand", "Chah-e Ali Ghazavi-ye Chahar", "Chah-e Ayibegi Mirza Gholam Ali", "Chak 285 JB", "Chah-e Hajj Reza Ali Jafari", "Yousuf Shah Chak", "Chah Ali, Fars"]
+Q: Are both Chak 26/11-L, Chichawatni and Chah-E Ali Kapari located in the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+6a3f3a92085d11ebbd5cac1f6bf848b6
+Which film has the director died later, God'S Will Be Done or Riding On Air?
+A: ["God's Will Be Done", "Riding on Air", "God Said Ha!", "What Has That Woman Done to You?", "Has God Forsaken Africa?", "When God Dies", "Air Mata Mengalir di Tjitarum", "Done by Mirrors", "Boy! What Love Has Done To Me!", "As God Commands (novel)", "By the Grace of God (film)", "Riding High (TV series)", "South Riding", "God's Comedy"]
+Q: Which film has the director died later, God'S Will Be Done or Riding On Air?
+A: "Riding On Air"
+Q: [EOQ]
+S: 0.0
+
+6ea43168084c11ebbd56ac1f6bf848b6
+Which film has the director born later, La Carapate or Rodeo Rhythm?
+A: ["La Carapate", "Rodeo Rhythm", "Rhythm of the Saddle", "Livermore Rodeo", "Rodeo (film)", "Wild Horse Rodeo", "Texas Prison Rodeo", "King of the Rodeo (film)", "Rhythm on the Range", "Black Rodeo", "Stereo Rodeo", "Angola Prison Rodeo", "John Laing (director)", "Rhythm Thief"]
+Q: Which film has the director born later, La Carapate or Rodeo Rhythm?
+A: "Rodeo Rhythm"
+Q: [EOQ]
+S: 0.0
+
+333f458a0bde11eba7f7acde48001122
+Where did Mary Ann Angell's husband die?
+A: ["Mary Ann Angell", "Marie Anne", "Anne St. Marie", "Marie-Anne (film)", "Anne Marie Telm\u00e1nyi", "Ann-Marie Gyllenspetz", "Did a Good Man Die?", "Mary Ann Paton", "Mary-Anne Fahey", "Mary Anne Barker", "Mary Ann M'Clintock", "Mary Ann Orger", "Anne-Marie Mallik", "St. Mary of the Angels", "Mary Ann (film)"]
+Q: Where did Mary Ann Angell's husband die?
+A: "in the river"
+Q: [EOQ]
+S: 0.0
+
+52ed2cb20bde11eba7f7acde48001122
+What is the place of birth of the director of film Panam (Film)?
+A: ["Place of birth", "Panam (film)", "Panam Padaithavan", "Panam Paduthum Padu", "Lady Paname", "Birth Control (film)", "The Birth of a Race", "By Right of Birth", "Place Vend\u00f4me (film)", "Place of origin", "No Place to Run (film)", "Cosmic Birth", "The Upper Hand (film)", "The Birth of a Baby"]
+Q: What is the place of birth of the director of film Panam (Film)?
+A: "India"
+Q: [EOQ]
+S: 0.0
+
+78505ad8088c11ebbd6fac1f6bf848b6
+Which film has the director died later, The Fighting Fist Of Shanghai Joe or With Life And Soul?
+A: ["The Fighting Fist of Shanghai Joe", "Fist Fight", "Return of Shanghai Joe", "Fist of Fury II", "Fist of Legend", "Joe Palooka in Fighting Mad", "Fight for Life", "The Fight for Life", "With Life and Soul", "Joe Palooka in the Big Fight", "Legend of the Fist: The Return of Chen Zhen"]
+Q: Which film has the director died later, The Fighting Fist Of Shanghai Joe or With Life And Soul?
+A: "With Life and Soul"
+Q: [EOQ]
+S: 0.0
+
+9704513d099f11ebbdb0ac1f6bf848b6
+Which song was released earlier, Come And See Me or Hanging On To Nothing?
+A: ["Hanging on to Nothing", "Come and See Me", "Come See About Me (disambiguation)", "Come See Me (112 song)", "Come See Me", "Come See Me Festival", "Come See About Me", "See Me, Feel Me", "Fire (Kids See Ghosts song)", "Come with Me (Ricky Martin song)", "Come Dance with Me (song)", "Come and See Her", "I See Me", "Come Go with Me (Pockets song)"]
+Q: Which song was released earlier, Come And See Me or Hanging On To Nothing?
+A: "Come and See Me"
+Q: [EOQ]
+S: 0.0
+
+3b0bf1500bde11eba7f7acde48001122
+Where was the place of death of Enheduanna's father?
+A: ["Enheduanna", "Death Valley (disambiguation)", "In Memory of My Father", "Place of birth", "Shades Death Creek", "Father and Guns 2", "Place of origin", "Fighting Death", "Three Fathers for Anna", "Father to Be", "No Place (disambiguation)", "The Father Christmas Letters", "A Place with No Name"]
+Q: Where was the place of death of Enheduanna's father?
+A: "Sumerian city-state of Ur"
+Q: [EOQ]
+S: 0.0
+
+3c10b1ba0bdb11eba7f7acde48001122
+What is the place of birth of Prince Nayef Bin Abdullah's father?
+A: ["Prince Nayef bin Abdullah", "Prince Asem bin Nayef", "Prince Hashem bin Abdullah", "Nayef bin Fawwaz Al Sha'lan", "Muqrin bin Abdulaziz", "Nayef bin Mamdouh bin Abdulaziz Al Saud", "Place of birth", "Prince Abdullah bin Jalawi Stadium", "Mish'aal bin Abdullah bin Abdulaziz bin Musa'ed Al Saud", "Princess Yasmine bint Asem", "Hamad bin Abdullah Al Thani", "Abdullah bin Jassim Al Thani"]
+Q: What is the place of birth of Prince Nayef Bin Abdullah's father?
+A: "Cairo"
+Q: [EOQ]
+S: 0.0
+
+16e20a3a0bde11eba7f7acde48001122
+Which country Li Lingrong's husband is from?
+A: ["Li Lingrong", "Her Husband Lies", "Wandering Husbands", "Li Li (table tennis)", "Li Fang (tennis)", "Li Chunyan", "Li", "Li Kening", "Wind from the Icy Country", "Country Is", "Man from God's Country", "Country Ain't Country", "Twenty Years and Two Husbands Ago", "Li Chongjun", "Li Xiaolin (politician)"]
+Q: Which country Li Lingrong's husband is from?
+A: "China"
+Q: [EOQ]
+S: 0.0
+
+b72c73d3088611ebbd6dac1f6bf848b6
+Who was born later, Edwin Vose Sumner Jr. or Rene Röthke?
+A: ["Edwin Vose Sumner Jr.", "Edwin Vose Sumner", "Rene R\u00f6thke", "Edwin A. Roberts Jr.", "Eliot Sumner", "Allen Melancthon Sumner", "Sumner Locke Elliott", "Wendy Rene", "William Scott Ketchum", "Leah Renee Cudmore", "Rene Rooze", "Charles A. Sumner", "Renee Griffin", "Renee Torres"]
+Q: Who was born later, Edwin Vose Sumner Jr. or Rene Röthke?
+A: "Rene R\u00f6thke"
+Q: [EOQ]
+S: 0.0
+
+55c66eca093111ebbdaeac1f6bf848b6
+Which film came out earlier, 100,000 Cobbers or A Thousand Months?
+A: ["100,000 Cobbers", "A Thousand Months", "Came Out of the Grave", "The Night Evelyn Came Out of the Grave", "The Day the Fish Came Out", "Thousand Words", "The Thousand Eyes of Dr. Mabuse", "And Then Came Love", "If a Thousand Clarinets", "A Thousand Words (film)", "A Month in the Country (film)", "The Thousand Plane Raid", "A Thousand Junkies", "Out of the Grave and into the Dark"]
+Q: Which film came out earlier, 100,000 Cobbers or A Thousand Months?
+A: "A Thousand Months"
+Q: [EOQ]
+S: 0.0
+
+8055aca40bdb11eba7f7acde48001122
+Which country the director of film Romanoff And Juliet (1961 Film) is from?
+A: ["Romanoff and Juliet (1961 film)", "Romanoff and Juliet", "Romanoff and Juliet (1964 film)", "In the Country of Juliets", "Romeo and Juliet on screen", "Letters to Juliet", "The Tragedy of Romeo and Juliet (film)", "Yishai Romanoff", "Romeo and Juliet (1954 film)", "Romeo and Juliet (1953 film)", "Romeo and Juliet (1940 film)", "The Man from Nowhere (1961 film)", "Romeo and Juliet (1964 film)"]
+Q: Which country the director of film Romanoff And Juliet (1961 Film) is from?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+86aedade0baf11ebab90acde48001122
+Who is Archduke Charles Joseph Of Austria (1745–1761)'s father?
+A: ["Archduke Charles Joseph of Austria (1745\u20131761)", "Archduke Charles Joseph of Austria", "Archduke Karl Ludwig of Austria", "Archduke Otto of Austria (1865\u20131906)", "Archduke Joseph Francis of Austria", "Archduke Simeon of Austria", "Archduke Joseph August of Austria", "Archduke Joseph \u00c1rp\u00e1d of Austria", "Archduke Leopold Joseph of Austria (1682\u20131684)", "Archduke Joseph Ferdinand of Austria"]
+Q: Who is Archduke Charles Joseph Of Austria (1745–1761)'s father?
+A: "Empress Maria Theresa I"
+Q: [EOQ]
+S: 0.0

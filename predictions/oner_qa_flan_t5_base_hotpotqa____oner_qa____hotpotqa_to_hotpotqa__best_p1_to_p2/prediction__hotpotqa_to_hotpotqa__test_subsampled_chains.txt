@@ -1,0 +1,4000 @@
+
+5a77666555429966f1a36d1f
+What is the nationality of the foreign born victim of Singapore's caning punishment before Oliver Fricker experienced the same?
+A: ["Oliver Fricker", "Caning in Singapore", "Caning in Brunei", "Fricker", "Caning"]
+Q: What is the nationality of the foreign born victim of Singapore's caning punishment before Oliver Fricker experienced the same?
+A: "British"
+Q: [EOQ]
+S: 0.0
+
+5ab6ba045542995eadef007e
+Dorian Gray is the main character of what philosophical novel whose editor feared the story was indecent, and deleted roughly five hundred words before publication?
+A: ["The Picture of Dorian Gray", "Dorian Gray (disambiguation)", "Dorian Gray (character)", "El retrato de Dorian Gray", "A Portrait of Dorian Gray"]
+Q: Dorian Gray is the main character of what philosophical novel whose editor feared the story was indecent, and deleted roughly five hundred words before publication?
+A: "The Picture of Dorian Gray"
+Q: [EOQ]
+S: 0.0
+
+5a810221554299260e20a1f9
+Who wrote the 1970 international hit song Murray Head is most recognized for?
+A: ["Murray Head", "The Most Beautifullest Hits", "Most Known Hits", "Recognize (song)", "Anne Murray's Greatest Hits"]
+Q: Who wrote the 1970 international hit song Murray Head is most recognized for?
+A: "Erick Sermon"
+Q: [EOQ]
+S: 0.0
+
+5ae8161555429952e35eaa04
+Where was the match held where Chicharito scored goals along with Antonio Valencia and Dimitar Berbatov?
+A: ["Dimitar Berbatov", "Antonio Valencia", "2010 FA Community Shield", "List of international goals scored by Eus\u00e9bio", "Antonio Manrique Valencia"]
+Q: Where was the match held where Chicharito scored goals along with Antonio Valencia and Dimitar Berbatov?
+A: "Wembley Stadium"
+Q: [EOQ]
+S: 0.0
+
+5ae52bc75542992663a4f12d
+Where was Nexon who was composed by Adam Gubman located at?
+A: ["Adam Gubman", "Nexon", "Gare de Nexon", "Nexon Arena", "Daniel Nexon"]
+Q: Where was Nexon who was composed by Adam Gubman located at?
+A: "Seoul"
+Q: [EOQ]
+S: 0.0
+
+5a8ba07d5542996e8ac88985
+What event in 1920 was established by the director of the play "The Miracle?"
+A: ["Miracle", "The Miracle (play)", "Miracle (disambiguation)", "The Miracle Worker (play)", "Latin American Miracles"]
+Q: What event in 1920 was established by the director of the play "The Miracle?"
+A: "The Miracle Theatre"
+Q: [EOQ]
+S: 0.0
+
+5a8d40715542994ba4e3dc3a
+This annual event held in several major cities in Finland is one of many all-night arts festival whose name is given to areas of high latitude in the weeks around what?
+A: ["Night of the Arts", "White Night festivals", "Latitude Festival", "Jyv\u00e4skyl\u00e4 Arts Festival", "Western Art Week"]
+Q: This annual event held in several major cities in Finland is one of many all-night arts festival whose name is given to areas of high latitude in the weeks around what?
+A: "summer solstice"
+Q: [EOQ]
+S: 0.0
+
+5ac2f79e5542996773102661
+ Chun Woo-hee's notable films include a South Korean horror film about  a policeman who investigates a series of mysterious killings and what?
+A: ["The Wailing (film)", "Chun Woo-hee", "Chun-hee", "One Day (2017 film)", "Lee Chun-hee"]
+Q: Chun Woo-hee's notable films include a South Korean horror film about  a policeman who investigates a series of mysterious killings and what?
+A: "illnesses"
+Q: [EOQ]
+S: 0.0
+
+5ab6e6c7554299710c8d1fa4
+What team had Tony Roberts replaced by an American sportscaster from Buffalo, New York when he retired?
+A: ["Tony Roberts (sportscaster)", "John Murphy (sportscaster)", "Robert Ford (sportscaster)", "Bob DeLaney (sportscaster)", "Buffalo Bisons (AHL)"]
+Q: What team had Tony Roberts replaced by an American sportscaster from Buffalo, New York when he retired?
+A: "Notre Dame Fighting Irish football team"
+Q: [EOQ]
+S: 0.0
+
+5ade82ba5542992fa25da7a3
+Are Catasetum and Origanum in the same family?
+A: ["Catasetum barbatum", "Catasetum callosum", "Origanum syriacum", "Catasetum discolor", "Catasetum saccatum"]
+Q: Are Catasetum and Origanum in the same family?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+5a84995d5542997b5ce3fee4
+Cooperative Living Organization is located in a city that is the county seat of what county in Florida?
+A: ["Cooperative Living Organization", "Cooper City, Florida", "Live Oak, Florida", "Dixie County, Florida", "Cooper County, Missouri"]
+Q: Cooperative Living Organization is located in a city that is the county seat of what county in Florida?
+A: "Suwannee County"
+Q: [EOQ]
+S: 0.0
+
+5ae759b25542991e8301cc6b
+The 2015 Austrian thriller film Jack tells the story of a serial killer who died in what year?
+A: ["Jack (2015 film)", "The House That Jack Built (2018 film)", "Confessions of a Serial Killer", "I.C.U. (film)", "I Am Not a Serial Killer (film)"]
+Q: The 2015 Austrian thriller film Jack tells the story of a serial killer who died in what year?
+A: 2007
+Q: [EOQ]
+S: 0.0
+
+5ae17e4255429901ffe4aeae
+Which musician played in the band Soulfly, Max Cavalera or Billy Idol?
+A: ["Max Cavalera", "Zyon Cavalera", "Bleed (Soulfly song)", "Soulfly (album)", "Soulfly"]
+Q: Which musician played in the band Soulfly, Max Cavalera or Billy Idol?
+A: "Max Cavalera"
+Q: [EOQ]
+S: 0.0
+
+5a7c17c95542990527d5544d
+A guitar player called Noodles is a longtime member of which band, The Smashing Pumpkins or The Offspring?
+A: ["List of the Smashing Pumpkins band members", "The Smashing Pumpkins", "A Gothic\u2013Industrial Tribute to Smashing Pumpkins", "The Killer in You: A Tribute to Smashing Pumpkins", "The Smashing Pumpkins 1991\u20131998"]
+Q: A guitar player called Noodles is a longtime member of which band, The Smashing Pumpkins or The Offspring?
+A: "The Smashing Pumpkins"
+Q: [EOQ]
+S: 0.0
+
+5ae1e9635542997f29b3c19e
+Which airport is located further north in the United States, San Angelo Regional Airport or Grand Junction Regional Airport?
+A: ["Grand Junction Regional Airport", "San Angelo Regional Airport", "Clark Regional Airport", "Grand Lake Regional Airport", "San Marcos Regional Airport"]
+Q: Which airport is located further north in the United States, San Angelo Regional Airport or Grand Junction Regional Airport?
+A: "Grand Junction Regional Airport"
+Q: [EOQ]
+S: 0.0
+
+5abeab375542990832d3a091
+The 1978 NBA World Championship Series had as MVP which Hall of Fame class member of 1988?
+A: ["1978 NBA Finals", "Baseball Hall of Fame balloting, 1988", "1988 World Series", "1988 Hall of Fame Tennis Championships and the Virginia Slims of Newport", "List of members of the IIHF Hall of Fame"]
+Q: The 1978 NBA World Championship Series had as MVP which Hall of Fame class member of 1988?
+A: "Wes Unseld"
+Q: [EOQ]
+S: 0.0
+
+5adf9dc3554299025d62a2e6
+What is the name of the actress who has received a Drama Desk award and was part of the cast album for the 2007 Broadway production of the hit musical, "Grease"?
+A: ["Grease: The New Broadway Cast Recording", "Drama Desk Award for Outstanding Musical", "Drama Desk Award for Outstanding Music", "Drama Desk Award for Outstanding Music in a Play", "Drama Desk Award for Outstanding Actress in a Musical"]
+Q: What is the name of the actress who has received a Drama Desk award and was part of the cast album for the 2007 Broadway production of the hit musical, "Grease"?
+A: "Laura Osnes"
+Q: [EOQ]
+S: 0.0
+
+5a8481945542997175ce1ed3
+Are Steve Perry and Leslie West both singers?
+A: ["Steve Perry (disambiguation)", "Steve Perry", "Steve Perry (author)", "Leslie West Live!", "Leslie (singer)"]
+Q: Are Steve Perry and Leslie West both singers?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5a752fb75542993748c897df
+What pop band features an Argentine actress that appeared in the television series "Chiquititas"?
+A: ["Chiquititas (1997 telenovela)", "Chiquititas (disambiguation)", "Chiquititas (Portugal)", "Chiquititas: Rinc\u00f3n de luz", "Chiquititas"]
+Q: What pop band features an Argentine actress that appeared in the television series "Chiquititas"?
+A: "Little Girls"
+Q: [EOQ]
+S: 0.0
+
+5ab9405c554299743d22ea7c
+In what city did the 1959 William & Mary Indians football team lose against the #13 Naval Academy?
+A: ["1959 William &amp; Mary Indians football team", "1959\u201360 William &amp; Mary Indians men's basketball team", "1935 William &amp; Mary Indians football team", "1931 William &amp; Mary Indians football team"]
+Q: In what city did the 1959 William & Mary Indians football team lose against the #13 Naval Academy?
+A: "Washington, D.C."
+Q: [EOQ]
+S: 0.0
+
+5ab93781554299131ca422c7
+Which star in the Maltese Bippy died in 1987?
+A: ["The Maltese Bippy", "1987\u201388 Maltese Premier League", "1987 Star World Championships", "Maltese literature"]
+Q: Which star in the Maltese Bippy died in 1987?
+A: "Dick Martin"
+Q: [EOQ]
+S: 0.0
+
+5a81db0b5542990a1d231ee2
+The 2005 film Remedy featured Frank Vincent from The Sopranos and several mob movies by which acclaimed director?
+A: ["Frank Vincent", "Remedy (film)", "Chuck Vincent (director)", "Christian Vincent (director)", "Vincent Ward (director)"]
+Q: The 2005 film Remedy featured Frank Vincent from The Sopranos and several mob movies by which acclaimed director?
+A: "Martin Scorsese"
+Q: [EOQ]
+S: 0.0
+
+5a88940055429938390d3f7b
+What is the city in which Bauerfield International Ariport is based out of?
+A: ["Bauerfield International Airport", "Out of the City", "Kansas City Overhaul Base", "Base One International", "International city"]
+Q: What is the city in which Bauerfield International Ariport is based out of?
+A: "Port Vila"
+Q: [EOQ]
+S: 0.0
+
+5ae479745542996836b02cb1
+What is the name of the movie that stars Katrina Bowden and was directed by Sean Anders?
+A: ["Katrina Bowden", "Sean Bowden", "Sean Anders", "Hard Sell (film)", "Movie star"]
+Q: What is the name of the movie that stars Katrina Bowden and was directed by Sean Anders?
+A: "Hard Sell"
+Q: [EOQ]
+S: 0.0
+
+5abe48675542991f66106119
+A man who played in the 1986 FIFA world cup played for what team during the 1982 Scottish League Cup Final?
+A: ["1982 FIFA World Cup Final", "1982 Scottish League Cup Final", "1986 FIFA World Cup Final", "1982 Scottish Cup Final", "1954 FIFA World Cup Final"]
+Q: A man who played in the 1986 FIFA world cup played for what team during the 1982 Scottish League Cup Final?
+A: "Celtic"
+Q: [EOQ]
+S: 0.0
+
+5a818387554299260e20a291
+Based on a True Story... is an album by which country music star, with the single My Eyes?
+A: ["Based on a True Story...", "My Eyes (Blake Shelton song)", "My True Story", "True to My Music", "I Let the Stars Get In My Eyes"]
+Q: Based on a True Story... is an album by which country music star, with the single My Eyes?
+A: "Blake Shelton"
+Q: [EOQ]
+S: 0.0
+
+5adf68ac5542993344016c79
+Little Brown Stein is a rivalry trophy that imitates a mug made out of what item?
+A: ["Little Brown Stein", "Beer stein", "Little Brown Jug (college football trophy)", "Tiki mugs", "Red River Rivalry trophies"]
+Q: Little Brown Stein is a rivalry trophy that imitates a mug made out of what item?
+A: "stoneware"
+Q: [EOQ]
+S: 0.0
+
+5addda9b5542992200553b5b
+What was the island, on which Marinelli Glacier is located, formerly known as?
+A: ["Marinelli Glacier", "Marinelli Creek", "Formerly Known", "Marinelli", "Luca Marinelli"]
+Q: What was the island, on which Marinelli Glacier is located, formerly known as?
+A: "Isla Grande de Tierra del Fuego"
+Q: [EOQ]
+S: 0.0
+
+5a7c6c9d554299683c1c6302
+In what county was Duffy Jackson born?
+A: ["Duffy Jackson", "Walter A. Duffy", "Johnny Duffy", "Christian Duffy", "Nick Duffy"]
+Q: In what county was Duffy Jackson born?
+A: "Wisconsin"
+Q: [EOQ]
+S: 0.0
+
+5abbd3b4554299642a094b4f
+What sort of dog did the same man who cared for the living gift that Martin Bormann gave Hitler have?
+A: ["Martin Adolf Bormann", "Martin Bormann", "Albert Bormann", "Hitler Lives", "Hitler's Table Talk"]
+Q: What sort of dog did the same man who cared for the living gift that Martin Bormann gave Hitler have?
+A: "a Labrador Retriever"
+Q: [EOQ]
+S: 0.0
+
+5ac41ca75542991943173919
+How large of the area is the nature reserve south of Seacroft Esplanade?
+A: ["Seacroft, Lincolnshire", "History of Seacroft", "Esplanade Reserve", "Mkhombo Nature Reserve", "Salmonsdam Nature Reserve"]
+Q: How large of the area is the nature reserve south of Seacroft Esplanade?
+A: "834 ha"
+Q: [EOQ]
+S: 0.0
+
+5ae33a3b5542992f92d8224a
+Viking: The Ultimate Obstacle Course was a game show that aired in Europe with the British presenter who was an Olympic participant in what sport?
+A: ["Viking: The Ultimate Obstacle Course", "Obstacle course", "Winter Sports: The Ultimate Challenge", "Air traffic obstacle", "Rebound (game show)"]
+Q: Viking: The Ultimate Obstacle Course was a game show that aired in Europe with the British presenter who was an Olympic participant in what sport?
+A: "Swimming"
+Q: [EOQ]
+S: 0.0
+
+5a8b78775542997f31a41d3d
+Chimaja Appawas the younger brother of a general of the Maratha Empire in India, who served as what to the fifth Maratha Chhatrapati Shahu from 1720 until his death?
+A: ["Baji Rao I", "Maratha Empire", "Maratha Navy", "Shahu I", "Maratha emperors"]
+Q: Chimaja Appawas the younger brother of a general of the Maratha Empire in India, who served as what to the fifth Maratha Chhatrapati Shahu from 1720 until his death?
+A: "Prime Minister"
+Q: [EOQ]
+S: 0.0
+
+5a843f305542996488c2e51d
+When will Flicker, created by a member of One Direction, be released?
+A: ["Flicker fixer", "USS Flicker", "Andean flicker", "Fernandina's flicker", "Flicker Records"]
+Q: When will Flicker, created by a member of One Direction, be released?
+A: 2018
+Q: [EOQ]
+S: 0.0
+
+5a75462d5542996c70cfaed3
+Who was born first, Kwok Kin Pong or Edison Chen?
+A: ["Kwok Kin Pong", "Wong Kwok-kin", "Edison Chen", "Edison Chen (EP)", "Lau Kwok Kin"]
+Q: Who was born first, Kwok Kin Pong or Edison Chen?
+A: "Kwok Kin Pong"
+Q: [EOQ]
+S: 0.0
+
+5ae14b5c55429920d52343aa
+Luke Rockhold defeated the MMA fighter who was the first to earn a win against which champion in the UFC?
+A: ["Luke Rockhold", "KHK MMA", "The Ultimate Fighter: A Champion Will Be Crowned", "UFC on Fox: Machida vs. Rockhold", "Greg Jackson (MMA trainer)"]
+Q: Luke Rockhold defeated the MMA fighter who was the first to earn a win against which champion in the UFC?
+A: "Machida"
+Q: [EOQ]
+S: 0.0
+
+5ab3acc9554299753aec5985
+Which genus's family comes first alphabetically, Crepis or Isatis?
+A: ["Isatis", "Crepis", "Crepis incana", "Crepis modocensis", "Crepis monticola"]
+Q: Which genus's family comes first alphabetically, Crepis or Isatis?
+A: "Crepis"
+Q: [EOQ]
+S: 0.0
+
+5a8e0d04554299068b959e3a
+What country does Haringey Heartlands and The Mall Wood Green have in common?
+A: ["Haringey Heartlands", "The Mall Wood Green", "Heartlands High School", "Wood Green Town F.C.", "Heartland Mall"]
+Q: What country does Haringey Heartlands and The Mall Wood Green have in common?
+A: "England"
+Q: [EOQ]
+S: 0.0
+
+5a861c0d5542994775f606f7
+C. Bernard Jackson founded the center that started the career of which actor, who played the part of Marty Castillo in "Miami Vice"?
+A: ["C. Bernard Jackson", "Dale Jackson Career Center", "Miami Vice Squad", "Miami Valley Career Technology Center", "David Castillo Gallery"]
+Q: C. Bernard Jackson founded the center that started the career of which actor, who played the part of Marty Castillo in "Miami Vice"?
+A: "Edward James Olmos"
+Q: [EOQ]
+S: 0.0
+
+5adbfffb5542994650320c39
+The McKinley Tariff was framed by the representative who was later assassinated in what month?
+A: ["McKinley Tariff", "William McKinley", "Assassination of William McKinley", "Tariffication", "Wilson\u2013Gorman Tariff Act"]
+Q: The McKinley Tariff was framed by the representative who was later assassinated in what month?
+A: "September"
+Q: [EOQ]
+S: 0.0
+
+5abbc58455429931dba14502
+Stephen susco wrote a movie produced by which american film actor?
+A: ["Stephen Susco", "Stephen Downing (producer)", "Stephen Brooks (actor)", "American Samurai (film)", "Stephen Caffrey (actor)"]
+Q: Stephen susco wrote a movie produced by which american film actor?
+A: "Stephen Downing"
+Q: [EOQ]
+S: 0.0
+
+5ae2c2c05542996483e64a4a
+How many member universities are there in this conference of which the Connecticut Huskies baseball team is a competing member?
+A: ["Connecticut Huskies baseball", "List of Connecticut Huskies baseball seasons", "2000 Connecticut Huskies football team", "1965 Connecticut Huskies baseball team", "1972 Connecticut Huskies baseball team"]
+Q: How many member universities are there in this conference of which the Connecticut Huskies baseball team is a competing member?
+A: 7
+Q: [EOQ]
+S: 0.0
+
+5ac42f42554299076e296d88
+Who starred in My Dog Skip and Malcolm in the Middle?
+A: ["My Dog Skip", "My Dog Skip (film)", "Skip to My Lou", "List of Malcolm in the Middle guest stars", "My Brother Is a Dog"]
+Q: Who starred in My Dog Skip and Malcolm in the Middle?
+A: "Frankie Muniz"
+Q: [EOQ]
+S: 0.0
+
+5ab3e07e55429969a97a81e5
+In the 1962 German Grand Prix, a racer came second. What did this racer found?
+A: ["The Wild Racers", "Thomas Mayer (motorcycle racer)", "Adam Roberts (motorcycle racer)", "Andrew Lawson (motorcycle racer)", "Jo\u00e3o Fernandes (motorcycle racer)"]
+Q: In the 1962 German Grand Prix, a racer came second. What did this racer found?
+A: "a car"
+Q: [EOQ]
+S: 0.0
+
+5ab7ef0f5542991d322237ca
+Chandgi Ram won a gold medal in 1970 in a continental multi-sport event held at which city ?
+A: ["Chandgi Ram", "Master Chandgi Ram Sports Stadium", "List of multi-sport events held by Thailand", "Multi-sport event", "1970 Asian Games medal table"]
+Q: Chandgi Ram won a gold medal in 1970 in a continental multi-sport event held at which city ?
+A: "Bangkok"
+Q: [EOQ]
+S: 0.0
+
+5a7e3b585542995ed0d166df
+Which film was released first, Home on the Range or Pete's Dragon?
+A: ["Pete's Dragon", "Pete's Dragon (2016 film)", "Home on the Range (1946 film)", "Pete's Dragon (1977 film)", "Home on the Range (1935 film)"]
+Q: Which film was released first, Home on the Range or Pete's Dragon?
+A: "Home on the Range"
+Q: [EOQ]
+S: 0.0
+
+5a7ba8fc5542995eb53be986
+Who was born first, Umar Israilov or Ramzan Kadyrov?
+A: ["Umar Israilov", "Ramzan Kadyrov", "Sulim Yamadaev\u2013Ramzan Kadyrov power struggle", "Ramzan Paskayev", "Akhlidin Israilov"]
+Q: Who was born first, Umar Israilov or Ramzan Kadyrov?
+A: "Umar Israilov"
+Q: [EOQ]
+S: 0.0
+
+5aba7e2c55429955dce3ee5a
+Did Lewis Allen or Danny DeVito play Louie De Palma?
+A: ["Danny DeVito", "Louie DeVito", "Lucy DeVito", "Louie E. Lewis", "Danny Allen-Page"]
+Q: Did Lewis Allen or Danny DeVito play Louie De Palma?
+A: "Danny DeVito"
+Q: [EOQ]
+S: 0.0
+
+5ae8164d5542994a481bbeb6
+Emily Beecham is best known for her role in a televsion series whose second season premiered on what date?
+A: ["Emily Beecham", "Emily Swallow", "Emily Alyn Lind", "Emily Rose (actress)", "Emily Bevan"]
+Q: Emily Beecham is best known for her role in a televsion series whose second season premiered on what date?
+A: "September 20, 2017"
+Q: [EOQ]
+S: 0.0
+
+5abe34095542993f32c2a088
+How long did The Shire of Flinders, which encompassed the extremity of the Mornington Peninsula located south-east of Melbourne, Australia, exist?
+A: ["Shire of Flinders (Victoria)", "Shire of Mornington (Victoria)", "Shire of Mornington Peninsula", "Flinders, Victoria", "Shire of Hastings"]
+Q: How long did The Shire of Flinders, which encompassed the extremity of the Mornington Peninsula located south-east of Melbourne, Australia, exist?
+A: "from 1960 until 1994"
+Q: [EOQ]
+S: 0.0
+
+5adfda5255429942ec259b5e
+What county in Minnesota holds a 202 lb slab of greywacke covered in runes?
+A: ["Kensington Runestone", "Slab Fork, West Virginia", "Torlesse Greywacke", "Greywacke zone", "Holding Township, Stearns County, Minnesota"]
+Q: What county in Minnesota holds a 202 lb slab of greywacke covered in runes?
+A: "Stearns County"
+Q: [EOQ]
+S: 0.0
+
+5a713b325542994082a3e6b5
+What was the capital of India when the Taj Mahal was commissioned?
+A: ["Taj Mahal Bangladesh", "Taj Mahal (album)", "The Best of Taj Mahal", "The Essential Taj Mahal", "Taj Mahal, Bulandshahar"]
+Q: What was the capital of India when the Taj Mahal was commissioned?
+A: "Dhaka"
+Q: [EOQ]
+S: 0.0
+
+5a8327fd5542990548d0b1a3
+Forest Hill, Texas is a suburb of which fifth-largest city in the state?
+A: ["Forest Hill, Texas", "The Hills, Texas", "Forest Hill, Victoria", "Forest Hill, Richmond, Virginia", "Forest Hill, Gauteng"]
+Q: Forest Hill, Texas is a suburb of which fifth-largest city in the state?
+A: "Fort Worth"
+Q: [EOQ]
+S: 0.0
+
+5ab9bb8355429970cfb8eb8b
+At what school is the individual who was awarded the 2012 Nobel Prize in Physics, jointly with David J. Wineland, a professor?
+A: ["David J. Wineland", "Nobel Prize in Physics", "Nobel Committee for Physics", "Nobel Prize controversies", "List of Nobel laureates in Physics"]
+Q: At what school is the individual who was awarded the 2012 Nobel Prize in Physics, jointly with David J. Wineland, a professor?
+A: "National Institute of Standards and Technology"
+Q: [EOQ]
+S: 0.0
+
+5a8f799d55429918e830d22d
+Which genus has the most number of species, Myrsine or Styrax?
+A: ["Styrax litseoides", "Styrax crotonoides", "Styrax vilcabambae", "Styrax fraserensis", "Styrax foveolaria"]
+Q: Which genus has the most number of species, Myrsine or Styrax?
+A: "Styrax"
+Q: [EOQ]
+S: 0.0
+
+5a82301155429926c1cdae4a
+How much was Ammon Bundy's son ordered to pay in grazing fees?
+A: ["Bundy standoff", "Grazing fee", "Ammon Bundy", "Cliven Bundy", "The Order of Ammon"]
+Q: How much was Ammon Bundy's son ordered to pay in grazing fees?
+A: "over $1 million"
+Q: [EOQ]
+S: 0.0
+
+5ab3f6b9554299753aec5a03
+How many films were directed by the director of Wise Blood?
+A: ["Wise Blood (film)", "Beast of Blood (film)", "Kirk Wise", "When Wise Ducks Meet", "The Blood (film)"]
+Q: How many films were directed by the director of Wise Blood?
+A: 3
+Q: [EOQ]
+S: 0.0
+
+5a7c6bcc55429935c91b519c
+Rock Springs is a collection of short stories by an author born in what year?
+A: ["Rock Springs (short story collection)", "Short story collection", "The Veteran (short story collection)", "A Collection of Short Stories", "Bark (short story collection)"]
+Q: Rock Springs is a collection of short stories by an author born in what year?
+A: 1939
+Q: [EOQ]
+S: 0.0
+
+5a746a4455429974ef308bf6
+Which tennis player is older out of John Peers and Simone Bolelli?
+A: ["Simone Bolelli", "Bolelli", "John Peers", "2015 Trofeo Faip\u2013Perrel \u2013 Singles", "Simon Youl"]
+Q: Which tennis player is older out of John Peers and Simone Bolelli?
+A: "Simone Bolelli"
+Q: [EOQ]
+S: 0.0
+
+5abd648155429933744ab7ac
+Who was the chief executive officer of the second largest US car rental company by sales?
+A: ["Enterprise Car Sales", "Payless Car Rental", "Used car", "Irish Car Rentals", "Consolidated rental car facility"]
+Q: Who was the chief executive officer of the second largest US car rental company by sales?
+A: "John McCain"
+Q: [EOQ]
+S: 0.0
+
+5ade04a65542997545bbbe20
+Don Holmes played for the football club that is based in what eastern suburb of Perth?
+A: ["Eastern Suburbs Cricket Club", "Perth Football Club", "Eastern Suburbs Rugby Union Football Club", "Eastern Suburbs Leagues Club", "West Perth Football Club"]
+Q: Don Holmes played for the football club that is based in what eastern suburb of Perth?
+A: "Joondalup"
+Q: [EOQ]
+S: 0.0
+
+5a76a8bb5542993569682c76
+In what country did Gildo Siopaes win a bronze medal for bobsledding in the 1964 Winter Olympics?
+A: ["Gildo Siorpaes", "Madagascar at the 2006 Winter Olympics", "Cross-country skiing at the 1964 Winter Olympics", "Senegal at the 1984 Winter Olympics", "Sweden at the 1964 Winter Olympics"]
+Q: In what country did Gildo Siopaes win a bronze medal for bobsledding in the 1964 Winter Olympics?
+A: "Italy"
+Q: [EOQ]
+S: 0.0
+
+5a8efba955429918e830d173
+Who was the narrator of the 26-episode series which featured the British national museum organization with branches at five locations in England?
+A: ["Imperial War Museum (disambiguation)", "Lebanese British Friends of the National Museum", "Southern Branch of the National Palace Museum", "The Famous Five (1978 TV series)", "1949 Five Nations Championship"]
+Q: Who was the narrator of the 26-episode series which featured the British national museum organization with branches at five locations in England?
+A: "John Lennon"
+Q: [EOQ]
+S: 0.0
+
+5ab42d5755429942dd415eaf
+"Lost!" is a song by a British rock band formed in what year?
+A: ["Lost Songs from the Lost Years", "The Formative Years", "Jerusalem (British band)", "Formed a Band", "On the Rocks (band)"]
+Q: "Lost!" is a song by a British rock band formed in what year?
+A: 1975
+Q: [EOQ]
+S: 0.0
+
+5a7ae2f2554299042af8f6aa
+Which sport has been played at the BayArena in Leverkusen, Germany, since 1958?
+A: ["BayArena", "Bayer 04 Leverkusen", "Bayer Giants Leverkusen", "2017\u201318 Bayer 04 Leverkusen season", "Leverkusen"]
+Q: Which sport has been played at the BayArena in Leverkusen, Germany, since 1958?
+A: "football"
+Q: [EOQ]
+S: 0.0
+
+5a8f68795542992414482ab5
+What member of the South Korean-Chinese boy group EXO stars in the upcoming movie "The Underdog"?
+A: ["Exo's Showtime", "XOXO Exo", "List of awards and nominations received by Exo", "For Life (Exo song)", "Exo discography"]
+Q: What member of the South Korean-Chinese boy group EXO stars in the upcoming movie "The Underdog"?
+A: "Kim Jong-un"
+Q: [EOQ]
+S: 0.0
+
+5a7e1cad55429965cec5ea75
+Was Pocahontas made before Born in China?
+A: ["Made in China", "Pocahontas (franchise)", "Made in China (disambiguation)", "Pocahontas Coalfield", "Pocahontas School"]
+Q: Was Pocahontas made before Born in China?
+A: "Wikipedia Title: Pocahontas (franchise) Pocahontas is a Disney media franchise that commenced in 1995 with the theatrical release of \"Pocahontas\". Wikipedia Title: Made in China (disambiguation) Made in China or Product of China (, is a country of origin label affixed to products manufactured in the People's Republic of China. Wikipedia Title: Pocahontas (franchise) Pocahontas is a Disney media franchise that commenced in 1995 with the theatrical release of \"Pocahontas\". Wikipedia Title: Made in China (disambiguation) Made in China or Product of China (, is a country of origin label affixed to products manufactured in the People's Republic of China. Wikipedia Title: Pocahontas (franchise) Pocahonta"
+Q: [EOQ]
+S: 0.0
+
+5a84e61b5542997b5ce3ff86
+The Simpsons episode that aired on February 19, 2012 entitled "At Long Last Leave" represented what milestone for the show? 
+A: ["The Simpsons (season 23)", "At Long Last Leave", "The Simpsons 138th Episode Spectacular", "Another Simpsons Clip Show", "List of The Last Leg episodes"]
+Q: The Simpsons episode that aired on February 19, 2012 entitled "At Long Last Leave" represented what milestone for the show?
+A: "500th episode"
+Q: [EOQ]
+S: 0.0
+
+5ae326e95542990afbd1e0b6
+Where is the American Hockey League, that Dan Frawley played in, located?
+A: ["Dan Frawley (ice hockey)", "Dan Frawley", "Dan Smith (ice hockey)", "Mick Frawley", "Matt Frawley"]
+Q: Where is the American Hockey League, that Dan Frawley played in, located?
+A: "Colorado"
+Q: [EOQ]
+S: 0.0
+
+5a7b43735542992d025e67cb
+what type of media does Ratatouille and PlayStation 3 have in common?
+A: ["Ratatouille (video game)", "Ratatouille", "PlayStation 3", "Ratatouille (disambiguation)", "List of PlayStation and PlayStation 2 games compatible with PlayStation 3"]
+Q: what type of media does Ratatouille and PlayStation 3 have in common?
+A: "video game"
+Q: [EOQ]
+S: 0.0
+
+5abd889f55429924427fd046
+What number installment of the Ghost School and Ghost School Horror was the film Voice?
+A: ["School Ghost Stories", "Holy Ghost Preparatory School", "Judas Ghost", "Sodoma's Ghost", "School Ghost Stories 3"]
+Q: What number installment of the Ghost School and Ghost School Horror was the film Voice?
+A: "third"
+Q: [EOQ]
+S: 0.0
+
+5a79102a554299148911f9da
+This team which is moving from Oakland, California to Las Vegas Nevada with share its stadium with what college?
+A: ["Oakland Raiders relocation to Las Vegas", "Las Vegas Stadium", "Las Vegas Quicksilvers", "Nevada State Museum, Las Vegas", "Las Vegas Grammar School (Las Vegas Boulevard, Las Vegas, Nevada)"]
+Q: This team which is moving from Oakland, California to Las Vegas Nevada with share its stadium with what college?
+A: "University of Nevada"
+Q: [EOQ]
+S: 0.0
+
+5a84c4b05542991dd0999deb
+Are both Forman Christian College and Purbanchal University public schools?
+A: ["Purbanchal University", "Forman Christian College", "Charles William Forman", "Association of Christian Schools, Colleges and Universities", "Forman School"]
+Q: Are both Forman Christian College and Purbanchal University public schools?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+5ae4a1ef55429970de88d9e7
+When was the  Argentine former footballer which  Dutch manager Ronald Koeman replaced in  2014–15 Southampton F.C. season born
+A: ["2014\u201315 Southampton F.C. season", "Ronald Koeman", "Ronald Koeman Jr.", "Erwin Koeman", "2014\u201315 F.C. Copenhagen season"]
+Q: When was the  Argentine former footballer which  Dutch manager Ronald Koeman replaced in  2014–15 Southampton F.C. season born
+A: "21 March 1961"
+Q: [EOQ]
+S: 0.0
+
+5ae03cd855429924de1b7072
+Were Paul Éluard and Georges Bataille from the same country?
+A: ["Paul \u00c9luard", "Lyc\u00e9e Paul \u00c9luard", "Laurence Bataille", "Lyc\u00e9e Paul \u00c9luard (Saint-Denis, Seine-Saint-Denis)", "Georges Bataille's Story of the Eye"]
+Q: Were Paul Éluard and Georges Bataille from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+5adf3e835542993a75d26442
+Which comic series involves characters such as Nick Fury and Baron von Strucker?
+A: ["Baron Strucker", "Werner von Strucker", "List of Nick Fury comics", "Fenris (comics)", "Nick Fury (2017 comic book)"]
+Q: Which comic series involves characters such as Nick Fury and Baron von Strucker?
+A: "Nick Fury"
+Q: [EOQ]
+S: 0.0
+
+5a8d7e1055429941ae14dfd8
+Which is bigger, Griffon Bruxellois or English Mastiff?
+A: ["Griffon Bruxellois", "English Mastiff", "Mastiff", "Griffon", "HMS Mastiff"]
+Q: Which is bigger, Griffon Bruxellois or English Mastiff?
+A: "English Mastiff"
+Q: [EOQ]
+S: 0.0
+
+5abae4995542996606241666
+Did both  Slaughter-House Cases and United States v. Darby Lumber Co. involve civil rights law?
+A: ["United States v. Darby Lumber Co.", "Slaughter-House Cases", "United States v. Kirby Lumber Co.", "United States v. Southwestern Cable Co.", "JI Case Co v National Labor Relations Board"]
+Q: Did both  Slaughter-House Cases and United States v. Darby Lumber Co. involve civil rights law?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5ae3f2d25542995ad6573ccc
+Firstar Center was the name for two buildings before the company changed its name to match which company based in Minneapolis?
+A: ["Firstar Center", "Firstar Corporation", "Workhouse Theatre Company", "Company Names Tribunal", "Nickel Mountain (company)"]
+Q: Firstar Center was the name for two buildings before the company changed its name to match which company based in Minneapolis?
+A: "Firstar Corporation"
+Q: [EOQ]
+S: 0.0
+
+5a7eb22655429930675135cb
+Which current CBS NBA analyst played for the PORTLAND TRAILBLazers along with former UNLV teammate Stacey Augmon?
+A: ["Stacey Augmon", "1998\u201399 Portland Trail Blazers season", "NBA on CBS", "Stacey Day", "Stacey King"]
+Q: Which current CBS NBA analyst played for the PORTLAND TRAILBLazers along with former UNLV teammate Stacey Augmon?
+A: "Greg Anthony"
+Q: [EOQ]
+S: 0.0
+
+5a879dae5542996e4f308885
+What was the company that was co-owned by the person who Abbe error was named after?
+A: ["Abbe error", "Abbe (name)", "List of companies named after people", "Abbe (crater)", "List of bacterial genera named after personal names"]
+Q: What was the company that was co-owned by the person who Abbe error was named after?
+A: "Physicist Ernst Abbe"
+Q: [EOQ]
+S: 0.0
+
+5ab5dcb95542992aa134a3b3
+Are Toshi and Warrel Dane both in the band Sanctuary?
+A: ["Warrel Dane", "Sanctuary (band)", "The Warrell Corporation", "Charles Warrell", "Nevermore (album)"]
+Q: Are Toshi and Warrel Dane both in the band Sanctuary?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5a8f0796554299458435d528
+what air force based named in honor of Carl Benjamin "Ben" Eielson is located 26 miles southeast of Fairbanks, Alaska?
+A: ["Carl Ben Eielson", "Eielson Air Force Base", "168th Air Refueling Squadron", "168th Air Refueling Wing", "Tanacross Air Base"]
+Q: what air force based named in honor of Carl Benjamin "Ben" Eielson is located 26 miles southeast of Fairbanks, Alaska?
+A: "Alaska Air National Guard"
+Q: [EOQ]
+S: 0.0
+
+5abbf8be554299114383a0c1
+The 1996 film "The Christmas Tree" stars Andrew McCarthy and an actress that has won how any Emmy Awards?
+A: ["The Christmas Tree (1996 film)", "Andrew McCarthy", "Lone Star Emmy Awards", "Sheila McCarthy", "Emmy Award"]
+Q: The 1996 film "The Christmas Tree" stars Andrew McCarthy and an actress that has won how any Emmy Awards?
+A: "two"
+Q: [EOQ]
+S: 0.0
+
+5ae694a15542991bbc976141
+Why is Minister Pool important to Black Country and the West Midlands in England?
+A: ["Black Country (disambiguation)", "Black Country Route", "Oldbury, West Midlands", "Black Country Radio", "Black Country New Road"]
+Q: Why is Minister Pool important to Black Country and the West Midlands in England?
+A: "Black Country New Road"
+Q: [EOQ]
+S: 0.0
+
+5a8268215542995ce29dccfb
+What other country does the league that Taylor Eric Kemp played in represents the sport's highest level besides the United States?
+A: ["Taylor Kemp", "Sports in the United States", "List of top level minor league sports teams in the United States by city", "Professional sports leagues in the United States", "Eric Doyle (rugby league)"]
+Q: What other country does the league that Taylor Eric Kemp played in represents the sport's highest level besides the United States?
+A: "Ireland"
+Q: [EOQ]
+S: 0.0
+
+5a7758895542994aec3b729c
+ Which American rock band, Sugar Ray or Against the Current gained mainstream fame in the 1990's?
+A: ["Sugar Ray", "Against the Current (band)", "Sugar Ray (album)", "Sugar (American band)", "Rock Sugar (band)"]
+Q: Which American rock band, Sugar Ray or Against the Current gained mainstream fame in the 1990's?
+A: "Sugar Ray"
+Q: [EOQ]
+S: 0.0
+
+5a737e4655429908901be2cc
+This Fox News Specialist Host also took over what Fox Business Channel news program in 2013?
+A: ["Fox News Specialists", "Fox News Talk", "Fox News Watch", "Fox News Live", "Fox News"]
+Q: This Fox News Specialist Host also took over what Fox Business Channel news program in 2013?
+A: "Fox News Live"
+Q: [EOQ]
+S: 0.0
+
+5a7351785542994cef4bc539
+Was Atom Egoyans biggest commercial success on stage or on film?
+A: ["Atom Egoyan", "In This Corner (film)", "Next of Kin (1984 film)", "Calendar (1993 film)", "Adoration (2008 film)"]
+Q: Was Atom Egoyans biggest commercial success on stage or on film?
+A: "film"
+Q: [EOQ]
+S: 0.0
+
+5a7526945542993748c897d2
+What year did the movement that Tess Asplund protested in the viral image of her with her fist in the air disband?
+A: ["Tess Asplund", "Mother Fist and Her Five Daughters", "Katarina Asplund", "Tess Taylor", "Tess Bateman"]
+Q: What year did the movement that Tess Asplund protested in the viral image of her with her fist in the air disband?
+A: 2015
+Q: [EOQ]
+S: 0.0
+
+5ae1b943554299492dc91b7f
+Are Macheng and Lianjiang, Guangdong both cities ?
+A: ["Lianjiang, Guangdong", "Chengbei Subdistrict, Lianjiang, Guangdong", "Macheng", "Lianjiang River", "Lianjiang Railway Station"]
+Q: Are Macheng and Lianjiang, Guangdong both cities ?
+A: "Yes"
+Q: [EOQ]
+S: 0.0
+
+5ab504865542991779162d52
+What term is the current chairman of Prince William County serving?
+A: ["Prince William Board of County Supervisors", "John Williams (Chairman)", "Corey Stewart (politician)", "Prince William County Sheriff's Office", "Prince William County Public Schools"]
+Q: What term is the current chairman of Prince William County serving?
+A: "fourth term"
+Q: [EOQ]
+S: 0.0
+
+5ade3e69554299728e26c68d
+what country are Mudvayne and Hellyeah both from?
+A: ["Hellyeah (album)", "Mudvayne (album)", "Mudvayne", "Hellyeah", "Audiotopsy (band)"]
+Q: what country are Mudvayne and Hellyeah both from?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+5a73630655429901807db020
+Who was born first, Antonin Artaud or  Elizabeth Taylor?
+A: ["Prix Antonin-Artaud", "Antonin Artaud", "My Life and Times with Antonin Artaud", "Elizabeth Taylor (disambiguation)", "William Artaud"]
+Q: Who was born first, Antonin Artaud or  Elizabeth Taylor?
+A: "Antonin Artaud"
+Q: [EOQ]
+S: 0.0
+
+5a733b835542991f9a20c6b2
+Which movie is loosley based off the Brother Grimm's "Iron Henry"?
+A: ["Brothers Grimm (disambiguation)", "The Raven (Brothers Grimm)", "Brothers Grimm", "Brothers Grimm (comics)", "Simsala Grimm"]
+Q: Which movie is loosley based off the Brother Grimm's "Iron Henry"?
+A: "The Raven"
+Q: [EOQ]
+S: 0.0
+
+5ac4f42b55429924173fb50d
+Which beverage is ignited prior to consumption, Flaming beverage or Blue Hawaii
+A: ["Flaming beverage", "Sweetened beverage", "Blue Sky Beverage Company", "Beverage industry", "Beverage function"]
+Q: Which beverage is ignited prior to consumption, Flaming beverage or Blue Hawaii
+A: "Flaming beverage"
+Q: [EOQ]
+S: 0.0
+
+5ac173d85542994d76dcce37
+Toby Scott worked with which American singer born on May 24, 1941?
+A: ["Toby Scott", "Michael James Scott", "Tobi Lark", "Scott May", "Scott Holstein"]
+Q: Toby Scott worked with which American singer born on May 24, 1941?
+A: "Bruce Springsteen"
+Q: [EOQ]
+S: 0.0
+
+5a823b355542990a1d231f6e
+Orson Scott Card first published his short story "Killing Children" in this American science-fiction magazine whose first issue was published when?
+A: ["Killing Children", "America (short story)", "A Thousand Deaths (Card short story)", "The Fringe (short story)", "Salvage (short story)"]
+Q: Orson Scott Card first published his short story "Killing Children" in this American science-fiction magazine whose first issue was published when?
+A: "November 1978"
+Q: [EOQ]
+S: 0.0
+
+5ac3ae885542995ef918c1e7
+Church of All Saints, Doddinghurst is part of the state church led by which person?
+A: ["Church of All Saints, Doddinghurst", "All Saints Church", "All Saints Church, Srinagar", "All Saints Church, Canberra", "All Saints' Church, Hockley"]
+Q: Church of All Saints, Doddinghurst is part of the state church led by which person?
+A: "Lord Mayor of Doddinghurst"
+Q: [EOQ]
+S: 0.0
+
+5a8900c75542997e5c09a6ed
+What ingredient is in both Cosmopolitan and Cuba Libre?
+A: ["Cuba libre (disambiguation)", "Cuba Libre (song)", "Cuba Libre", "Cuba Libre (album)", "Cuba Libre (novel)"]
+Q: What ingredient is in both Cosmopolitan and Cuba Libre?
+A: "cola"
+Q: [EOQ]
+S: 0.0
+
+5a86038455429960ec39b600
+The winner of the the London Riders' Championship in 1953 scored how many points in the 1952 Individual Speedway World Championship?
+A: ["1952 Individual Speedway World Championship", "Speedway World Championship Competitions", "1987 Individual Speedway World Championship", "Swedish Individual Speedway Championship", "Freddie Williams (speedway rider)"]
+Q: The winner of the the London Riders' Championship in 1953 scored how many points in the 1952 Individual Speedway World Championship?
+A: 59
+Q: [EOQ]
+S: 0.0
+
+5ae2b83c5542992decbdcd7f
+Typically how many pages were in the fiction magazine in which Robert E. Howard wrote in 1930s?
+A: ["B\u00ealit (Robert E. Howard)", "Robert E. Howard", "Robert E. Howard bibliography (poems P\u2013Z)", "The Robert E. Howard Reader", "Robert E. Howard Museum"]
+Q: Typically how many pages were in the fiction magazine in which Robert E. Howard wrote in 1930s?
+A: 97
+Q: [EOQ]
+S: 0.0
+
+5ac2bcf55542990b17b1546e
+In 2009 the OCA announced major changes to it event lists, and in what city did this multi-sport event take place?
+A: ["List of multi-sport events", "Multi-sport event", "List of multi-sport events held by Thailand", "List of events in Quebec City", "List of multi-sport events held by China"]
+Q: In 2009 the OCA announced major changes to it event lists, and in what city did this multi-sport event take place?
+A: "Vancouver"
+Q: [EOQ]
+S: 0.0
+
+5ae82c3d55429952e35eaa75
+This high school located in the Bronzeville neighborhood was named after a settler who was arrested by who?
+A: ["DuSable High School", "Hales Franciscan High School", "King Lincoln Bronzeville Neighborhood Ass'n v. Blackwell", "O'Dea High School", "Sprague High School"]
+Q: This high school located in the Bronzeville neighborhood was named after a settler who was arrested by who?
+A: "Chicago Police"
+Q: [EOQ]
+S: 0.0
+
+5aba943c554299232ef4a33e
+Are Florida Atlantic University and Cleveland State University both colleges in the US?
+A: ["Florida Atlantic University College of Business", "Florida Atlantic University", "Florida Atlantic University College of Engineering and Computer Science", "Florida State University College of Law", "Florida A&amp;M University \u2013 Florida State University College of Engineering"]
+Q: Are Florida Atlantic University and Cleveland State University both colleges in the US?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5a7ce50f55429909bec76869
+In what year did the Danish plant ecologist who assisted a Danish chemist, famous for the introduction of the concept of pH die?
+A: ["S. P. L. S\u00f8rensen", "Danish Football Player of the Year", "List of years in Danish television", "Danish Sports Name of the Year", "Danish Superliga"]
+Q: In what year did the Danish plant ecologist who assisted a Danish chemist, famous for the introduction of the concept of pH die?
+A: 1939
+Q: [EOQ]
+S: 0.0
+
+5a8f503c5542992414482a34
+The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?
+A: ["Prodigal Daughters", "The Prodigal Judge", "The Prodigal Daughter", "American Prodigal", "Prodigal Daughter (Star Trek: Deep Space Nine)"]
+Q: The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+5ac4a7615542996feb3fe92a
+Dulce Maria García Rivas took part in a "Mask vs. Hair" match with which female wrestler at Guerra de Titanes?
+A: ["Guerra de Titanes (1999)", "Guerra de Titanes (1997)", "Guerra de Titanes (2009)", "Guerra de Titanes (2006)", "Guerra de Titanes (2000)"]
+Q: Dulce Maria García Rivas took part in a "Mask vs. Hair" match with which female wrestler at Guerra de Titanes?
+A: "Sexy Star"
+Q: [EOQ]
+S: 0.0
+
+5ae0fe8855429945ae959495
+Were both Tom Gullikson and Jürgen Melzer professional Austrian tennis players?
+A: ["Tom Gullikson", "J\u00fcrgen Melzer", "Gerald Melzer", "Tim Gullikson", "J\u00fcrgen Mansberger"]
+Q: Were both Tom Gullikson and Jürgen Melzer professional Austrian tennis players?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5abd6db755429933744ab7d0
+What was the nationality of the author of "The Sunlight on the Garden"?
+A: ["In Sunlight, In a Beautiful Garden", "The Sunlight Dialogues", "The Sunlight on the Garden", "Artificial sunlight", "Shade garden"]
+Q: What was the nationality of the author of "The Sunlight on the Garden"?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+5add3ccc5542997545bbbce5
+The Secret of Moonacre was directed by the founder of which animation studio?
+A: ["The Secret of Moonacre", "Ilion Animation Studios", "Studio 100 Animation", "Light Chaser Animation Studios", "Secret Identity Studios"]
+Q: The Secret of Moonacre was directed by the founder of which animation studio?
+A: "Ilion Animation Studios"
+Q: [EOQ]
+S: 0.0
+
+5a8e4b7c5542990e94052ab7
+What is the familial relationship of the founder of the Gulf Cartel to Juan García Ábrego?
+A: ["Juan Garc\u00eda \u00c1brego", "Osiel C\u00e1rdenas Guill\u00e9n", "Infighting in the Gulf Cartel", "Gulf Cartel", "Juan Manuel Garc\u00eda Garc\u00eda"]
+Q: What is the familial relationship of the founder of the Gulf Cartel to Juan García Ábrego?
+A: "uncle"
+Q: [EOQ]
+S: 0.0
+
+5a7cf59b55429909bec768c7
+ Who was born first Burton Cummings or Sharleen Spiteri?
+A: ["Sharleen Spiteri", "Melody (Sharleen Spiteri album)", "Sharleen Spiteri discography", "Sharleen Spiteri (sex worker)", "Burton Cummings"]
+Q: Who was born first Burton Cummings or Sharleen Spiteri?
+A: "Burton Lorne Cummings"
+Q: [EOQ]
+S: 0.0
+
+5a772c925542993735360208
+Which was published first Polarity or The Farming Game?
+A: ["Polarity (game)", "The Farming Game", "The Polar Times", "The Polar Express (video game)", "Polar Geography"]
+Q: Which was published first Polarity or The Farming Game?
+A: "Polarity"
+Q: [EOQ]
+S: 0.0
+
+5abeebe25542993fe9a41d9c
+ Season of Migration to the North  is a counter narrative to a novella by what Polish-British novelist?
+A: ["Season of Migration to the North", "Novella (disambiguation)", "Novella", "Gloria Victis (novella)", "Teach For America Counter-Narratives: Alumni Speak Up and Speak Out"]
+Q: Season of Migration to the North  is a counter narrative to a novella by what Polish-British novelist?
+A: "Tayeb Salih"
+Q: [EOQ]
+S: 0.0
+
+5a7c9d2e55429935c91b5261
+What legend that lends its name to a modern medical term, inspired the plot of the horror film Ghostkeeper?
+A: ["Ghostkeeper", "Ghostkeeper (band)", "Legend of the Moles: The Frozen Horror", "List of eco-horror films", "Plot (film)"]
+Q: What legend that lends its name to a modern medical term, inspired the plot of the horror film Ghostkeeper?
+A: "Windigo"
+Q: [EOQ]
+S: 0.0
+
+5a89e3995542992e4fca844d
+H-63 is a highway that runs near the county seat of what Michigan county?
+A: ["H-63 (Michigan county highway)", "H-33 (Michigan county highway)", "H-13 (Michigan county highway)", "Mississippi Highway 63", "H-58 (Michigan county highway)"]
+Q: H-63 is a highway that runs near the county seat of what Michigan county?
+A: "Wayne County"
+Q: [EOQ]
+S: 0.0
+
+5abea85f5542990832d3a070
+Timothy J. Sloan was the CEO of Wells Fargo who succeeded the CEO who took the job in what month?
+A: ["Timothy J. Sloan", "Founder CEO", "Ceo (musician)", "CEO succession", "Tim Hunter (CEO)"]
+Q: Timothy J. Sloan was the CEO of Wells Fargo who succeeded the CEO who took the job in what month?
+A: "October"
+Q: [EOQ]
+S: 0.0
+
+5ae034bd55429925eb1afc2a
+Which  American politician and lawyer contested in San Francisco mayoral election, 2003
+A: ["San Francisco mayoral election, 2011", "San Francisco mayoral election, 2003", "San Francisco mayoral election, 2015", "San Francisco mayoral election, 1991", "San Francisco mayoral election, 2007"]
+Q: Which  American politician and lawyer contested in San Francisco mayoral election, 2003
+A: "Willie Brown"
+Q: [EOQ]
+S: 0.0
+
+5a75436155429974ef308cbc
+The Pluralist school is said to have included what creator of the theory of atomism? 
+A: ["Pluralist school", "Pluralist theories of truth", "Mohamed Said Atom", "Atomic theory", "Atom (measure theory)"]
+Q: The Pluralist school is said to have included what creator of the theory of atomism?
+A: "Anaxagoras"
+Q: [EOQ]
+S: 0.0
+
+5a75e06155429976ec32bc60
+Who was the running mate of the man about whose candidacy the 2016 book Insane Clown President: Dispatches from the 2016 Circus documents?
+A: ["Insane Clown President", "The Circus Clown", "Circus Insane", "2016 clown sightings", "Circus clown"]
+Q: Who was the running mate of the man about whose candidacy the 2016 book Insane Clown President: Dispatches from the 2016 Circus documents?
+A: "Doc Insane"
+Q: [EOQ]
+S: 0.0
+
+5abf42f75542993fe9a41dee
+which plant has the highest specie  Panicum or Populus 
+A: ["List of Panicum species", "Panicum turgidum", "Populus guzmanantlensis", "Populus", "Populus \u00d7 jackii"]
+Q: which plant has the highest specie  Panicum or Populus
+A: "Populus"
+Q: [EOQ]
+S: 0.0
+
+5ab91ef3554299753720f708
+Gene Sculatti write for CREEM sometime in the 60s or 70s, what famous term did CREEM coin for describing a genre of rock?
+A: ["Creem", "Gene Sculatti", "Cynthia Stone Creem", "List of writing genres", "Jaan Uhelszki"]
+Q: Gene Sculatti write for CREEM sometime in the 60s or 70s, what famous term did CREEM coin for describing a genre of rock?
+A: "punk rock"
+Q: [EOQ]
+S: 0.0
+
+5ab2c7ef554299545a2cfa73
+When did the predecessor of The Eyes of Nye first air?
+A: ["The Eyes of Nye", "Susan Nye, Baroness Nye", "Andrea Nye", "Bill Nye the Science Guy", "Nye Mountain"]
+Q: When did the predecessor of The Eyes of Nye first air?
+A: 2005
+Q: [EOQ]
+S: 0.0
+
+5abf931f5542990832d3a158
+When was the movie adaption of Jennifer Weiner's novel "In Her Shoes" released?
+A: ["Jennifer Weiner", "In Her Shoes (novel)", "In Her Shoes (film)", "Lady Jennifer (novel)", "Mile in These Shoes"]
+Q: When was the movie adaption of Jennifer Weiner's novel "In Her Shoes" released?
+A: 2005
+Q: [EOQ]
+S: 0.0
+
+5ac45b23554299204fd21f31
+The 1994 "The Shadow" co-stars Lone, Penelope Ann Miller, Peter Boyle, Jonathan Winters, Tim Curry and an actor that has received how many Emmy Award nominations?
+A: ["The Shadow (1994 film)", "Penelope Ann Miller", "Lone Star Emmy Awards", "List of awards and nominations received by Danny Boyle", "List of awards and nominations received by Anne Hathaway"]
+Q: The 1994 "The Shadow" co-stars Lone, Penelope Ann Miller, Peter Boyle, Jonathan Winters, Tim Curry and an actor that has received how many Emmy Award nominations?
+A: "four"
+Q: [EOQ]
+S: 0.0
+
+5a8aeadc55429950cd6afbe0
+What date in 2010 was a South Korean film starring  Kim Hyang-gi released?
+A: ["Kim Hyang-gi", "Cho Hyang-gi", "Kim Cheong-gi", "Kim Hyang-mi", "Kim Gi-dong"]
+Q: What date in 2010 was a South Korean film starring  Kim Hyang-gi released?
+A: "February 3, 2010"
+Q: [EOQ]
+S: 0.0
+
+5addfc425542997dc7907101
+ Force India VJM10 is a Formula One racing car previous driven by Nico Hülkenberg, and is now driven by which driver born 17 September 1996?
+A: ["Force India VJM10", "Force India VJM08", "Force India VJM05", "Force India VJM09", "Force India VJM07"]
+Q: Force India VJM10 is a Formula One racing car previous driven by Nico Hülkenberg, and is now driven by which driver born 17 September 1996?
+A: "Nico H\u00fclkenberg"
+Q: [EOQ]
+S: 0.0
+
+5ab430f655429942dd415eca
+"The Chance of a Lunchtime" is an episode of a BBC sitcom writtem by who?
+A: ["The Chance of a Lunchtime", "Sitcom", "List of The Main Chance episodes", "I Do, But To Who?", "List of Blackadder episodes"]
+Q: "The Chance of a Lunchtime" is an episode of a BBC sitcom writtem by who?
+A: "Raquel"
+Q: [EOQ]
+S: 0.0
+
+5abc23c45542993a06baf896
+Which region of Austria means 'Estate of the Salt Chamber' and covers the village of Obertraun, a popular destination for skiing and snowboarding in the winter?
+A: ["Obertraun", "Tommy Moe's Winter Extreme: Skiing &amp; Snowboarding", "Alpine skiing at the 2014 Winter Paralympics \u2013 Women's snowboard cross", "Ski and snowboard locks"]
+Q: Which region of Austria means 'Estate of the Salt Chamber' and covers the village of Obertraun, a popular destination for skiing and snowboarding in the winter?
+A: "Salzkammergut"
+Q: [EOQ]
+S: 0.0
+
+5ab865235542992aa3b8c8db
+ Lucas da Silva Carvalho was an unused reserve runner for a Brazilian athletics track event which at top class events is run in lanes for the first what?
+A: ["Lucas Carvalho", "Albadilon da Silva Carvalho", "Leandro Carvalho da Silva", "\u00c9merson Carvalho da Silva", "Lu\u00eds Cl\u00e1udio Carvalho da Silva"]
+Q: Lucas da Silva Carvalho was an unused reserve runner for a Brazilian athletics track event which at top class events is run in lanes for the first what?
+A: "4  400 metres relay"
+Q: [EOQ]
+S: 0.0
+
+5a7140585542994082a3e6fa
+Seal Harris was born in what county?
+A: ["Seale Harris", "Andre the Seal", "Seal of Denver", "Seal Harris", "Seal of Utah"]
+Q: Seal Harris was born in what county?
+A: "Cedartown"
+Q: [EOQ]
+S: 0.0
+
+5ab40e1c5542996a3a969f00
+Lawerence Turman had produced a film, with a character named "Johnny 5" that had a follow up sequel released in what year?
+A: ["Before It Had a Name", "James while John had had had had had had had had had had had a better effect on the teacher", "John Turman", "Had", "When the Day Had No Name"]
+Q: Lawerence Turman had produced a film, with a character named "Johnny 5" that had a follow up sequel released in what year?
+A: 2007
+Q: [EOQ]
+S: 0.0
+
+5ae13c5155429920d5234336
+After partially sinking in 1994, Celestyal Crystal was rebuilt for the purpose of what Bermudian company?
+A: ["Celestyal Crystal", "Bermudian Americans", "Celestyal Cruises", "MV Celestyal Odyssey", "MS Celestyal Olympia"]
+Q: After partially sinking in 1994, Celestyal Crystal was rebuilt for the purpose of what Bermudian company?
+A: "Norwegian Cruise Line"
+Q: [EOQ]
+S: 0.0
+
+5a74b4dc55429979e2882a00
+Which former lead guitarist has a solo album named two disc compilation album?
+A: ["More than This (compilation album)", "Jazz Guitarist (album)", "Faces (Chris Caffery album)", "Solo Flight (Laurence Juber album)", "Solos and Duets"]
+Q: Which former lead guitarist has a solo album named two disc compilation album?
+A: "John Pizzarelli"
+Q: [EOQ]
+S: 0.0
+
+5a793bc95542994bb9456fc3
+Who was born first, Brooklyn Decker or Andy Roddick?
+A: ["Brooklyn Decker", "Andy Roddick", "Andy Roddick Foundation", "Andy Roddick career statistics", "Roddick"]
+Q: Who was born first, Brooklyn Decker or Andy Roddick?
+A: "Brooklyn Decker"
+Q: [EOQ]
+S: 0.0
+
+5ab2c0de5542992953946870
+Football at the 2006 Asian Games with Wisoon Wichaya as its coach was played how many days prior to the opening ceromony in Doha, Qatar in 2006? 
+A: ["Wisoon Wichaya", "Football at the 2006 Asian Games", "Football at the 2006 Asian Games \u2013 Squads", "Football at the 2006 Asian Games \u2013 Women"]
+Q: Football at the 2006 Asian Games with Wisoon Wichaya as its coach was played how many days prior to the opening ceromony in Doha, Qatar in 2006?
+A: 14
+Q: [EOQ]
+S: 0.0
+
+5a8cd6de55429941ae14df07
+Charlotte Hatherley initially came to prominence in a band formed in what year?
+A: ["Charlotte Hatherley", "The Formative Years", "Charlotte's Web (band)", "The Charlottes", "Owen Hatherley"]
+Q: Charlotte Hatherley initially came to prominence in a band formed in what year?
+A: 1986
+Q: [EOQ]
+S: 0.0
+
+5a7344e95542991f9a20c6ce
+What song was number 4 on the charts when a song from FutureSex/LoveSounds was number 1?
+A: ["FutureSex/LoveSound", "FutureSex/LoveSounds", "List of songs that reached number one on the Irish Singles Chart", "Number 1 (Goldfrapp song)", "FutureSex/LoveShow"]
+Q: What song was number 4 on the charts when a song from FutureSex/LoveSounds was number 1?
+A: "I'm a Good Man"
+Q: [EOQ]
+S: 0.0
+
+5ac532335542994611c8b41c
+Howard Van Doren Shaw was the designer of which 1917 Progressive Era community? 
+A: ["Howard Van Doren Shaw", "List of works by Howard Van Doren Shaw", "Van Doren", "Paul Van Doren", "Carl Clinton Van Doren"]
+Q: Howard Van Doren Shaw was the designer of which 1917 Progressive Era community?
+A: "Northwest Indiana"
+Q: [EOQ]
+S: 0.0
+
+5a79c9c05542994bb94570a5
+This man who was born on April 25th, 1947, was a member of this lower house of the Hawaii State Legislature.
+A: ["Hawaii State Legislature", "Members of the 25th D\u00e1il", "Hawaii House of Representatives", "Louisiana State Legislature", "Hawaii State Capitol"]
+Q: This man who was born on April 25th, 1947, was a member of this lower house of the Hawaii State Legislature.
+A: "Hawaii State Senate"
+Q: [EOQ]
+S: 0.0
+
+5a8e8bed5542990e94052b47
+What United Kingdom Prime Minister was succeeded in the 1990s by the Leader of the Conservative Party?
+A: ["Prime Minister of the United Kingdom", "Leader of the Conservative Party (UK)", "Conservative Party (UK) leadership election, 1990", "1990 Prime Minister's Resignation Honours", "Spouse of the Prime Minister of the United Kingdom"]
+Q: What United Kingdom Prime Minister was succeeded in the 1990s by the Leader of the Conservative Party?
+A: "David Cameron"
+Q: [EOQ]
+S: 0.0
+
+5a8f24cc55429924144829e7
+Andrei Ivanovich Gorchakov commanded the 1st Infanty Corps in what major engagement of the Napoleonic Wars?
+A: ["Andrei Ivanovich Gorchakov", "Aleksey Gorchakov", "Andrei Ivanovich Stepanov", "List of major U.S. Commands of World War II", "Andrei Ivanovich Bogdanov"]
+Q: Andrei Ivanovich Gorchakov commanded the 1st Infanty Corps in what major engagement of the Napoleonic Wars?
+A: "French Campaign of 1814"
+Q: [EOQ]
+S: 0.0
+
+5abc219655429959677d6a1d
+Which comic book was also written by the writer of Crossed?
+A: ["Writers on Comics Scriptwriting", "Crossed (comics)", "Jan (comic book writer)", "Star Crossed (comics)", "Comic book"]
+Q: Which comic book was also written by the writer of Crossed?
+A: "Crossed: Psychopath"
+Q: [EOQ]
+S: 0.0
+
+5a90937955429933b8a20568
+The father of Manning Marius Kimmel retired from the Navy in what year?
+A: ["Manning Kimmel", "Manning M. Kimmel", "Jonathan Kimmel", "Will Kimmel", "Husband E. Kimmel"]
+Q: The father of Manning Marius Kimmel retired from the Navy in what year?
+A: 1942
+Q: [EOQ]
+S: 0.0
+
+5a77984d5542992a6e59df14
+What occupation do Henry Moore and John Wesley have in common?
+A: ["Joshua John Moore", "John Henry Moore (Texas)", "William Henry Moore", "John Wesley Brown", "John Wesley Burgess"]
+Q: What occupation do Henry Moore and John Wesley have in common?
+A: "lawyer"
+Q: [EOQ]
+S: 0.0
+
+5ab7ccf455429928e1fe3910
+What was the 2010 population of the town where Lake George Avenue Historic District is located?
+A: ["Lake George Avenue Historic District", "Historic Old Town Commercial District", "North Avenue Historic District", "Amherst Avenue Historic District", "Lake Helen Historic District"]
+Q: What was the 2010 population of the town where Lake George Avenue Historic District is located?
+A: "57,069"
+Q: [EOQ]
+S: 0.0
+
+5a8f5a185542992414482a71
+Of these two publication--Báiki and Sick--what type of publication is the one that was published most frequently? 
+A: ["B\u00e1iki", "Publication bias", "Galaxy Publications", "Public notice", "Publicity stunt"]
+Q: Of these two publication--Báiki and Sick--what type of publication is the one that was published most frequently?
+A: "magazine"
+Q: [EOQ]
+S: 0.0
+
+5a85c3225542992a431d1b95
+The 2000 ICC KnockOut Trophy was the debut of a Jamaican cricketer who is a right-handed what?
+A: ["2000 ICC KnockOut Trophy", "2000 ICC KnockOut Trophy squads", "ICC EAP Cricket Trophy (One day)", "1998 ICC KnockOut Trophy squads", "1994 ICC Trophy"]
+Q: The 2000 ICC KnockOut Trophy was the debut of a Jamaican cricketer who is a right-handed what?
+A: "ODI"
+Q: [EOQ]
+S: 0.0
+
+5ae07b0155429945ae95935d
+Which novelist was German, David Guterson or Thomas Mann?
+A: ["David Guterson", "Erika Mann", "Thomas Mann Prize", "Golo Mann", "Thomas Mann (disambiguation)"]
+Q: Which novelist was German, David Guterson or Thomas Mann?
+A: "Thomas Mann"
+Q: [EOQ]
+S: 0.0
+
+5a751bbe5542993748c897ba
+Which 1962 film starring Tom Courtenay is based on a short story of the same name?
+A: ["The Loneliness of the Long Distance Runner (film)", "Dog Star (short story)", "Star Light (short story)", "The Star (2002 film)", "The Hangman (1959 film)"]
+Q: Which 1962 film starring Tom Courtenay is based on a short story of the same name?
+A: "The Loneliness of the Long Distance Runner"
+Q: [EOQ]
+S: 0.0
+
+5ae2c6bf554299492dc91c6c
+Which Austrian writer and journalist introduced the term "Journaille "
+A: ["Journaille", "Myanmar Writers and Journalists Association", "Society of Women Writers and Journalists", "Austrians", "Delia Austrian"]
+Q: Which Austrian writer and journalist introduced the term "Journaille "
+A: "Karl Kraus"
+Q: [EOQ]
+S: 0.0
+
+5a8510a25542994c784ddaf0
+What profession does Stephen Jay Gould and Ann Beattie have in common?
+A: ["Jay Beatty", "Stephen Jay Gould", "Jay Gould House", "The Siren Song of Stephen Jay Gould", "Frank Jay Gould"]
+Q: What profession does Stephen Jay Gould and Ann Beattie have in common?
+A: "author"
+Q: [EOQ]
+S: 0.0
+
+5a83880e554299123d8c214e
+Suicide's 1977 released album features a song based on what brand's comic character?
+A: ["Ghost Rider (Suicide song)", "Suicide (1977 album)", "Suicide Songs", "Johnny (Suicide song)", "Base (comics)"]
+Q: Suicide's 1977 released album features a song based on what brand's comic character?
+A: "Marvel Comics"
+Q: [EOQ]
+S: 0.0
+
+5ade4da055429939a52fe878
+My Neighbor Totoro was produced by a Japanese animation film studio founded in what year?
+A: ["My Neighbor Totoro", "My Neighbors the Yamadas", "PAJ animation studio", "Shanghai Animation Film Studio", "List of Japanese animation studios"]
+Q: My Neighbor Totoro was produced by a Japanese animation film studio founded in what year?
+A: 1957
+Q: [EOQ]
+S: 0.0
+
+5a77720255429967ab10517f
+In what year did both Orson Scott Card's novel "Ender's Game" and Keri Hulme's "The Bone People" come out?
+A: ["Ender's Game (disambiguation)", "Keri Hulme", "Orson Scott Card", "Orson Scott Card bibliography", "A War of Gifts: An Ender Story"]
+Q: In what year did both Orson Scott Card's novel "Ender's Game" and Keri Hulme's "The Bone People" come out?
+A: 1985
+Q: [EOQ]
+S: 0.0
+
+5ac3090d5542990b17b154fc
+Operalia, The World Opera Competition helped launch the career of an operatic soprano of what nationality?
+A: ["Operalia, The World Opera Competition", "Andrea Carroll (soprano)", "Yang Guang (mezzo-soprano)", "Ao Li", "Bogdan Volkov"]
+Q: Operalia, The World Opera Competition helped launch the career of an operatic soprano of what nationality?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+5adcfebe5542992c1e3a24f3
+How many members were in the South Korean boy group whose first official sub-unit is Bastarz?
+A: ["Bastarz", "P.O", "Infinite H", "Lee Chang-sub", "Ma Boy"]
+Q: How many members were in the South Korean boy group whose first official sub-unit is Bastarz?
+A: 3
+Q: [EOQ]
+S: 0.0
+
+5ab529965542990594ba9d1e
+Which casino closed first The Atlantic Club Casino Hotel or Trump Plaza Hotel and Casino ? 
+A: ["The Atlantic Club Casino Hotel", "Trump Plaza Hotel and Casino", "Resorts Casino Hotel", "Dunes Hotel and Casino (Atlantic City)", "List of casino hotels"]
+Q: Which casino closed first The Atlantic Club Casino Hotel or Trump Plaza Hotel and Casino ?
+A: "The Atlantic Club Casino Hotel"
+Q: [EOQ]
+S: 0.0
+
+5a7509175542993748c897a3
+What group of Elektra Records recording artists are known to be an indie pop band?
+A: ["List of Elektra Records artists", "Family Records", "St. Cecilia: The Elektra Recordings", "Elektra Records", "Indie Recordings"]
+Q: What group of Elektra Records recording artists are known to be an indie pop band?
+A: "Kvelertak"
+Q: [EOQ]
+S: 0.0
+
+5ade0cc85542990dbb2f7f37
+Is Ordos City more west than Yangzhong?
+A: ["Yangzhong", "Ordos City", "Yangzhong Land Park", "Ordo Virtutum", "Ordos Museum"]
+Q: Is Ordos City more west than Yangzhong?
+A: "No"
+Q: [EOQ]
+S: 0.0
+
+5a81456855429938b614231e
+Between Valparaiso University and Old Dominion University, which institution has higher student enrollment?
+A: ["Valparaiso University", "List of universities in Venezuela by enrollment", "Old Dominion University", "List of largest universities by enrollment", "Old Dominion University Fieldhouse"]
+Q: Between Valparaiso University and Old Dominion University, which institution has higher student enrollment?
+A: "Old Dominion University"
+Q: [EOQ]
+S: 0.0
+
+5ab67772554299110f219a12
+What type of media does J. T. Petty and Outlast have in common?
+A: ["J. T. Petty", "Outlast Technologies", "Outlast", "Media type", "Outlaster"]
+Q: What type of media does J. T. Petty and Outlast have in common?
+A: "video game"
+Q: [EOQ]
+S: 0.0
+
+5a79c7ac5542994bb9457097
+How many girls and boys are in the seventeen sibling family featured on Counting On?
+A: ["List of Counting On episodes", "Girl, Girl, Boy, Girl, Boy", "Seventeen discography", "Sibling", "A Boy... a Girl"]
+Q: How many girls and boys are in the seventeen sibling family featured on Counting On?
+A: 16
+Q: [EOQ]
+S: 0.0
+
+5ac3ce74554299204fd21e71
+How many episodes were in the original run of the HBO show that Kristin Davis played the character Charlotte York Goldenblatt?
+A: ["Charlotte York Goldenblatt", "Kristin Davis", "Kristin M. Davis", "No Show", "Sex and the City (season 5)"]
+Q: How many episodes were in the original run of the HBO show that Kristin Davis played the character Charlotte York Goldenblatt?
+A: 10
+Q: [EOQ]
+S: 0.0
+
+5ae402085542995dadf242ca
+W41AP is a station owned by the daily newspaper serving what nearby city in Erie County?
+A: ["W41AP", "Pembroke Daily Observer", "Elizabeth City Daily Advance", "The Daily Independent (Ashland newspaper)", "Tyrone Daily Herald"]
+Q: W41AP is a station owned by the daily newspaper serving what nearby city in Erie County?
+A: "Rochester"
+Q: [EOQ]
+S: 0.0
+
+5add47085542997545bbbd13
+What English-American actor known for his role in "Raiders of the Lost Ark" starred in The Lodger?
+A: ["Raiders of the Lost Ark: The Adaptation", "Raiders of the Lost Ark (disambiguation)", "Raiders of the Lost Ark", "Raiders of the Lost Ark (soundtrack)", "Raiders of the Lost Ark (video game)"]
+Q: What English-American actor known for his role in "Raiders of the Lost Ark" starred in The Lodger?
+A: "John Williams"
+Q: [EOQ]
+S: 0.0
+
+5a72a3c45542994cef4bc3ac
+What is the birth name of the woman that "A Woman Called Moses" is based on?
+A: ["A Woman Called Moses", "Harriet, the Woman Called Moses", "Woman Gives Birth to Tomato!", "Trans woman", "A Woman Called Golda"]
+Q: What is the birth name of the woman that "A Woman Called Moses" is based on?
+A: "Harriet Tubman"
+Q: [EOQ]
+S: 0.0
+
+5a8dd5b855429917b4a5bcc6
+What political party is the current Attorney General of Missouri associated with?
+A: ["Missouri Attorney General", "Missouri attorney general election, 2012", "List of Attorneys General of Missouri", "United States Associate Attorney General", "Attorney-General for Australia"]
+Q: What political party is the current Attorney General of Missouri associated with?
+A: "Democrat"
+Q: [EOQ]
+S: 0.0
+
+5a7652435542992d0ec060a5
+Who was the first Russian composer to make a lasting impression internationally, Alessandro Scarlatti or Pyotr Ilyich Tchaikovsky?
+A: ["Pyotr Ilyich Tchaikovsky", "Pyotr Ilyich Tchaikovsky in popular media", "Tchaikovsky (disambiguation)", "Death of Pyotr Ilyich Tchaikovsky", "Alessandro Scarlatti"]
+Q: Who was the first Russian composer to make a lasting impression internationally, Alessandro Scarlatti or Pyotr Ilyich Tchaikovsky?
+A: "Pyotr Ilyich Tchaikovsky"
+Q: [EOQ]
+S: 0.0
+
+5ac38ce255429939154137c2
+What do a Flaming beverage and a Gin and tonic have in common?
+A: ["Gin and tonic", "1984 Gilbey's Gin Tonics season", "Tonic water", "Gin (disambiguation)", "Flaming beverage"]
+Q: What do a Flaming beverage and a Gin and tonic have in common?
+A: "mixed drinks"
+Q: [EOQ]
+S: 0.0
+
+5abe92de5542993f32c2a16b
+Which feature does the G-shock watch have that is tested by a leakage test?
+A: ["G-Shock", "Electrical safety testing", "G-test", "Wet leakage current test", "Seidel test"]
+Q: Which feature does the G-shock watch have that is tested by a leakage test?
+A: "stopwatch"
+Q: [EOQ]
+S: 0.0
+
+5ae3d67f5542992f92d8238f
+The man who currently serves as the wide receivers coach for the Dallas Cowboys used to coach at what college?
+A: ["Bob King (speed coach)", "Derek Dooley (American football)", "Dallas Cowboys Ring of Honor", "1988 Dallas Cowboys season", "Dallas Cowboys Cheerleaders"]
+Q: The man who currently serves as the wide receivers coach for the Dallas Cowboys used to coach at what college?
+A: "Texas Tech University"
+Q: [EOQ]
+S: 0.0
+
+5a903b7255429933b8a204ae
+What Canadian filmmaker created a film about Bettie Page in 2005?
+A: ["The Notorious Bettie Page", "Bettie Page Reveals All", "Bettie Page: Dark Angel", "Canadian Filmmakers' Festival", "Delivery (2005 film)"]
+Q: What Canadian filmmaker created a film about Bettie Page in 2005?
+A: "Till Nowak"
+Q: [EOQ]
+S: 0.0
+
+5ade279e5542992fa25da6fa
+Kent Dairy Round Barn is near the city in what Montana county?
+A: ["Kent Dairy Round Barn", "Virginia Tillery Round Barn", "Cota Round Barns", "Ackerhurst Dairy Barn", "Thomas Ranck Round Barn"]
+Q: Kent Dairy Round Barn is near the city in what Montana county?
+A: "Red Lodge"
+Q: [EOQ]
+S: 0.0
+
+5ab74eb85542993667793fb8
+Which Croatian professional basketball player (a shooting guard) did New Jersey Nets acquire during their 1990–91 season?
+A: ["1990\u201391 New Jersey Nets season", "2008\u201309 New Jersey Nets season", "Kurk Lee", "2007\u201308 New Jersey Nets season", "2010\u201311 New Jersey Nets season"]
+Q: Which Croatian professional basketball player (a shooting guard) did New Jersey Nets acquire during their 1990–91 season?
+A: "Kurk Lee Kurk Lee"
+Q: [EOQ]
+S: 0.0
+
+5a7299e75542991f9a20c524
+What movie was released at a later date, My Dog Tulip or Monsters vs. Aliens?
+A: ["List of Monsters vs. Aliens characters", "Monsters vs. Aliens (franchise)", "Monsters vs. Aliens (disambiguation)", "Monsters vs. Aliens (video game)", "Monsters vs. Aliens: Mutant Pumpkins from Outer Space"]
+Q: What movie was released at a later date, My Dog Tulip or Monsters vs. Aliens?
+A: "Monsters vs. Aliens"
+Q: [EOQ]
+S: 0.0
+
+5ae7739c5542997b22f6a775
+An Austrian-British psychoanalyst born in 1882 and innovative in object relations theory was also rigorous about what other type of therapy?
+A: ["Melanie Klein", "Object relations theory", "Relational theory", "Object theory", "Schema therapy"]
+Q: An Austrian-British psychoanalyst born in 1882 and innovative in object relations theory was also rigorous about what other type of therapy?
+A: "Gestalt therapy"
+Q: [EOQ]
+S: 0.0
+
+5a8b67b655429950cd6afcde
+Who is the controlling shareholder of the world's fourth-largest tyre manufacturer?
+A: ["Dunlop Aircraft Tyres", "Englebert (tyre manufacturer)", "General Tyre Pakistan", "Tyre label", "Fullrun Tyre"]
+Q: Who is the controlling shareholder of the world's fourth-largest tyre manufacturer?
+A: "Oscar Englebert"
+Q: [EOQ]
+S: 0.0
+
+5ab442645542991751b4d70c
+What type of the district is the Downtown Bentonville of the state in the southeastern region of the United States which is home to over 3 million people as of 2017?
+A: ["Downtown Bentonville", "Southeastern United States", "Bentonville, Virginia", "Bentonville, Missouri", "2017 in the United States"]
+Q: What type of the district is the Downtown Bentonville of the state in the southeastern region of the United States which is home to over 3 million people as of 2017?
+A: "historic business district"
+Q: [EOQ]
+S: 0.0
+
+5ab8829d55429934fafe6e08
+The View from the Bottom is the fifth studio album by an American rock band best known for what hit song?
+A: ["The View from the Bottom", "Hit That", "Back on Top (The Front Bottoms album)", "View from the Top (song)", "The Front Bottoms (album)"]
+Q: The View from the Bottom is the fifth studio album by an American rock band best known for what hit song?
+A: "It's a Wonderful Life"
+Q: [EOQ]
+S: 0.0
+
+5ac007cc5542996f0d89cb0b
+Who was attempting to regain the British throne until the Raids on Lachaber and Shiramore shut down his operations?
+A: ["Raids on Lochaber and Shiramore", "Shut It Down (album)", "Shut Down the Streets", "Operation Chopper (commando raid)", "Sit Down, Shut Up"]
+Q: Who was attempting to regain the British throne until the Raids on Lachaber and Shiramore shut down his operations?
+A: "King Louis XIV"
+Q: [EOQ]
+S: 0.0
+
+5a771ead55429966f1a36c7c
+Who starred as an American attorney in Grey Gardens?
+A: ["Grey Gardens (disambiguation)", "Grey Gardens", "The Beales of Grey Gardens", "Grey Gardens (estate)", "Grey Gardens (2009 film)"]
+Q: Who starred as an American attorney in Grey Gardens?
+A: "Drew Barrymore"
+Q: [EOQ]
+S: 0.0
+
+5a83d0ed5542996488c2e4e7
+Triangle Brewing Company was started by a founder who had experience as what non-commercial alcohol producer?
+A: ["Founders Brewing Company", "Triangle Brewing Company", "Hudepohl Brewing Company", "Crabtree Brewing Co.", "Shaftebury Brewing Company"]
+Q: Triangle Brewing Company was started by a founder who had experience as what non-commercial alcohol producer?
+A: "homebrewer"
+Q: [EOQ]
+S: 0.0
+
+5ac322c95542995ef918c117
+Which magazine had more previous names, Watercolor Artist or The General?
+A: ["Watercolor Artist", "New England Watercolor Society", "The Watercolor", "Boston Watercolor Club", "Watercolor (disambiguation)"]
+Q: Which magazine had more previous names, Watercolor Artist or The General?
+A: "Watercolor Artist"
+Q: [EOQ]
+S: 0.0
+
+5a7616755542992d0ec06028
+Where is the county seat for people living in Henderson Point, Mississippi?
+A: ["Henderson Point, Mississippi", "West Point, Mississippi", "Henderson County, Tennessee", "Henderson County, Kentucky", "Chickasaw County, Mississippi"]
+Q: Where is the county seat for people living in Henderson Point, Mississippi?
+A: "Houston"
+Q: [EOQ]
+S: 0.0
+
+5a7a954855429941d65f26cd
+What album did John Lennon release before the one that contained the song "How?"
+A: ["Remember (John Lennon song)", "Love (John Lennon song)", "God (John Lennon song)", "The Songs Lennon and McCartney Gave Away", "Isolation (John Lennon song)"]
+Q: What album did John Lennon release before the one that contained the song "How?"
+A: "The Beatles"
+Q: [EOQ]
+S: 0.0
+
+5a8a6b625542996c9b8d5ed9
+In which town was the amusement park that is operated by Britannia Jinky Jersey Ltd located where the first  Tomorrow's Parties Festival was held?.
+A: ["Pontins", "Palisades Amusement Park", "Excelsior Amusement Park", "Worlds of Wonder (amusement park)", "Silver Beach Amusement Park"]
+Q: In which town was the amusement park that is operated by Britannia Jinky Jersey Ltd located where the first  Tomorrow's Parties Festival was held?.
+A: "New Jersey"
+Q: [EOQ]
+S: 0.0
+
+5a8e60ca5542995a26add4d9
+In which movie the Stephanie Kay Panabaker was alongside with her elder sister Danielle Nicole Panabaker?
+A: ["Danielle Panabaker", "Kay Panabaker", "Panabaker", "Frank Panabaker", "Nicole LaLiberte"]
+Q: In which movie the Stephanie Kay Panabaker was alongside with her elder sister Danielle Nicole Panabaker?
+A: "Read It and Weep"
+Q: [EOQ]
+S: 0.0
+
+5ae057fd55429945ae959328
+ Robert Smith founded the multinational company headquartered in what city?
+A: ["The Smith's Snackfood Company", "Headquarters and Service Company", "Robert Bosch GmbH", "E. A. Smith (company)", "Travers Smith"]
+Q: Robert Smith founded the multinational company headquartered in what city?
+A: "Trondheim"
+Q: [EOQ]
+S: 0.0
+
+5abcffc2554299700f9d7951
+What is the name of the company in Independent Hill, Virginia that is also headquartered in Houston Texas?
+A: ["List of companies in Houston", "Givens Hill, Texas", "Independent Hill, Virginia", "Houston Independent School District", "List of companies headquartered in Northern Virginia"]
+Q: What is the name of the company in Independent Hill, Virginia that is also headquartered in Houston Texas?
+A: "Crosby's Crab Company"
+Q: [EOQ]
+S: 0.0
+
+5a806aca5542996402f6a503
+Which characters are akin to goblins and were added to a Tilted Mill Entertainment video game in 2009?
+A: ["Tilted Mill Entertainment", "Mosby's Confederacy (video game)", "Hinterland (video game)", "Ghosts 'n Goblins (video game)", "Arthur (Ghosts 'n Goblins)"]
+Q: Which characters are akin to goblins and were added to a Tilted Mill Entertainment video game in 2009?
+A: "Orc Lords"
+Q: [EOQ]
+S: 0.0
+
+5ae09ea05542993d6555ebc1
+The Bachelor was based on what novel written by an Austrian author?
+A: ["The Bachelors (novel)", "Author, Author (novel)", "Bachelor Mother", "The Bachelor's Club", "Written in Blood (novel)"]
+Q: The Bachelor was based on what novel written by an Austrian author?
+A: "The Bachelor's Club"
+Q: [EOQ]
+S: 0.0
+
+5ab1f494554299706120959c
+Which industrialist established a museum in Heckscher Park that features "First Friday" concerts?
+A: ["Heckscher Museum of Art", "Heckscher Park (Huntington, New York)", "Heckscher State Park", "Heckscher", "Sten Heckscher"]
+Q: Which industrialist established a museum in Heckscher Park that features "First Friday" concerts?
+A: "August Heckscher"
+Q: [EOQ]
+S: 0.0
+
+5a87d8355542993e715abfe4
+Which film was released first, Jawbreaker or Havenhurst?
+A: ["Havenhurst", "Jawbreaker (film)", "Jawbreakers (album)", "Jawbreakers (duo)", "Havenhurst, Missouri"]
+Q: Which film was released first, Jawbreaker or Havenhurst?
+A: "Jawbreaker"
+Q: [EOQ]
+S: 0.0
+
+5add39c45542995b365faac5
+Did the the Battle of Stones River occur before the Battle of Saipan?
+A: ["Battle of Saipan order of battle", "Battle of Saipan", "Battle of Stones River", "Stones River Union order of battle", "Stones River Confederate order of battle"]
+Q: Did the the Battle of Stones River occur before the Battle of Saipan?
+A: "Yes"
+Q: [EOQ]
+S: 0.0
+
+5ae2cda55542992decbdcdb7
+What "God Gave Me You" artist wrote the song "Imagine That" for Diamond Rio?
+A: ["God Gave Me You", "God Gave Me You (Bryan White song)", "You Gave Me a Mountain", "Imagine That (Diamond Rio song)", "You Gave Me the Answer"]
+Q: What "God Gave Me You" artist wrote the song "Imagine That" for Diamond Rio?
+A: "Bryan White"
+Q: [EOQ]
+S: 0.0
+
+5a738093554299623ed4abbb
+Alex Haley wrote what novel about a man that was born in 1750?
+A: ["Alex Haley's Queen", "Kunta Kinte", "Alex Haley House and Museum", "Alex Haley", "J. Evetts Haley"]
+Q: Alex Haley wrote what novel about a man that was born in 1750?
+A: "Roots"
+Q: [EOQ]
+S: 0.0
+
+5ab59ffe5542997d4ad1f193
+Wind was directed by which American actress born on March 26, 1960?
+A: ["Wind direction", "March 26", "Inherit the Wind (1960 film)", "Lisa Gaye (actress born 1960)", "Born to the Wind"]
+Q: Wind was directed by which American actress born on March 26, 1960?
+A: "Lisa Gaye"
+Q: [EOQ]
+S: 0.0
+
+5ae5a4e5554299546bf82f01
+Which writer of "Rewrite This Story" are an American songwriting duo and composing team for musical theater, films, and television?
+A: ["Rewrite This Story", "American Idol alumni in film, television and theater", "List of Jewish American composers", "Music of Rewrite", "Tim Story (composer)"]
+Q: Which writer of "Rewrite This Story" are an American songwriting duo and composing team for musical theater, films, and television?
+A: "Jimmy Collins"
+Q: [EOQ]
+S: 0.0
+
+5ac264195542992f1f2b38a5
+Which song that John Kirby scored  is often the final piece of music played during an evening of revelry?
+A: ["The Bonnie Banks o' Loch Lomond", "John Kirby (musician)", "Revelry (song)", "The Revelry (album)", "Finale (music)"]
+Q: Which song that John Kirby scored  is often the final piece of music played during an evening of revelry?
+A: "Loch Lomond"
+Q: [EOQ]
+S: 0.0
+
+5ac3f1c9554299204fd21ed4
+"Lesbian Request Denied" is the third episode of the first season of a series created by who?
+A: ["Lesbian Request Denied", "Lesbian kiss episode", "First Evil", "The Third Conchord", "List of Third Watch episodes"]
+Q: "Lesbian Request Denied" is the third episode of the first season of a series created by who?
+A: "Sian Heder"
+Q: [EOQ]
+S: 0.0
+
+5ab5fddb554299110f2199af
+Where was one of Sergei Prokofiev's most well-known operas first performed in 1921?
+A: ["Prokofiev (disambiguation)", "The Giant (opera)", "List of compositions by Sergei Prokofiev", "Piano Concerto No. 3 (Prokofiev)", "The Gambler (Prokofiev)"]
+Q: Where was one of Sergei Prokofiev's most well-known operas first performed in 1921?
+A: "Opera House of the Russian Empire"
+Q: [EOQ]
+S: 0.0
+
+5a7f7c285542994857a76746
+California joined the Union due to the passage of a package of how many separate bills?
+A: ["Union dues", "California Passage", "Monte Due Mani", "Trade Union Act", "Rich Passage"]
+Q: California joined the Union due to the passage of a package of how many separate bills?
+A: "three"
+Q: [EOQ]
+S: 0.0
+
+5ab322b1554299194fa93570
+Which type of character is featured by the P.L. Travers's third book and last novel in the "Mary Poppins" series?
+A: ["Mary Poppins Opens the Door", "Mary Poppins (disambiguation)", "Mary Poppins", "Mary Poppins (character)", "Mary Poppins (musical)"]
+Q: Which type of character is featured by the P.L. Travers's third book and last novel in the "Mary Poppins" series?
+A: "magical English nanny"
+Q: [EOQ]
+S: 0.0
+
+5ae7ba7a5542993210983f12
+What is the name of the singer who's song was released as the lead single from the album "Confessions", and that had popular song stuck behind for eight consecutive weeks?
+A: ["Stuck on You (Failure song)", "Two Weeks (FKA Twigs song)", "Confess (song)", "Had Enough (The Who song)", "No Name (song)"]
+Q: What is the name of the singer who's song was released as the lead single from the album "Confessions", and that had popular song stuck behind for eight consecutive weeks?
+A: "Alicia Keys"
+Q: [EOQ]
+S: 0.0
+
+5ae625935542995703ce8b2a
+Who founded gaming company which owns and operates the Red Rock Resort?
+A: ["Red Rock Casino, Resort &amp; Spa", "Red Willow Lake Resort", "Peak Resorts", "Silverleaf Resorts", "Atlantis Resorts"]
+Q: Who founded gaming company which owns and operates the Red Rock Resort?
+A: "William Hill"
+Q: [EOQ]
+S: 0.0
+
+5addd82c5542990dbb2f7eb9
+Do Ray Wilson and Leo have the same nationality ?
+A: ["Ray Wilson Live", "An Audience and Ray Wilson", "Do You Have The Same But In Pants?", "Ray Wilson (American football)", "Wilson Bikram Rai"]
+Q: Do Ray Wilson and Leo have the same nationality ?
+A: "Ray Wilson and Leo are American citizens."
+Q: [EOQ]
+S: 0.0
+
+5a7180205542994082a3e856
+The creator of "Wallace and Gromit" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes? 
+A: ["Wallace &amp; Gromit: The Best of Aardman Animation", "Animals, Animals, Animals", "Wallace &amp; Gromit in Project Zoo", "Wallace and Gromit", "All About Animals"]
+Q: The creator of "Wallace and Gromit" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes?
+A: "The Animals"
+Q: [EOQ]
+S: 0.0
+
+5ab7f7465542993667794071
+What type of engine powered both the Saab 36 and the Avro Vulcan?
+A: ["Saab 36", "Avro Vulcan", "Avro Vulcan XM655", "Avro Vulcan XH558", "List of surviving Avro Vulcans"]
+Q: What type of engine powered both the Saab 36 and the Avro Vulcan?
+A: "turbojet"
+Q: [EOQ]
+S: 0.0
+
+5a8cc8c2554299441c6b9efc
+When did the author of the book One More River is based on win the Nobel Prize?
+A: ["Nobel Prize in Literature", "Nobel Prize in Physics", "Ig Nobel Prize", "Nobel Prize controversies", "Nobel Prize in Chemistry"]
+Q: When did the author of the book One More River is based on win the Nobel Prize?
+A: 1939
+Q: [EOQ]
+S: 0.0
+
+5a81e8ea5542995ce29dcc73
+Who played the role of Nettie Harris in the 1985 film directed by Steven Spielberg?
+A: ["Steven Spielberg bibliography", "Steven Spielberg's unrealized projects", "Anne Spielberg", "Spielberg (disambiguation)", "Steven Spielberg Jewish Film Archive"]
+Q: Who played the role of Nettie Harris in the 1985 film directed by Steven Spielberg?
+A: "Norma Young"
+Q: [EOQ]
+S: 0.0
+
+5a7c49dc55429935c91b514f
+The head of the Foreign Relations Department of the Rastriya Janashakti Party holds a degree that can be abbreviated MS, M.S., or ScM, in what field?
+A: ["Rastriya Janashakti Party", "Rastriya Janashakti Mahila Sangh", "Hari Bahadur Basnet", "Rastriya Janashakti Student Union", "Rastriya Loktantrik Party"]
+Q: The head of the Foreign Relations Department of the Rastriya Janashakti Party holds a degree that can be abbreviated MS, M.S., or ScM, in what field?
+A: "Engineering"
+Q: [EOQ]
+S: 0.0
+
+5a7e910a554299306751357f
+Who was the artist that recorded a duet in 1985 for the CBS TV series 'Dallas' with an artist that was born in 1951 and has twenty #1 hits?
+A: ["Makin' Up for Lost Time (The Dallas Lovers' Song)", "Dallas (1978 TV series) (season 9)", "Dallas (1978 TV series) (season 10)", "Recording artist royalties"]
+Q: Who was the artist that recorded a duet in 1985 for the CBS TV series 'Dallas' with an artist that was born in 1951 and has twenty #1 hits?
+A: "Crystal Gayle"
+Q: [EOQ]
+S: 0.0
+
+5abc0a5d5542993f40c73c64
+Are Freakonomics and In the Realm of the Hackers both American documentaries?
+A: ["In the Realm of the Hackers", "Freakonomics (film)", "Hackers Wanted", "Freakonomics Radio", "Hackers in Wonderland"]
+Q: Are Freakonomics and In the Realm of the Hackers both American documentaries?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5a89432b554299669944a519
+What was the code name of the campaign where Joe Foss received a Medal of Honor?
+A: ["Joe Foss", "James Dougherty (Medal of Honor)", "Medal of Honor", "Herbert L. Foss", "Joseph Cable (Medal of Honor)"]
+Q: What was the code name of the campaign where Joe Foss received a Medal of Honor?
+A: "Guadalcanal Campaign"
+Q: [EOQ]
+S: 0.0
+
+5a7db62d5542997cc2c4747c
+What German state was Karl Julius Perleb born in?
+A: ["Karl Julius Perleb", "Karl Julius Weber", "Karl Julius Beloch", "Karl Julius Schr\u00f6er", "Friedrich Karl Julius Sch\u00fctz"]
+Q: What German state was Karl Julius Perleb born in?
+A: "Germany"
+Q: [EOQ]
+S: 0.0
+
+5a74af7e55429916b01641d2
+Who was born first, Johan Leysen or George Clooney?
+A: ["Johan Leysen", "Nick Clooney", "George Clooney", "List of awards and nominations received by George Clooney", "Bart Leysen"]
+Q: Who was born first, Johan Leysen or George Clooney?
+A: "Johan Leysen"
+Q: [EOQ]
+S: 0.0
+
+5a760ab65542994ccc918697
+Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under which United States Vice President?
+A: ["Alfred Balk", "Secretary of State for Employment", "United States Under Secretary of the Army", "United States House Committee on the Election of the President, Vice President and Representatives in Congress", "Vice President of the United States"]
+Q: Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under which United States Vice President?
+A: "Nelson Rockefeller"
+Q: [EOQ]
+S: 0.0
+
+5a84bb825542991dd0999dbe
+Who beacme a star as a comic book character created by Gerry Conway and Bob Oksner?
+A: ["Vixen (comics)", "Bob Oksner", "Frank Drake (comics)", "Gerry Conway", "Slipknot (comics)"]
+Q: Who beacme a star as a comic book character created by Gerry Conway and Bob Oksner?
+A: "Mari Jiwe McCabe"
+Q: [EOQ]
+S: 0.0
+
+5a7a77425542995eb53be83e
+Who has released more solo albums, Nick Carter or Brady Seals?
+A: ["Brady Seals", "Brady Seals (album)", "All American (Nick Carter album)", "The Truth (Brady Seals album)", "Nick Carter (musician)"]
+Q: Who has released more solo albums, Nick Carter or Brady Seals?
+A: "Nick Carter"
+Q: [EOQ]
+S: 0.0
+
+5ade618e554299728e26c700
+Both Tsai Ming-liang and Giacomo Gentilomo were involved with which profession?
+A: ["Tsai Ming-liang", "Giacomo Gentilomo", "Tsai Huang-liang", "Hsu Ming-tsai", "Tsai Ming-kai"]
+Q: Both Tsai Ming-liang and Giacomo Gentilomo were involved with which profession?
+A: "film director"
+Q: [EOQ]
+S: 0.0
+
+5a73677455429901807db030
+Of the companies that sponsor the British League Riders Championship, which is owned and operated by Goodyear Tire and Rubber Company?
+A: ["Goodyear Tire and Rubber Company", "Winston Tire Company", "The Kelly Springfield Tire Company", "Circuit Goodyear", "Firestone Natural Rubber Company"]
+Q: Of the companies that sponsor the British League Riders Championship, which is owned and operated by Goodyear Tire and Rubber Company?
+A: "Goodyear Tire and Rubber Company"
+Q: [EOQ]
+S: 0.0
+
+5a7506f455429916b0164240
+Connetquot High School  is a public high school in what city in New York?
+A: ["Connetquot High School", "Connetquot School District", "Batavia High School (New York)", "Watertown High School (New York)", "Harrison High School (New York)"]
+Q: Connetquot High School  is a public high school in what city in New York?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+5a808f3f5542992097ad2ffd
+"The Empire Builder"'s Columbia River Subdivision was part of which line?
+A: ["Columbia River Subdivision", "Columbia Subdivision", "Empire Builder (disambiguation)", "Empire Builders", "Empire Builder"]
+Q: "The Empire Builder"'s Columbia River Subdivision was part of which line?
+A: "Great Northern Railway"
+Q: [EOQ]
+S: 0.0
+
+5a8cb288554299585d9e3726
+The mass killing that took place at Oakland, California on April 2, 2012 was less deadly than the one that took place on October 1, 2015 in which state?
+A: ["Tookes House", "Tooke", "April 2012 Idlib bombings", "List of terrorist incidents in October 2015", "List of terrorist incidents in April 2015"]
+Q: The mass killing that took place at Oakland, California on April 2, 2012 was less deadly than the one that took place on October 1, 2015 in which state?
+A: "California"
+Q: [EOQ]
+S: 0.0
+
+5a7f6fd75542992e7d278cfa
+Which Canadian rock band released a song called "Counterparts" and had a drummer who was inducted into the Modern Drummer Hall of Fame?
+A: ["Drummer (band)", "Modern Drummer", "Willie Hall (drummer)", "Clayton Hill (drummer)", "Canadian Songwriters Hall of Fame"]
+Q: Which Canadian rock band released a song called "Counterparts" and had a drummer who was inducted into the Modern Drummer Hall of Fame?
+A: "The Beatles"
+Q: [EOQ]
+S: 0.0
+
+5a8f55f9554299458435d5bd
+What profession did Willi Forst and Elmer Clifton share?
+A: ["Willi Forst", "Elmer Clifton", "Forst (Baden)", "Forst-L\u00e4ngenb\u00fchl", "Forst, Switzerland"]
+Q: What profession did Willi Forst and Elmer Clifton share?
+A: "writer"
+Q: [EOQ]
+S: 0.0
+
+5a8b128455429971feec463b
+What city is the women's Vans Triple Crown of Surfing event hosted at?
+A: ["Triple Crown of Surfing", "Vans US Open of Surfing 2015", "Darwin Triple Crown", "Triple Crown Productions", "2016 CrownBet Darwin Triple Crown"]
+Q: What city is the women's Vans Triple Crown of Surfing event hosted at?
+A: "Maui"
+Q: [EOQ]
+S: 0.0
+
+5abf30185542990832d3a13f
+ Lou Cutell appeared on the third episode of the ninth season of an CBS sitcom that was what number episode overall?
+A: ["Last Time in New York", "Platonish", "Rally (How I Met Your Mother)", "Sunrise (How I Met Your Mother)", "The Locket (How I Met Your Mother)"]
+Q: Lou Cutell appeared on the third episode of the ninth season of an CBS sitcom that was what number episode overall?
+A: "117th"
+Q: [EOQ]
+S: 0.0
+
+5a7e86245542991319bc94ce
+Who was the New York City Fire Commissioner at the time of Providenza Panno's death?
+A: ["New York City Fire Commissioner", "Triangle Shirtwaist Factory fire", "Tax Commissioner of New York", "New York City Fire Department", "Commissioner of Health of the City of New York"]
+Q: Who was the New York City Fire Commissioner at the time of Providenza Panno's death?
+A: "Daniel A. Nigro"
+Q: [EOQ]
+S: 0.0
+
+5add3aaa5542992ae4cec500
+What was the name of the country ran by the president who maintained the mercenary unit, White Legion? 
+A: ["White Legion (Zaire)", "White Legion", "Mercenaries in India", "Guelphic Legion", "British Legions"]
+Q: What was the name of the country ran by the president who maintained the mercenary unit, White Legion?
+A: "Zaire"
+Q: [EOQ]
+S: 0.0
+
+5ab3c48755429969a97a81b8
+What cuisine is described as a cultural blending of Mediterranean influences (such as those created by Italian and Spanish populations)?
+A: ["Spanish cuisine", "Argentine cuisine", "Louisiana Creole cuisine", "Moroccan cuisine", "Cuban cuisine"]
+Q: What cuisine is described as a cultural blending of Mediterranean influences (such as those created by Italian and Spanish populations)?
+A: "Argentine cuisine"
+Q: [EOQ]
+S: 0.0
+
+5a7625e8554299109176e66a
+In which year was the King who made the 1925 Birthday Honours born?
+A: ["1925 Birthday Honours", "Birthday Honours", "1931 Birthday Honours"]
+Q: In which year was the King who made the 1925 Birthday Honours born?
+A: 1931
+Q: [EOQ]
+S: 0.0
+
+5adfc06d55429906c02daa2a
+What is the name of the largest shipping facility in the Northeastern United States, where the Boston Red Socks play?
+A: ["Boston Harbor", "United States Ship", "Northeastern United States (disambiguation)", "Red Socks Pugie", "SS Northeastern Victory"]
+Q: What is the name of the largest shipping facility in the Northeastern United States, where the Boston Red Socks play?
+A: "Port of Boston"
+Q: [EOQ]
+S: 0.0
+
+5a76641e5542992d0ec060d8
+What American actress who died in 2011 starred in Fear Stalk?
+A: ["Fear Stalk", "Stalked: Someone's Watching", "The Stalk", "They Live in Fear", "Stalking"]
+Q: What American actress who died in 2011 starred in Fear Stalk?
+A: "Janet Morris"
+Q: [EOQ]
+S: 0.0
+
+5a828a7b55429954d2e2eb69
+The retired American professional basketball player Walt Williams attended this institution in 1988 that is in which conference today?
+A: ["Walt Williams", "Walt Byrd", "1988 American South Conference Men's Basketball Tournament", "William Coleman (basketball)", "Kevin Williams (basketball)"]
+Q: The retired American professional basketball player Walt Williams attended this institution in 1988 that is in which conference today?
+A: "NCAA"
+Q: [EOQ]
+S: 0.0
+
+5ab8338155429919ba4e2260
+What is the name of a member of the North Melbourne Football Club, whose brother Rob has starred in Bridgetowns Cricket Clubs Premiership in 2016/7?
+A: ["List of North Melbourne Football Club premiership results", "University of Melbourne Cricket Club", "Melbourne Football Club", "Melbourne Cricket Club", "North Melbourne Football Club"]
+Q: What is the name of a member of the North Melbourne Football Club, whose brother Rob has starred in Bridgetowns Cricket Clubs Premiership in 2016/7?
+A: "Rob"
+Q: [EOQ]
+S: 0.0
+
+5adf04c95542993a75d263d5
+which American soldier and serial killer was Death of a Soldier based on 
+A: ["Death of a Soldier", "The Death of a Soldier", "American Soldiers", "Soldier", "Soldier Soldier"]
+Q: which American soldier and serial killer was Death of a Soldier based on
+A: "Eddie Leonski"
+Q: [EOQ]
+S: 0.0
+
+5ac10c5e554299294b219074
+What state is home to the Lake Wobegon Trails and the recording location for the live radio show "A Prairie Home Companion"?
+A: ["Lake Wobegon Trails", "A Prairie Home Companion", "A Prairie Home Album", "Lake Wobegon", "Leaving Home: A Collection of Lake Wobegon Stories"]
+Q: What state is home to the Lake Wobegon Trails and the recording location for the live radio show "A Prairie Home Companion"?
+A: "Minnesota"
+Q: [EOQ]
+S: 0.0
+
+5ae21154554299495565d9d4
+Which film stars more animals, The Jungle Book or The Lone Ranger?
+A: ["The Lone Ranger (2003 film)", "The Lone Star Ranger", "The Lone Star Ranger (1930 film)", "The Lone Ranger (1956 film)", "The Lone Star Ranger (disambiguation)"]
+Q: Which film stars more animals, The Jungle Book or The Lone Ranger?
+A: "The Lone Ranger"
+Q: [EOQ]
+S: 0.0
+
+5ae31ca155429928c4239608
+Lucy Pevensie is a character in the series of fantasy novels that have sold more than how many copies?
+A: ["Lucy Pevensie", "Pevensie", "Survival (series)", "Anita Blake: Vampire Hunter", "Sold (McCormick novel)"]
+Q: Lucy Pevensie is a character in the series of fantasy novels that have sold more than how many copies?
+A: "28 million"
+Q: [EOQ]
+S: 0.0
+
+5adbd1d25542994650320bf6
+What is the current job of the former partner in ice skating of Vladimir Fedorov?
+A: ["Vladimir Fedorov", "Ice skate", "Ice skating", "Ice Skating Australia", "Fedor Fedorov (ice hockey)"]
+Q: What is the current job of the former partner in ice skating of Vladimir Fedorov?
+A: "general manager of CSKA Moscow"
+Q: [EOQ]
+S: 0.0
+
+5a84e9d35542994c784dda84
+The Nike Mercurial Vapor is endorsed by a Stoke City football player who also plays for what national team?
+A: ["Nike Mercurial Vapor", "List of Stoke City F.C. players", "Nike Cross Nationals", "Mercury-vapor lamp", "Stoke City F.C. Under-23s and Academy"]
+Q: The Nike Mercurial Vapor is endorsed by a Stoke City football player who also plays for what national team?
+A: "England"
+Q: [EOQ]
+S: 0.0
+
+5a79caec5542994bb94570ad
+When was Leeds no longer called Elmet?
+A: ["Barwick-in-Elmet Castle", "Barwick-in-Elmet", "Scholes, Leeds", "All Saints' Church, Barwick-in-Elmet", "Barwick in Elmet and Scholes"]
+Q: When was Leeds no longer called Elmet?
+A: 1892
+Q: [EOQ]
+S: 0.0
+
+5a8752955542994775f607d1
+What was the name of the team that represented an Arizona university in the conference that covers a broad expanse of the western United States, including Arizona, California, and New Mexico?
+A: ["Western Athletic Conference", "Arizona State Sun Devils men's basketball", "1977 Arizona State Sun Devils football team", "State Route 78 (Arizona\u2013New Mexico)", "Arizona/New Mexico Mountains ecoregion"]
+Q: What was the name of the team that represented an Arizona university in the conference that covers a broad expanse of the western United States, including Arizona, California, and New Mexico?
+A: "Arizona State Sun Devils"
+Q: [EOQ]
+S: 0.0
+
+5a7a48c45542994f819ef1b7
+With whom was a notable partner of Elena Krykanova a two-time Olympic champion with?
+A: ["Elena Krykanova", "Elena Berezhnaya", "Elena Valova", "Elena Batanova", "Elena Lashmanova"]
+Q: With whom was a notable partner of Elena Krykanova a two-time Olympic champion with?
+A: "Alexei Soloviev"
+Q: [EOQ]
+S: 0.0
+
+5a860d09554299211dda2a53
+ What was the address of the building on U.S. Route 3 that was the tallest building in New Hampshire when completed in 1972?
+A: ["List of tallest buildings in New Hampshire", "List of tallest buildings in Manchester, New Hampshire", "List of tallest buildings by U.S. state", "List of tallest buildings in Indianapolis", "List of tallest buildings in Rochester, New York"]
+Q: What was the address of the building on U.S. Route 3 that was the tallest building in New Hampshire when completed in 1972?
+A: "207 N. State Route 59"
+Q: [EOQ]
+S: 0.0
+
+5a77a7695542997042120ac4
+Which documentary is the oldest, The Private Life of Plants or Marx Reloaded?
+A: ["Marx Reloaded", "The Private Life of Plants", "Eleanor Marx: A Life", "The Private Life of Cinema", "Karl Marx: His Life and Thought"]
+Q: Which documentary is the oldest, The Private Life of Plants or Marx Reloaded?
+A: "The Private Life of Plants"
+Q: [EOQ]
+S: 0.0
+
+5a77e70f5542992a6e59dfeb
+What is the title of the 1979 film adaptation of William Shakespeare's play in which the English poet, actor, political activist and dramatist who wrote wrote a number of book-length polemical poems such as "Autogeddon", "Falling for a Dolphin" and "Whale Nation" played a main character?
+A: ["Heathcote Williams", "Characters of Shakespear's Plays", "Shakespeare bibliography", "Shakespeare's plays", "List of William Shakespeare screen adaptations"]
+Q: What is the title of the 1979 film adaptation of William Shakespeare's play in which the English poet, actor, political activist and dramatist who wrote wrote a number of book-length polemical poems such as "Autogeddon", "Falling for a Dolphin" and "Whale Nation" played a main character?
+A: "The Tempest"
+Q: [EOQ]
+S: 0.0
+
+5abf64265542997ec76fd3eb
+Dance and Laugh Amongst the Rotten is a studio Album by a band from which country ?
+A: ["Dance and Laugh Amongst the Rotten", "Exit (Rotten Sound album)", "Dance (Keller Williams album)", "The Rotten Agenda", "Cursed (Rotten Sound album)"]
+Q: Dance and Laugh Amongst the Rotten is a studio Album by a band from which country ?
+A: "Netherlands"
+Q: [EOQ]
+S: 0.0
+
+5a8051265542992bc0c4a6f8
+Tommy Swerdlow co-wrote the screenplay of what film directed by Jon Turteltaub?
+A: ["Tommy Swerdlow", "Jon Turteltaub", "A Thousand Junkies", "Ezra Swerdlow", "Jon Watts"]
+Q: Tommy Swerdlow co-wrote the screenplay of what film directed by Jon Turteltaub?
+A: "A Thousand Junkies"
+Q: [EOQ]
+S: 0.0
+
+5a77137455429972597f142a
+Who died more recently, Ferdinand Anton Ernst Porsche or Ferdinand Porsche
+A: ["Ferdinand Anton Ernst Porsche", "Ferdinand Alexander Porsche", "Ferdinand Porsche (disambiguation)", "Ferdinand Oliver Porsche", "Ferdinand Porsche"]
+Q: Who died more recently, Ferdinand Anton Ernst Porsche or Ferdinand Porsche
+A: "Ferdinand Anton Ernst Porsche"
+Q: [EOQ]
+S: 0.0
+
+5a75da6d5542992db94736fa
+The Declaration of Montreal was the founding document of which world event, lasting from July 26-August 5, 2006?
+A: ["2006 World Outgames", "Declaration of Montreal", "2006 FINA Women's Water Polo World Cup", "Declaration to the world", "Document type declaration"]
+Q: The Declaration of Montreal was the founding document of which world event, lasting from July 26-August 5, 2006?
+A: "2006 World Outgames"
+Q: [EOQ]
+S: 0.0
+
+5ab5744e554299494045efdf
+The third solo album by David Gates of Bread shares a name with a 1977 film directed by who?
+A: ["Goodbye Girl (David Gates album)", "The David Gates Songbook", "Falling in Love Again (David Gates album)", "Never Let Her Go", "Solo (1977 film)"]
+Q: The third solo album by David Gates of Bread shares a name with a 1977 film directed by who?
+A: "David Gates"
+Q: [EOQ]
+S: 0.0
+
+5a75092b55429916b0164242
+What third film in a franchise did Camile Delamarre edit?
+A: ["Camille Delamarre", "Herv\u00e9 Delamarre", "Camille (2008 film)", "Camille (1915 film)", "Camille (1917 film)"]
+Q: What third film in a franchise did Camile Delamarre edit?
+A: "Taken 2"
+Q: [EOQ]
+S: 0.0
+
+5ab84de95542990e739ec8b4
+Yau Ma Tei North is a district of a city with how many citizens?
+A: ["Yau Ma Tei", "Yau Ma Tei North (constituency)", "Yau Ma Tei Typhoon Shelter", "Yau Ma Tei Station", "Yau Ma Tei Fruit Market"]
+Q: Yau Ma Tei North is a district of a city with how many citizens?
+A: 19
+Q: [EOQ]
+S: 0.0
+
+5a8dafbd554299068b959da0
+How many episodes were made for the science fiction series with Gus Birney?
+A: ["Gus Birney", "Science in science fiction", "Masters of Science Fiction", "Out of This World (UK TV series)", "Birney"]
+Q: How many episodes were made for the science fiction series with Gus Birney?
+A: "four"
+Q: [EOQ]
+S: 0.0
+
+5a722fae55429971e9dc9343
+What is the name of the daughter of the Irish entertainer in the girl band Maxi, Dick and Twink?
+A: ["Maxi, Dick and Twink", "Maxi (singer)", "Adele King", "Twinking", "Girl Band (Irish band)"]
+Q: What is the name of the daughter of the Irish entertainer in the girl band Maxi, Dick and Twink?
+A: "Chlo Agnew"
+Q: [EOQ]
+S: 0.0
+
+5a8f06075542995b44241f2d
+What car did the German rally driver, who won victories for Fiat, Opel, Lancia, and Audi drive?
+A: ["Walter R\u00f6hrl", "Opel Rally Team", "Lancia Rally 037", "Opel Ascona", "Lancia in rallying"]
+Q: What car did the German rally driver, who won victories for Fiat, Opel, Lancia, and Audi drive?
+A: "Opel Ascona"
+Q: [EOQ]
+S: 0.0
+
+5a8f08c2554299458435d530
+Sian Gibson co-wrote which British sitcom, set around a supermarket and car share scheme?
+A: ["Peter Kay's Car Share", "Sian Gibson", "Car supermarket", "British sitcom", "Momo Car-Sharing"]
+Q: Sian Gibson co-wrote which British sitcom, set around a supermarket and car share scheme?
+A: "Peter Kay's Car Share"
+Q: [EOQ]
+S: 0.0
+
+5ae5c8cf554299546bf82f5f
+Fiske O'Hara was born in what city Knox County, Maine, that had a population of 2,297 as of the 2010 census?
+A: ["Fiske O'Hara", "Knox, Maine", "Knox City, Missouri", "Knox City, Texas", "Knox County, Maine"]
+Q: Fiske O'Hara was born in what city Knox County, Maine, that had a population of 2,297 as of the 2010 census?
+A: "Rockland"
+Q: [EOQ]
+S: 0.0
+
+5ae18ae6554299234fd04289
+When was the British economic historian who established "The Economic History Review" born? 
+A: ["Australian Economic History Review", "The Economic History Review", "The Review of Economics and Statistics", "European Review of Economic History", "Review of Economics of the Household"]
+Q: When was the British economic historian who established "The Economic History Review" born?
+A: "18 August 1894"
+Q: [EOQ]
+S: 0.0
+
+5a8c5b635542996e8ac88a75
+Which breed, Chinese Chongqing Dog or Kanni, is used for hunting?
+A: ["Chinese Chongqing Dog", "Kanni", "Wolf hunting with dogs", "Dog breeding", "Breed group (dog)"]
+Q: Which breed, Chinese Chongqing Dog or Kanni, is used for hunting?
+A: "Chinese Chongqing Dog"
+Q: [EOQ]
+S: 0.0
+
+5ae61ac355429929b0807ac6
+H Pistorius & Co is part of the reason for the wealth of the family that includes which South African sprinter?
+A: ["H Pistorius &amp; Co", "Caren Pistorius", "Pistorius", "Oscar Pistorius", "Johann Pistorius"]
+Q: H Pistorius & Co is part of the reason for the wealth of the family that includes which South African sprinter?
+A: "Oscar Pistorius"
+Q: [EOQ]
+S: 0.0
+
+5a84af3e5542991dd0999d7c
+Which city in Missouri is the Route 66 State Park closest to travel from, St.Louis or Eureka?
+A: ["Route 66 State Park", "Route 66 Park", "U.S. Route 66 in Missouri", "Eureka, Missouri", "Utah State Route 66"]
+Q: Which city in Missouri is the Route 66 State Park closest to travel from, St.Louis or Eureka?
+A: "Eureka"
+Q: [EOQ]
+S: 0.0
+
+5a8f5273554299458435d5b1
+Bill Bryson grew up in a city that is the seat of which county ?
+A: ["Bryson City, North Carolina", "Bill Bryson's African Diary", "Bill Bryson Sr.", "Bryson, Texas", "Grew Up a Screw Up"]
+Q: Bill Bryson grew up in a city that is the seat of which county ?
+A: "Swain County"
+Q: [EOQ]
+S: 0.0
+
+5abaa32655429955dce3eeaa
+James Conlon directed the oldest outdoor Music Festival that is located and what state?
+A: ["James Conlon", "James A. Conlon", "Intro Music Festival", "Worcester Music Festival, Massachusetts", "Country Stampede Music Festival"]
+Q: James Conlon directed the oldest outdoor Music Festival that is located and what state?
+A: "Massachusetts"
+Q: [EOQ]
+S: 0.0
+
+5ae37e6e5542992f92d822e0
+Which countries forces fought in The Battle of Hürtgen Forest which was covered in the shooter video game Darkest Hour: Europe '44-'45?
+A: ["Darkest Hour: Europe '44-'45", "Battle of H\u00fcrtgen Forest", "Darkest Hour: A Hearts of Iron Game", "H\u00fcrtgen Forest", "Battle City (video game)"]
+Q: Which countries forces fought in The Battle of Hürtgen Forest which was covered in the shooter video game Darkest Hour: Europe '44-'45?
+A: "American and German forces"
+Q: [EOQ]
+S: 0.0
+
+5a8aecff55429950cd6afbef
+How many beer brands are in the portfolio of the company that hired Leonardus (Leo) Petrus Beukeboom to decorate cafes?
+A: ["Leo Beukeboom", "Boston Beer Company", "Portfolio company", "Alpine Beer Company", "Leonardus (name)"]
+Q: How many beer brands are in the portfolio of the company that hired Leonardus (Leo) Petrus Beukeboom to decorate cafes?
+A: 5
+Q: [EOQ]
+S: 0.0
+
+5ade38d8554299728e26c680
+What group of languages is the surname Gref, meaning "Grave," taken from?
+A: ["Gref", "Graves (surname)", "Means (surname)", "Unmarked grave", "Herman Gref"]
+Q: What group of languages is the surname Gref, meaning "Grave," taken from?
+A: "Frisian"
+Q: [EOQ]
+S: 0.0
+
+5a819e2755429903bc27b988
+Nguyễn Văn Trỗi tried to assassinate a future ambassador from which US state ?
+A: ["Nguy\u1ec5n V\u0103n Tr\u1ed7i", "Tr\u1ea7n Th\u1ecb L\u00fd Bridge", "Nguy\u1ec5n V\u0103n Nh\u01a1n", "Nguy\u1ec5n V\u0103n M\u1ea1nh", "Nguy\u1ec5n V\u0103n Hinh"]
+Q: Nguyễn Văn Trỗi tried to assassinate a future ambassador from which US state ?
+A: "Vietnam"
+Q: [EOQ]
+S: 0.0
+
+5ab467975542991751b4d75f
+When was the duo formed who's English language song is the "Freaky Like Me"?
+A: ["Freaky Like Me", "Rise Up (Freaky Fortune song)", "Bleed Like Me (song)", "Freaky (song)", "Strangers Like Me"]
+Q: When was the duo formed who's English language song is the "Freaky Like Me"?
+A: 1990
+Q: [EOQ]
+S: 0.0
+
+5a886c0c55429938390d3f51
+Who owns the broadcasting platform where Games Done Quick is broadcast?
+A: ["Games Done Quick", "Personal broadcasting", "Banks Broadcasting", "Northwest Broadcasting", "Broadcast (magazine)"]
+Q: Who owns the broadcasting platform where Games Done Quick is broadcast?
+A: "Media Business Insight"
+Q: [EOQ]
+S: 0.0
+
+5a7fa55555429969796c1b0e
+The star of "The Inkwell" also starred in what 1993 movie as O-Dog?
+A: ["Movie star", "Star Movies", "Star maa Movies", "Star Chinese Movies", "The Movie Star"]
+Q: The star of "The Inkwell" also starred in what 1993 movie as O-Dog?
+A: "The Inkwell Movie"
+Q: [EOQ]
+S: 0.0
+
+5a75fa8c55429976ec32bcda
+Who composed music for this 1941 American animated film with the main character of Jumbo Jr.?
+A: ["Anime composer", "Jumbo (film)", "Jumbo (musical)", "Character animation", "Musical Romance (1941 film)"]
+Q: Who composed music for this 1941 American animated film with the main character of Jumbo Jr.?
+A: "Richard Rodgers"
+Q: [EOQ]
+S: 0.0
+
+5ac39f7b554299218029dbe7
+Robert Earl Holding owned an oil company that was originally founded by who?
+A: ["Robert Holding", "Kuwait Oil Company", "Missan Oil Company", "Holding company", "Midland Oil Company"]
+Q: Robert Earl Holding owned an oil company that was originally founded by who?
+A: "Robert Holding"
+Q: [EOQ]
+S: 0.0
+
+5adebbbd554299728e26c793
+Northland Mall was the first directionally-named shopping center in Columbus, 5 years before which shopping center at the intersection of US-40 and I-270?
+A: ["Northland Mall", "Westland Mall (Columbus)", "Kingsdale Shopping Center", "Columbus Shopping Center", "Dennis Shopping Center"]
+Q: Northland Mall was the first directionally-named shopping center in Columbus, 5 years before which shopping center at the intersection of US-40 and I-270?
+A: "Westland Mall"
+Q: [EOQ]
+S: 0.0
+
+5add98ef5542997545bbbd82
+WFMT FM radio transmits from the second tallest building in the United States, which is located where?
+A: ["WFMT", "KBRW-FM", "List of tallest buildings in Denver", "List of tallest buildings in Indianapolis", "List of tallest buildings in Evansville"]
+Q: WFMT FM radio transmits from the second tallest building in the United States, which is located where?
+A: "Willis (Sears) Tower"
+Q: [EOQ]
+S: 0.0
+
+5abfa5fb5542990832d3a183
+Where is the  city and "comune" in Emilia-Romagna in which talian Renaissance painter ;Ludovico Mazzolino located 
+A: ["Ludovico Mazzolino", "Bentivoglio, Emilia-Romagna", "Ottone, Emilia-Romagna", "Rolo, Emilia-Romagna", "Lugo, Emilia-Romagna"]
+Q: Where is the  city and "comune" in Emilia-Romagna in which talian Renaissance painter ;Ludovico Mazzolino located
+A: "in the northern Italian region of Emilia-Romagna"
+Q: [EOQ]
+S: 0.0
+
+5ab981555542996be2020532
+Is Bob Hewitt a citizen of a different country than Ray Ruffels?
+A: ["Ray Ruffels", "Ruffell", "Bill Ruffell", "Bob Ray", "Bob Hewitt"]
+Q: Is Bob Hewitt a citizen of a different country than Ray Ruffels?
+A: "Australia"
+Q: [EOQ]
+S: 0.0
+
+5ade3af855429939a52fe867
+In the Library with the Lead Pipe, an academic journal on topics about libraries, is abstracted and indexed by this third largest private company in Birmingham, Alabama? 
+A: ["In the Library with the Lead Pipe", "Library of Birmingham", "Birmingham Public Library", "Polymer Library", "Library and Information Science Abstracts"]
+Q: In the Library with the Lead Pipe, an academic journal on topics about libraries, is abstracted and indexed by this third largest private company in Birmingham, Alabama?
+A: "EBSCO"
+Q: [EOQ]
+S: 0.0
+
+5adc985e5542990d50227cb7
+Where will the student which pass the exam  for which Le Rêve de Rico has to pass progress to? 
+A: ["Le R\u00eave de Rico", "Passed midshipman", "Le mot de passe", "Les marchands de r\u00eaves", "De Passe Entertainment"]
+Q: Where will the student which pass the exam  for which Le Rêve de Rico has to pass progress to?
+A: "High school"
+Q: [EOQ]
+S: 0.0
+
+5ae1ce895542997f29b3c11e
+Are both Yixing and Shaoshan county-level cities in China?
+A: ["Shaoshan", "Yixing", "County-level city", "Shaoshan Township", "Yanglin, Shaoshan"]
+Q: Are both Yixing and Shaoshan county-level cities in China?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5ab6f0c25542995eadef00ea
+Are Buried Country and South of the Border both films turned into stage performances?
+A: ["Performative turn", "Buried Country", "Turning (film)", "Center Stage: Turn It Up", "Border (2007 film)"]
+Q: Are Buried Country and South of the Border both films turned into stage performances?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5a73b8d655429908901be31f
+Which university is further North,  University of New Hampshire or Stony Brook University?
+A: ["Stony Brook University", "Stony Brook University Hospital", "Stony Brook University School of Medicine", "Stony Brook University Track", "List of Stony Brook University buildings"]
+Q: Which university is further North,  University of New Hampshire or Stony Brook University?
+A: "Stony Brook University"
+Q: [EOQ]
+S: 0.0
+
+5abd04bd5542992ac4f381a9
+When did an IndyCar race driver drive a Formula 1 car designed by Peter McCool?
+A: ["Jeff Simmons (racing driver)", "Formula One car", "Steve Owen (racing driver)", "Jack Clarke (racing driver)", "IndyCar Racing"]
+Q: When did an IndyCar race driver drive a Formula 1 car designed by Peter McCool?
+A: 1990
+Q: [EOQ]
+S: 0.0
+
+5ae26c435542994d89d5b420
+Cagliostro-Walzer op.370 was composed by a man born in what year?
+A: ["Cagliostro-Walzer", "Liebeslieder Walzer (ballet)", "Schatz-Walzer", "Kaiser-Walzer", "Liebeslieder Walzer, Op. 52 (Brahms)"]
+Q: Cagliostro-Walzer op.370 was composed by a man born in what year?
+A: 1875
+Q: [EOQ]
+S: 0.0
+
+5a716ec85542994082a3e82d
+Which movie was filmed first "The Guest" or "You're Next"?
+A: ["You're Next", "No One's First, and You're Next", "The Guest (film)", "You're in the Movies", "Cheech and Chong's Next Movie"]
+Q: Which movie was filmed first "The Guest" or "You're Next"?
+A: "You're Next"
+Q: [EOQ]
+S: 0.0
+
+5a87c19a5542994846c1cde6
+Which shore does the castle, which Sir James Montgomery, 4th Baronet is the tenth laird of, stand?
+A: ["Sir James Montgomery, 4th Baronet", "Sir James Morgan, 4th Baronet", "Sir James Montgomery, 2nd Baronet", "Sir James Montgomery, 1st Baronet", "Sir William Parsons, 4th Baronet"]
+Q: Which shore does the castle, which Sir James Montgomery, 4th Baronet is the tenth laird of, stand?
+A: "Skelmorlie"
+Q: [EOQ]
+S: 0.0
+
+5ae7cb9b5542994a481bbde2
+Who was the great grandfather of Franklin Seaver Pratt's wife?
+A: ["Franklin Seaver Pratt", "Seaver", "Seaver Cassidy syndrome", "Harding and Seaver", "Pasaje Seaver"]
+Q: Who was the great grandfather of Franklin Seaver Pratt's wife?
+A: "Henry M. Seaver"
+Q: [EOQ]
+S: 0.0
+
+5addffa75542992200553bdc
+Which director was also a writer, Noel M. Smith or Reza Parsa?
+A: ["Reza Parsa", "Noel M. Smith", "Parsa Pirouzfar", "Faridur Reza Sagar", "Noel Smith (footballer)"]
+Q: Which director was also a writer, Noel M. Smith or Reza Parsa?
+A: "Noel M. Smith"
+Q: [EOQ]
+S: 0.0
+
+5a7e6f295542991319bc94b1
+Who gave the mother of Alberic II of Spoleto the title "patricia" of Rome?
+A: ["Alberic II of Spoleto", "Alberic I of Spoleto", "Theobald II of Spoleto", "Werner II of Spoleto", "Faroald II of Spoleto"]
+Q: Who gave the mother of Alberic II of Spoleto the title "patricia" of Rome?
+A: "King Hugh of Italy"
+Q: [EOQ]
+S: 0.0
+
+5a7f40055542992e7d278cc0
+ What did an English former footballer purchase in march 2009?
+A: ["Stan March", "List of English football transfers 2009\u201310", "Brian Walsh (English footballer)", "Eric Anderson (English footballer)", "Andy Love (English footballer)"]
+Q: What did an English former footballer purchase in march 2009?
+A: "Grimsby Town"
+Q: [EOQ]
+S: 0.0
+
+5ae0e0125542993d6555ec79
+Ross Pople worked with this French dominant figure of the post-war classical music world.
+A: ["Ross Pople", "Pierre Boulez", "Pople", "Pople notation", "Post-war"]
+Q: Ross Pople worked with this French dominant figure of the post-war classical music world.
+A: "Pierre Boulez"
+Q: [EOQ]
+S: 0.0
+
+5ae4cf975542990ba0bbb151
+What line featured characters from a DC Comic creator by Bob Kane and Bill Finger?
+A: ["Bill Finger", "Scarecrow (DC Comics)", "Bob Kane", "Joe Chill", "Catwoman"]
+Q: What line featured characters from a DC Comic creator by Bob Kane and Bill Finger?
+A: "Detective Comics #33"
+Q: [EOQ]
+S: 0.0
+
+5ae4cda05542990ba0bbb148
+Why is Serena Williams more accomplished than Mariaan de Swardt in her tennis career?
+A: ["Mariaan de Swardt", "Serena Williams career statistics", "List of career achievements by Serena Williams", "Serena Williams's early career", "1999 Serena Williams tennis season"]
+Q: Why is Serena Williams more accomplished than Mariaan de Swardt in her tennis career?
+A: "She won her first career title at the Open Gaz de France and won her first slam at the US Open"
+Q: [EOQ]
+S: 0.0
+
+5ac1bff05542994ab5c67dfc
+Who was the eldest brother of the Mexican drug trafficker born 12 March 1952?
+A: ["Mexican Drug War", "Benjam\u00edn Arellano F\u00e9lix", "Drug Trafficking Act 1994", "James McCann (drugs trafficker)", "Rafael Caro Quintero"]
+Q: Who was the eldest brother of the Mexican drug trafficker born 12 March 1952?
+A: "Miguel Caro Quintero"
+Q: [EOQ]
+S: 0.0
+
+5adcc9f35542990d50227d20
+Which US Supreme court case involved a waiver of right to counsel Planned Parenthood v. Casey or Montejo v. Louisiana?
+A: ["Montejo v. Louisiana", "Planned Parenthood v. Casey", "Pennsylvania v. Finley", "United States v. Louisiana", "Felder v. Casey"]
+Q: Which US Supreme court case involved a waiver of right to counsel Planned Parenthood v. Casey or Montejo v. Louisiana?
+A: "Montejo v. Louisiana"
+Q: [EOQ]
+S: 0.0
+
+5a7e32905542991319bc943b
+Jennifer Jones captained the gold medalists for Canada at the Sochi Winter Olympics in which event?
+A: ["List of multiple Olympic gold medalists in one event", "Sochi bid for the 2014 Winter Olympics", "Canada at the 2014 Winter Olympics", "Canada at the 2010 Winter Olympics", "Switzerland at the 2014 Winter Olympics"]
+Q: Jennifer Jones captained the gold medalists for Canada at the Sochi Winter Olympics in which event?
+A: "2014 Winter Olympics"
+Q: [EOQ]
+S: 0.0
+
+5a7aa07d55429941d65f2703
+Who directed the film in which Catherine Ann "Kate" Bosworth made her debut?
+A: ["Kate Bosworth", "Ann Catherine Holbrook", "Anne-Catherine Lacroix", "Kate Siegel", "Kate Ceberano and Her Septet"]
+Q: Who directed the film in which Catherine Ann "Kate" Bosworth made her debut?
+A: "John Ford"
+Q: [EOQ]
+S: 0.0
+
+5abf1e825542997ec76fd3cb
+In which year did Baek Bong-ki appear in the South Korean drama film set in a high school?
+A: ["Baek Bong-ki", "Barefoot Ki-bong", "Baek Il-seob", "Korean International School in Shenzhen", "Baek Min-hyun"]
+Q: In which year did Baek Bong-ki appear in the South Korean drama film set in a high school?
+A: 2004
+Q: [EOQ]
+S: 0.0
+
+5ae4606c5542996836b02c91
+Where was the company, of which David DeVoe is Chief Financial Officer, ranked in the world, in 2014, in terms of revenue, against similar types of company ?  
+A: ["David DeVoe", "Florida Chief Financial Officer election, 2014", "List of European financial services companies by revenue", "List of largest mining companies by revenue"]
+Q: Where was the company, of which David DeVoe is Chief Financial Officer, ranked in the world, in 2014, in terms of revenue, against similar types of company ?
+A: "ranked in the world in 2014, in terms of revenue"
+Q: [EOQ]
+S: 0.0
+
+5ac176555542994d76dcce47
+What profession does H. L. Mencken and Albert Camus have in common?
+A: ["H. L. Mencken House", "Lyc\u00e9e Albert Camus", "August Mencken Sr.", "Albert Camus", "H. L. Mencken"]
+Q: What profession does H. L. Mencken and Albert Camus have in common?
+A: "philosopher"
+Q: [EOQ]
+S: 0.0
+
+5a72a0be5542992359bc3143
+This work of literature _______ , known by its Greek title Oedipus Tyrannus was argued by Sigmund Freud to be one of the greatest works of world literature in his 1928 article. 
+A: ["The Life and Work of Sigmund Freud", "Dostoevsky and Parricide", "The Standard Edition of the Complete Psychological Works of Sigmund Freud", "Oedipus Rex", "Ancient Greek literature"]
+Q: This work of literature _______ , known by its Greek title Oedipus Tyrannus was argued by Sigmund Freud to be one of the greatest works of world literature in his 1928 article.
+A: "Oedipus Rex"
+Q: [EOQ]
+S: 0.0
+
+5ab9788155429970cfb8eb1a
+What year did the CEO of Tata Consultancy Services takeover as Chairman?
+A: ["Tata Consultancy Services", "Noel Tata", "Natarajan Chandrasekaran", "Tata Business Support Services", "Tata Communications"]
+Q: What year did the CEO of Tata Consultancy Services takeover as Chairman?
+A: 2009
+Q: [EOQ]
+S: 0.0
+
+5ae0ba15554299603e41844d
+What plant has about 40 species native to Asia, Manglietia or Abronia?
+A: ["Manglietia", "Abronia (plant)", "Manglietia grandis", "Manglietia sinica", "Manglietia aromatica"]
+Q: What plant has about 40 species native to Asia, Manglietia or Abronia?
+A: "Manglietia"
+Q: [EOQ]
+S: 0.0
+
+5ab864945542990e739ec8e1
+Substorm was described in qualitative terms by a scientist nominated for what seven times?
+A: ["Substorm", "Qualitative reasoning", "Nominal terms (computer science)", "Qualitative variation", "Term (time)"]
+Q: Substorm was described in qualitative terms by a scientist nominated for what seven times?
+A: "polar elementary storms"
+Q: [EOQ]
+S: 0.0
+
+5a8a43eb5542996c9b8d5e82
+Which Australian city founded in 1838 contains a boarding school opened by a Prime Minister of Australia and named after a school in London of the same name.
+A: ["Westminster School, Adelaide", "London School Board", "City of London Freemen's School", "Lester B. Pearson High School (Burlington)", "Prime Minister's Prize for Australian History"]
+Q: Which Australian city founded in 1838 contains a boarding school opened by a Prime Minister of Australia and named after a school in London of the same name.
+A: "Sydney"
+Q: [EOQ]
+S: 0.0
+
+5ae0d9c555429924de1b719a
+Van Andel Institute was founded in part by what American businessman, who was best known as co-founder of the Amway Corporation?
+A: ["Jay Van Andel", "Van Andel Institute", "Amway", "Doug DeVos", "Amway North America"]
+Q: Van Andel Institute was founded in part by what American businessman, who was best known as co-founder of the Amway Corporation?
+A: "Jay Van Andel"
+Q: [EOQ]
+S: 0.0
+
+5a7fc8d05542992e7d278d86
+Which Air Force member was behind enemy lines for 11 1/2 days and had the largest,longest and most complex rescue mission?
+A: ["Rescue of Bat 21 Bravo", "Combat Search and Rescue (Turkish Armed Forces)", "Behind Enemy Lines (film series)", "Commandos: Behind Enemy Lines", "SEAL Team 8: Behind Enemy Lines"]
+Q: Which Air Force member was behind enemy lines for 11 1/2 days and had the largest,longest and most complex rescue mission?
+A: "Iceal \"Gene\" Hambleton"
+Q: [EOQ]
+S: 0.0
+
+5aba510f5542994dbf0198d6
+Yakuza Kiwami is a remake of the first video game in what video game series that is an open world action-adventure beat 'em up video game franchise?
+A: ["Yakuza Kiwami", "Yakuza Kiwami 2", "Video game remake", "Goosebumps (video game series)", "Rex (video game)"]
+Q: Yakuza Kiwami is a remake of the first video game in what video game series that is an open world action-adventure beat 'em up video game franchise?
+A: "Yakuza"
+Q: [EOQ]
+S: 0.0
+
+5add57e55542992ae4cec516
+The scunthorpe telegraph and the Grimsby Telegraph used to service Scunthorpe which is in what country?
+A: ["Scunthorpe Telegraph", "Scunthorpe", "Grimsby Telegraph", "Scunthorpe Saints", "Scunthorpe Barbarians"]
+Q: The scunthorpe telegraph and the Grimsby Telegraph used to service Scunthorpe which is in what country?
+A: "England"
+Q: [EOQ]
+S: 0.0
+
+5a90945755429933b8a2056c
+John Constantine Williams, Sr was cofounder of a Florida city located in what county?
+A: ["John Constantine Williams Sr.", "Williams Park", "John Masiarcyzk Sr.", "Kerr City, Florida", "John William Wood Sr."]
+Q: John Constantine Williams, Sr was cofounder of a Florida city located in what county?
+A: "St. Petersburg"
+Q: [EOQ]
+S: 0.0
+
+5ae48d1755429913cc204499
+Which actor in The Lieutenant Wears Skirts is named Samuel?
+A: ["The Inspector Wears Skirts", "The Lieutenant Wore Skirts", "Men's skirts", "Denim skirt", "Samuel Wear"]
+Q: Which actor in The Lieutenant Wears Skirts is named Samuel?
+A: "Tom Ewell"
+Q: [EOQ]
+S: 0.0
+
+5a71674f5542994082a3e819
+When was the magazine Sam Duckworth got his name Get Cape. Wear Cape. Fly from launched?
+A: ["Get Cape. Wear Cape. Fly", "Get Cape. Wear Cape. Fly (EP)", "Get Cape. Wear Cape. Fly (album)", "Get Cape. Wear Cape. Fly / Dave House", "The Chronicles of a Bohemian Teenager"]
+Q: When was the magazine Sam Duckworth got his name Get Cape. Wear Cape. Fly from launched?
+A: 1939
+Q: [EOQ]
+S: 0.0
+
+5ae7e1fc55429952e35ea9cc
+What color clothing do people of the Netherlands wear during Oranjegekte or to celebrate the national holiday Koningsdag? 
+A: ["Oranjegekte", "Koningsdag", "Kazakh clothing", "Public holidays in the Netherlands", "National Day of the People's Republic of China"]
+Q: What color clothing do people of the Netherlands wear during Oranjegekte or to celebrate the national holiday Koningsdag?
+A: "orange"
+Q: [EOQ]
+S: 0.0
+
+5abc6d14554299700f9d78bf
+What type of building does Jim Bartels and ʻIolani Palace have in common?
+A: ["Jim Bartels", "\u02bbIolani Palace", "Bartels", "Kathleen S. Bartels", "Bartell"]
+Q: What type of building does Jim Bartels and ʻIolani Palace have in common?
+A: "museum"
+Q: [EOQ]
+S: 0.0
+
+5abc36cc55429959677d6a50
+Were both Life magazine and Strictly Slots magazine published monthly in 1998?
+A: ["Strictly Slots", "The New Monthly Magazine", "Cape Monthly Magazine", "Lippincott's Monthly Magazine", "Life (magazine)"]
+Q: Were both Life magazine and Strictly Slots magazine published monthly in 1998?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5abe7f695542993f32c2a12d
+What is the focus of the movie in which Nolan North played the role of Superboy?
+A: ["Superboy", "Lloyd Nolan", "Focus Plays Focus", "Superboy (disambiguation)", "Nolan North"]
+Q: What is the focus of the movie in which Nolan North played the role of Superboy?
+A: "Young Justice"
+Q: [EOQ]
+S: 0.0
+
+5a77ad2f55429967ab105225
+Sony/Philips Digital Interface Format can transmit over what Toshiba optical fiber connector system?
+A: ["Optical fiber connector", "S/PDIF", "Fiber optic adapter", "Plastic optical fiber", "Radio over fiber"]
+Q: Sony/Philips Digital Interface Format can transmit over what Toshiba optical fiber connector system?
+A: "a coaxial cable"
+Q: [EOQ]
+S: 0.0
+
+5ab26b60554299449642c898
+The brewing company known for making Genny Light, a beer with only 100 calories per 12 ounce portion, and located along the Genesee River, was formerly known by what brewery name?
+A: ["Genny Light", "Genesee Brewing Company", "Russian River Brewing Company", "Jackson Brewing Company", "Taedonggang Brewing Company"]
+Q: The brewing company known for making Genny Light, a beer with only 100 calories per 12 ounce portion, and located along the Genesee River, was formerly known by what brewery name?
+A: "High Falls Brewing Company"
+Q: [EOQ]
+S: 0.0
+
+5ab3357d554299166977419d
+In which city is the parent company of Sterlite Industries headquartered?
+A: ["Sterlite Industries", "Sterlite Technologies", "Sterlite Energy", "Parent company", "List of outdoor industry parent companies"]
+Q: In which city is the parent company of Sterlite Industries headquartered?
+A: "Mumbai"
+Q: [EOQ]
+S: 0.0
+
+5adc8d4f554299473435373d
+Edwyn Collins and Ian Gillan both have which profession in common?
+A: ["Ian Gillan Band", "Edwyn Collins", "Ian Gillan", "Gillan's Inn", "Understated (Edwyn Collins album)"]
+Q: Edwyn Collins and Ian Gillan both have which profession in common?
+A: "singer"
+Q: [EOQ]
+S: 0.0
+
+5a89fc305542993b751ca9dc
+Which Outer Banks landmark and premiere BBQ restaurant has been featured in the magazine Southern Living?
+A: ["Pigmans Bar-B-Que", "Sonny's BBQ", "Snow's BBQ", "North Main BBQ", "Andy Nelson's Southern Pit Barbecue"]
+Q: Which Outer Banks landmark and premiere BBQ restaurant has been featured in the magazine Southern Living?
+A: "Pigman's Bar-B-Que"
+Q: [EOQ]
+S: 0.0
+
+5ac5461d5542993e66e82296
+Who portrays Rachel Zane on the American legal comedy-drama that airs on USA Network?
+A: ["Comedy-drama", "Meghan Markle", "Legal drama", "Rachel Ticotin", "The American Comedy Network"]
+Q: Who portrays Rachel Zane on the American legal comedy-drama that airs on USA Network?
+A: "Meghan Markle"
+Q: [EOQ]
+S: 0.0
+
+5add7c9c5542990dbb2f7e60
+Ellie Parker is a 2005 American drama-comedy film whose title character is played by an English actress who made her screen debut in what Australian drama film?
+A: ["Ellie Parker", "Daddy (2015 comedy-drama film)", "Comedy-drama", "List of drama films", "Cyrus (2010 comedy-drama film)"]
+Q: Ellie Parker is a 2005 American drama-comedy film whose title character is played by an English actress who made her screen debut in what Australian drama film?
+A: "The Girl Next Door"
+Q: [EOQ]
+S: 0.0
+
+5adc0f8d55429947ff1738ef
+Between Parsifal and Saul og David which opera has more acts?
+A: ["Saul og David", "Parsifal discography", "Parsifal bell", "Parsifal (disambiguation)", "Parsifal"]
+Q: Between Parsifal and Saul og David which opera has more acts?
+A: "Saul og David"
+Q: [EOQ]
+S: 0.0
+
+5ae7376f5542992ae0d163d2
+A Talk is an EP by which South Korean singer and dancer?
+A: ["Let's Talk About Love (EP)", "It's Easy to Talk EP", "Dean (South Korean singer)", "A Talk", "Ben (South Korean singer)"]
+Q: A Talk is an EP by which South Korean singer and dancer?
+A: "Hyuna"
+Q: [EOQ]
+S: 0.0
+
+5a7525405542993748c897ce
+What is the name of the American author, songwriter, educator, lawyer, diplomat, civil rights activist and husband to Grace Nail Johnson who was the first African American executive secretary of the National Association for the Advancement of Colored People (NAACP)?
+A: ["James Weldon Johnson", "Grace Nail Johnson", "National African American Leadership Summit", "Allen Johnson (activist)", "Derrick Johnson (activist)"]
+Q: What is the name of the American author, songwriter, educator, lawyer, diplomat, civil rights activist and husband to Grace Nail Johnson who was the first African American executive secretary of the National Association for the Advancement of Colored People (NAACP)?
+A: "James Weldon Johnson"
+Q: [EOQ]
+S: 0.0
+
+5ae2136d5542997283cd23b6
+Which is the Oil Capital of China, Chaoyang District, Shantou, or Daqing?
+A: ["Chaoyang District, Shantou", "Daqing", "Daqing Oil Field", "Shantou, China", "Chaoyang District"]
+Q: Which is the Oil Capital of China, Chaoyang District, Shantou, or Daqing?
+A: "Chaoyang District"
+Q: [EOQ]
+S: 0.0
+
+5adf9f6c5542992d7e9f93c2
+Over what time period was the motion picture studio which produced Marvel One-Shots known as "Marvel Films"?
+A: ["Marvel Studios", "Marvel One-Shots", "Marvel Television", "Marvel Entertainment", "List of Marvel Cinematic Universe films"]
+Q: Over what time period was the motion picture studio which produced Marvel One-Shots known as "Marvel Films"?
+A: "1993 to 1996"
+Q: [EOQ]
+S: 0.0
+
+5ac2a288554299657fa28ff5
+What Nickelodeon movie stars the actress and YouTuber who appeared alongside Jon Voight in the 2016 film American Wrestler:The Wizard?
+A: ["Nickelodeon Movies", "Jon Voight", "Lookin' to Get Out", "Nickelodeon (film)", "Eternity (1990 film)"]
+Q: What Nickelodeon movie stars the actress and YouTuber who appeared alongside Jon Voight in the 2016 film American Wrestler:The Wizard?
+A: "Lookin' to Get Out"
+Q: [EOQ]
+S: 0.0
+
+5adf74255542992d7e9f937d
+At which level of French football does the football team named after the manager of France national team play?
+A: ["France national football B team", "France national football team records", "France national football team", "History of the France national football team", "France national under-21 football team"]
+Q: At which level of French football does the football team named after the manager of France national team play?
+A: "UEFA European Under-21 Football Championship"
+Q: [EOQ]
+S: 0.0
+
+5ae7525f5542991e8301cc60
+Kristine Moore Gebbie is a professor at a university founded in what year?
+A: ["Kristine Gebbie", "Melinda Gebbie", "Kristin Luker", "Frederick Gebbie", "Oswald Gebbie"]
+Q: Kristine Moore Gebbie is a professor at a university founded in what year?
+A: 1892
+Q: [EOQ]
+S: 0.0
+
+5a8080365542992097ad2fed
+A vehicle that uses hydrogen as its onboard fuel for motive power is cosidered which, Flex-fuel or Bi-fuel?
+A: ["Bi-fuel vehicle", "Flexible-fuel vehicle", "Hydrogen vehicle", "Hydrogen fuel enhancement", "Fuel cell vehicle"]
+Q: A vehicle that uses hydrogen as its onboard fuel for motive power is cosidered which, Flex-fuel or Bi-fuel?
+A: "Bi-fuel"
+Q: [EOQ]
+S: 0.0
+
+5a7f38e255429930675136b6
+The Ronkonkama railroad station and the town of Islip, New York are near?
+A: ["Islip, New York", "East Islip, New York", "Islip Terrace, New York", "Central Islip, New York", "West Islip, New York"]
+Q: The Ronkonkama railroad station and the town of Islip, New York are near?
+A: "Suffolk County"
+Q: [EOQ]
+S: 0.0
+
+5ab414295542996a3a969f1d
+What career led Brandon James Routh to move to the city where Brian Ralston lives?
+A: ["Brian Ralston", "Brandon Routh", "James Ralston", "Career Moves", "Jane Routh"]
+Q: What career led Brandon James Routh to move to the city where Brian Ralston lives?
+A: "actor"
+Q: [EOQ]
+S: 0.0
+
+5a7b88b45542997c3ec97201
+Which of Damon Stoudamire's cousins once played college basketball for the University of Kentucky?
+A: ["Damon Stoudamire", "Salim Stoudamire", "Stoudamire", "Isaiah Cousins", "Marcus Cousin"]
+Q: Which of Damon Stoudamire's cousins once played college basketball for the University of Kentucky?
+A: "Terrence Jones"
+Q: [EOQ]
+S: 0.0
+
+5a8e83545542990e94052b28
+Where was the founder of the Trussed Concrete Steel Company raised?
+A: ["Trussed Concrete Steel Company", "Deep River Camelback Truss Bridge", "Truss rod", "Concrete sleeper", "Steel Heddle Manufacturing Company Complex"]
+Q: Where was the founder of the Trussed Concrete Steel Company raised?
+A: "Philadelphia"
+Q: [EOQ]
+S: 0.0
+
+5a728f015542991f9a20c4e4
+Which star of Zork was also the voice of Pac-Man?
+A: ["Super Pac-Man", "Professor Pac-Man", "Pac-Man", "Pac-Man Collection", "Pac-Man VR"]
+Q: Which star of Zork was also the voice of Pac-Man?
+A: "Tom Hanks"
+Q: [EOQ]
+S: 0.0
+
+5ac072ef554299294b218fe4
+What country of origin does Jerry Barrett and Florence Nightingale have in common?
+A: ["Florence Nightingale Foundation", "Florence Nightingale", "Florence Nightingale (disambiguation)", "Florence Nightingale (2008 film)", "Florence Nightingale Faculty of Nursing and Midwifery"]
+Q: What country of origin does Jerry Barrett and Florence Nightingale have in common?
+A: "English"
+Q: [EOQ]
+S: 0.0
+
+5a8ba60b554299240d9c205b
+Which composer, who was a crucial figure in the transition between the Classical and Romantic eras in Western art music, wrote Piano Sonata No. 16 ?
+A: ["Ludwig van Beethoven", "Piano Sonata No. 16 (Beethoven)", "Piano Sonata No. 31 (Beethoven)", "List of classical music composers by era", "Piano Sonata (Dukas)"]
+Q: Which composer, who was a crucial figure in the transition between the Classical and Romantic eras in Western art music, wrote Piano Sonata No. 16 ?
+A: "Ludwig van Beethoven"
+Q: [EOQ]
+S: 0.0
+
+5a7b24fe55429931da12c9f7
+Which dog breed has more derivative breeds from the original, German Spitz or Norfolk Spaniel?
+A: ["German Spitz", "Norfolk Spaniel", "German Spitz (Mittel)", "German Spitz (Klein)", "Water spaniel"]
+Q: Which dog breed has more derivative breeds from the original, German Spitz or Norfolk Spaniel?
+A: "German Spitz"
+Q: [EOQ]
+S: 0.0
+
+5a83411655429966c78a6b5d
+Who created the NBC sitcom that Johnny Pemberton appears in as the character Bo Thompson?
+A: ["Johnny Pemberton", "Johnny Bos", "Johnny Sequoyah", "List of Bobobo-bo Bo-bobo characters", "List of Keeping Up Appearances characters"]
+Q: Who created the NBC sitcom that Johnny Pemberton appears in as the character Bo Thompson?
+A: "Fox"
+Q: [EOQ]
+S: 0.0
+
+5ac29da5554299218029dac3
+Which band My Darkest Days or Human Drama had only one constant member?
+A: ["My Darkest Days (album)", "Darkest Day", "My Darkest Days", "Human Drama", "Our Darkest Days"]
+Q: Which band My Darkest Days or Human Drama had only one constant member?
+A: "Human Drama"
+Q: [EOQ]
+S: 0.0
+
+5adf65555542992d7e9f9334
+Which Kentucky Writers Hall of Fame author has had works published by Dim Gray Bar Press?
+A: ["Dim Gray Bar Press", "Kentucky Athletic Hall of Fame", "Larkspur Press", "Charlotte Gray (author)", "New York State Writers Hall of Fame"]
+Q: Which Kentucky Writers Hall of Fame author has had works published by Dim Gray Bar Press?
+A: "Wendell Berry"
+Q: [EOQ]
+S: 0.0
+
+5ae1c214554299234fd042ed
+Which  Australian singer-songwriter wrote  Cold Hard Bitch
+A: ["Cold Hard Bitch", "O.G. Bitch", "Cold Hard Truth", "Bitch Epic", "Mike McCarthy (Australian singer-songwriter)"]
+Q: Which  Australian singer-songwriter wrote  Cold Hard Bitch
+A: "Mike McCarthy"
+Q: [EOQ]
+S: 0.0
+
+5abd56355542993062266c58
+What singer who sang in church during her childhood did Stacy Barthe pen album tracks for?
+A: ["Stacy Barthe", "Stacy (singer)", "Stacy Earl (album)", "Emotion (Samantha Sang album)", "Connect the Dots (Stacy Clark album)"]
+Q: What singer who sang in church during her childhood did Stacy Barthe pen album tracks for?
+A: "Katy Perry"
+Q: [EOQ]
+S: 0.0
+
+5a76f45a5542994aec3b719b
+What band formed in 1995 and came out with an album called "Welcome Interstate Managers'?
+A: ["Welcome Interstate Managers", "Came Out of the Grave", "Calling Out", "Interstate (album)", "Out-of-band management"]
+Q: What band formed in 1995 and came out with an album called "Welcome Interstate Managers'?
+A: "Fountains of Wayne"
+Q: [EOQ]
+S: 0.0
+
+5ac1b1345542994ab5c67dd0
+Sinch when has the rank held by Sir Charles Comyn Egertong been the highest in the British Army?  
+A: ["Charles Egerton (Indian Army officer)", "Charles Montagu (British Army officer)", "Charles Parsons (British Army officer)", "Comyns' Digest", "Sinch (album)"]
+Q: Sinch when has the rank held by Sir Charles Comyn Egertong been the highest in the British Army?
+A: 1871
+Q: [EOQ]
+S: 0.0
+
+5abf16965542993fe9a41dd3
+ Hamilton Evans "Tony" James is the COO and director of the largest alternative investment firm in what?
+A: ["Hamilton E. James", "Alternative investment", "James Hamilton (Director of Public Prosecutions)", "James Evans", "Alternate director"]
+Q: Hamilton Evans "Tony" James is the COO and director of the largest alternative investment firm in what?
+A: "New York"
+Q: [EOQ]
+S: 0.0
+
+5aba55f25542994dbf0198e0
+Which space mission did the man, in which the Onizuka Prop Wash Award is named after, perish?
+A: ["Onizuka Prop Wash Award", "List of Soviet manned space missions", "List of Russian manned space missions", "Ellison Onizuka", "Katsuya Onizuka"]
+Q: Which space mission did the man, in which the Onizuka Prop Wash Award is named after, perish?
+A: "Space Shuttle \"Challenger\""
+Q: [EOQ]
+S: 0.0
+
+5a81f85d55429926c1cdadca
+The pilot and author of Highest Duty: My Search for What Really Matters was hired by which news station in 2011?
+A: ["Highest Duty: My Search for What Really Matters", "Pilot station", "All That Really Matters", "Doesn't Really Matter", "Lovin' Is Really My Game"]
+Q: The pilot and author of Highest Duty: My Search for What Really Matters was hired by which news station in 2011?
+A: "CBS News"
+Q: [EOQ]
+S: 0.0
+
+5a801f215542992bc0c4a6b2
+the first woman to be the chef de mission of an Australian Olympic team won gold medal in which winter Olympics ?
+A: ["Australia at the 2012 Winter Youth Olympics", "1956 Winter Olympics medal table", "Croatia at the 2002 Winter Olympics", "Australia at the 2010 Winter Olympics", "Belgium at the 2012 Winter Youth Olympics"]
+Q: the first woman to be the chef de mission of an Australian Olympic team won gold medal in which winter Olympics ?
+A: "2012 Winter Youth Olympics"
+Q: [EOQ]
+S: 0.0
+
+5a8210f355429926c1cdae24
+What award did the actor in Tales from the Crypt win?
+A: ["Tales from the Crypt (film)", "Tales from the Crypt (TV series)", "Tales from the Crypt (radio series)", "Tales from the Crypt (comics)", "List of Tales from the Crypt episodes"]
+Q: What award did the actor in Tales from the Crypt win?
+A: "Golden Globe Award"
+Q: [EOQ]
+S: 0.0
+
+5a7dbc175542995ed0d1666b
+What russian Marxist revolutionary born in 1875 was part of the Vpered organization?
+A: ["Ethiopian Marxist\u2013Leninist Revolutionary Organization", "Organization of Communist Revolutionaries (Marxist\u2013Leninist)", "Vpered", "Revolutionary Marxist Group (Ireland)", "Russian hospital ship Vpered"]
+Q: What russian Marxist revolutionary born in 1875 was part of the Vpered organization?
+A: "Alexander Bogdanov"
+Q: [EOQ]
+S: 0.0
+
+5ae2138c5542997283cd23b7
+Are Villa Paletti and Betrayal at House on the Hill both board games?
+A: ["Villa Paletti", "Betrayal at House on the Hill", "Riccardo Paletti", "Fair Game: My Life as a Spy, My Betrayal by the White House", "Autodromo Riccardo Paletti"]
+Q: Are Villa Paletti and Betrayal at House on the Hill both board games?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5abffdec554299012d1db55d
+Which client of Lindka Cierach played Queen Elizabeth II in "The Queen"?
+A: ["Lindka Cierach", "Queen Elizabeth Hospital", "Queen Elizabeth", "Queen Elizabeth II Coronation Medal", "Elizabeth the Queen (play)"]
+Q: Which client of Lindka Cierach played Queen Elizabeth II in "The Queen"?
+A: "Helen Mirren"
+Q: [EOQ]
+S: 0.0
+
+5a845b2d5542996488c2e520
+Back Up n da Chevy was an album by the rap group from what city?
+A: ["Back Up n da Chevy", "Everybody Know Me", "Boyz n da Hood (disambiguation)", "Boyz n da Hood (album)", "No Mercy (Da Youngsta's album)"]
+Q: Back Up n da Chevy was an album by the rap group from what city?
+A: "Chicago"
+Q: [EOQ]
+S: 0.0
+
+5a778b345542992a6e59decf
+Who was born first, Susan Oliver or W. S. Van Dyke?
+A: ["Conny Van Dyke", "Jerry Van Dyke", "Barry Van Dyke", "The Van Dyke Show", "Van Dyke"]
+Q: Who was born first, Susan Oliver or W. S. Van Dyke?
+A: "Susan Oliver"
+Q: [EOQ]
+S: 0.0
+
+5ac4392e5542997ea680ca32
+Were Enrique Carreras and Lionel Ngakane both filmakers during the 20th century? 
+A: ["Lionel Ngakane", "Enrique Carreras", "20th century in literature", "20th century", "Lionel Blackburne"]
+Q: Were Enrique Carreras and Lionel Ngakane both filmakers during the 20th century?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5ae2d59755429928c42394ec
+Who has a wider scope of profession, Hrag Vartanian or Hovsep Pushman?
+A: ["Hrag Vartanian", "Hovsep Pushman", "Hrag Yedalian", "Hyperallergic", "Ara Vartanian"]
+Q: Who has a wider scope of profession, Hrag Vartanian or Hovsep Pushman?
+A: "Hovsep Pushman"
+Q: [EOQ]
+S: 0.0
+
+5a877dd65542993e715abf79
+Were Halldór Laxness and Timothy Leary from the same country?
+A: ["Memoir of Halld\u00f3r Laxness", "Halld\u00f3r Laxness (album)", "Halld\u00f3r Laxness", "Timothy Leary bibliography", "Dying to Know: Ram Dass &amp; Timothy Leary"]
+Q: Were Halldór Laxness and Timothy Leary from the same country?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+5a8c758d5542995e66a475ff
+What netflix series, produced by Joe Swanberg, had an actress  best known for her role as Vanessa on "Atlanta"?
+A: ["Joe Swanberg", "Vanessa Baden", "Vanessa Terkes", "Best of Vanessa Paradis", "Vanessa Pose"]
+Q: What netflix series, produced by Joe Swanberg, had an actress  best known for her role as Vanessa on "Atlanta"?
+A: "The Simpsons"
+Q: [EOQ]
+S: 0.0
+
+5a85b2ac5542991dd0999e90
+Brad Budde played professionally for a team in the NFL that was founded in 1960 as the Dallas Texans by who?
+A: ["Dallas Texans (NFL)", "Brad Budde", "Dallas Texans (USHL)", "1960 Dallas Texans season", "Dallas Texans (Arena)"]
+Q: Brad Budde played professionally for a team in the NFL that was founded in 1960 as the Dallas Texans by who?
+A: "Lamar Hunt"
+Q: [EOQ]
+S: 0.0
+
+5a8a58f355429930ff3c0da3
+Were Daniel Mann and Todd Solondz both directors?
+A: ["Todd Solondz", "Daniel Mann", "Daniel Mann (disambiguation)", "Daniel Mann (football reporter)", "Todd Tucker (director)"]
+Q: Were Daniel Mann and Todd Solondz both directors?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5abe36745542991f66106101
+What was the arena, in which the 2017 Brit Awards were held, called during the 2012 Olympics ?
+A: ["2017 Brit Awards", "2012 Brit Awards", "Brit Awards", "2015 Brit Awards", "2013 Brit Awards"]
+Q: What was the arena, in which the 2017 Brit Awards were held, called during the 2012 Olympics ?
+A: "The O2 Arena"
+Q: [EOQ]
+S: 0.0
+
+5ae198bf5542997b2ef7d20d
+Were Chad Gray and Dickie Peterson both singers?
+A: ["Chad Gray", "Dickie Peterson", "Dicky", "Lawrence Gray (singer)", "Dicky Cheung"]
+Q: Were Chad Gray and Dickie Peterson both singers?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5ae09ec055429924de1b7116
+Which of the steering committee was an American broadcast journalist, best known as anchorman for the "CBS Evening News" for 19 years?
+A: ["CBS Evening News", "Walter Cronkite", "CBS News", "Amanda Davis (journalist)", "Nick Young (broadcast journalist)"]
+Q: Which of the steering committee was an American broadcast journalist, best known as anchorman for the "CBS Evening News" for 19 years?
+A: "Walter Cronkite"
+Q: [EOQ]
+S: 0.0
+
+5a81ad9855429903bc27b9a3
+When did the 2005 Ladbrokes.com World Darts Championship begin?
+A: ["2011 PDC World Darts Championship", "2006 PDC World Darts Championship", "2005 PDC World Darts Championship", "2008 PDC World Darts Championship"]
+Q: When did the 2005 Ladbrokes.com World Darts Championship begin?
+A: 2004
+Q: [EOQ]
+S: 0.0
+
+5abc6c2655429959677d6aac
+In which county does the United States Navy air base located in which  Attack Squadron 174 (VA-174) was based on?
+A: ["Second VA-174 (U.S. Navy)", "VA-174 (U.S. Navy)", "No. 174 Squadron RAF", "Second VA-134 (U.S. Navy)", "VA-42 (U.S. Navy)"]
+Q: In which county does the United States Navy air base located in which  Attack Squadron 174 (VA-174) was based on?
+A: "Mauritius"
+Q: [EOQ]
+S: 0.0
+
+5a8fc3b155429933b8a20454
+In recent decades American schools have included much more on ncient times tens of thousands of years ago with the settlement of the Americas by who?
+A: ["Ten Thousand a-Year", "History of Native Americans in the United States", "Settlement of the Americas", "Ten Thousand Years Older", "Ten thousand years"]
+Q: In recent decades American schools have included much more on ncient times tens of thousands of years ago with the settlement of the Americas by who?
+A: "Paleo-Indians"
+Q: [EOQ]
+S: 0.0
+
+5a8010685542992bc0c4a69a
+Jimmy Garcia lost by unanimous decision to a professional boxer that challenged for what title in 1995?
+A: ["Jimmy Garcia", "Irving Garcia (Puerto Rican boxer)", "Robert Garcia (American boxer)", "Unanimous decision", "Jimmy Young (boxer)"]
+Q: Jimmy Garcia lost by unanimous decision to a professional boxer that challenged for what title in 1995?
+A: "WBC super featherweight"
+Q: [EOQ]
+S: 0.0
+
+5a7ca98f55429935c91b5288
+What religion was the martyr to whom the Lady of the Valey statue is dedicated?
+A: ["National Shrine of the North American Martyrs", "Lady on the rock (statue)", "Verloren Valei Nature Reserve", "Mother Albania (statue)", "Munyonyo Martyrs' Shrine"]
+Q: What religion was the martyr to whom the Lady of the Valey statue is dedicated?
+A: "Catholicism"
+Q: [EOQ]
+S: 0.0
+
+5abd0d635542992ac4f381b8
+How many days did it take the Best New Artist of 2009 to sell 2 million copies of an album in the UK and break a twenty year old record?
+A: ["List of best-selling albums in Taiwan", "List of best-selling albums", "All the Best! 1999\u20132009", "Malevolence (New Years Day album)", "List of best-selling albums of 2014"]
+Q: How many days did it take the Best New Artist of 2009 to sell 2 million copies of an album in the UK and break a twenty year old record?
+A: "59 days"
+Q: [EOQ]
+S: 0.0
+
+5a7af8fa55429927d897bf25
+Consider the band formed in 2015 by JYP Entertainment through the reality show "Sixteen". How many tracks are on the reissue of their third album?
+A: ["Sixteen (TV series)", "Twice (band)", "JYP Entertainment", "JYP Entertainment discography", "Reality Show? (Show Luo album)"]
+Q: Consider the band formed in 2015 by JYP Entertainment through the reality show "Sixteen". How many tracks are on the reissue of their third album?
+A: 2
+Q: [EOQ]
+S: 0.0
+
+5ae537a855429960a22e0266
+"Let's Get Ready to Rhumble" is a 1994 song by a music duo from where?
+A: ["Let's Get Ready to Rhumble", "Get Ready to Bounce", "Let's Get Ready (organization)", "Let's Get Away from It All", "Get Ready for This"]
+Q: "Let's Get Ready to Rhumble" is a 1994 song by a music duo from where?
+A: "London"
+Q: [EOQ]
+S: 0.0
+
+5a7e4af3554299495941998c
+The founder of the Ali Akbar College of Music was known for his virtuosity in what musical instrument?
+A: ["Ali Akbar College of Music", "Ali Akbar Khan", "Ali-Akbar Davar", "Government Akbar Ali College", "Musical instrument"]
+Q: The founder of the Ali Akbar College of Music was known for his virtuosity in what musical instrument?
+A: "sarod"
+Q: [EOQ]
+S: 0.0
+
+5ac0d732554299294b219030
+The Lang Labor Party was the group that aligned with the policies of the government that followed what system?
+A: ["Lang Labor Party (South Australia)", "Lang Labor", "Australian Labor Party (NSW)", "Independent Labor Group", "Queensland Labor Party"]
+Q: The Lang Labor Party was the group that aligned with the policies of the government that followed what system?
+A: "Legislative Council"
+Q: [EOQ]
+S: 0.0
+
+5a73977d554299623ed4ac08
+What is the shared country of ancestry between Art Laboe and Scout Tufankjian?
+A: ["Scout Tufankjian", "Art Laboe", "Laboe", "Le Labo", "Maria Labo"]
+Q: What is the shared country of ancestry between Art Laboe and Scout Tufankjian?
+A: "Armenian"
+Q: [EOQ]
+S: 0.0
+
+5abb8ebe5542993f40c73b2d
+What British made dance competition television series franchise did Claudia Albertario appear on?
+A: ["Claudia Albertario", "Albertario", "Dancing on Ice around the world", "Dancing with the Stars (South Korean TV series)", "Claudia Jessie"]
+Q: What British made dance competition television series franchise did Claudia Albertario appear on?
+A: "Dancing with the Stars"
+Q: [EOQ]
+S: 0.0
+
+5abbf8bc5542993f40c73c35
+Are both Viken Babikian and Don Manoukian American ?
+A: ["Viken Babikian", "Don Manoukian", "Babikian", "IF Viken", "Manoukian"]
+Q: Are both Viken Babikian and Don Manoukian American ?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+5ac274fc55429963665199c1
+The host of PokerFace is from where?
+A: ["PokerFace", "Pokerface (miniseries)", "PokerFace: Dil Sachcha Chehra Jhootha", "From Where???", "From Where You Are"]
+Q: The host of PokerFace is from where?
+A: "British"
+Q: [EOQ]
+S: 0.0
+
+5ae382ee5542992e3233c430
+The Prussian General Carl von Clausewitz is associated with what type of realism?
+A: ["Carl von Clausewitz", "Panzer Division Clausewitz", "Center of gravity (military)", "Carl von Br\u00fchl", "Marie von Clausewitz: The Woman Behind the Making of On War"]
+Q: The Prussian General Carl von Clausewitz is associated with what type of realism?
+A: "military"
+Q: [EOQ]
+S: 0.0
+
+5adbd68155429947ff173842
+As former head of Orange County Ironworks, what has his hit TLC show called?
+A: ["Orange County Auto Show", "Orange County Choppers", "Troublesome Creek Ironworks", "The Very Best of TLC: Crazy Sexy Hits", "Ironworks"]
+Q: As former head of Orange County Ironworks, what has his hit TLC show called?
+A: "Orange County Choppers"
+Q: [EOQ]
+S: 0.0
+
+5ae328f45542991a06ce993c
+On which station did the 2014 South Korean television series, starring the main rapper of boyband SS501, air?
+A: ["Kim Hyun-joong", "SS501 (album)", "Kim Hyung-jun", "SS501 Solo Collection", "List of South Korean television series"]
+Q: On which station did the 2014 South Korean television series, starring the main rapper of boyband SS501, air?
+A: "DSP Media"
+Q: [EOQ]
+S: 0.0
+
+5abf8cc35542990832d3a14e
+when was the retired Jamaican sprinter which Richard Thompson is, 0.99 seconds slower than born ?
+A: ["Richard Thompson (sprinter)", "Oral Thompson", "Slower Than Church Music", "Cynthia Thompson", "Richard Hardware"]
+Q: when was the retired Jamaican sprinter which Richard Thompson is, 0.99 seconds slower than born ?
+A: 1980
+Q: [EOQ]
+S: 0.0
+
+5ab4341c55429942dd415ede
+The Shōgitai were an elite corps of which shogunate?
+A: ["Sh\u014dgitai", "Kamakura shogunate", "Ashikaga shogunate", "List of shoguns", "Tokugawa shogunate"]
+Q: The Shōgitai were an elite corps of which shogunate?
+A: "Tokugawa"
+Q: [EOQ]
+S: 0.0
+
+5a87ab9b5542996e4f3088c2
+In what century did this Native warrior and chief, whose brother Tenskwatawa led the Tippecanoe order of battle, become the primary leader of a large, multi tribal confederacy?
+A: ["Tippecanoe order of battle", "Battle of Tippecanoe", "Tecumseh's Confederacy", "Tribal chief", "Tenskwatawa"]
+Q: In what century did this Native warrior and chief, whose brother Tenskwatawa led the Tippecanoe order of battle, become the primary leader of a large, multi tribal confederacy?
+A: "18th"
+Q: [EOQ]
+S: 0.0
+
+5a7cd66a554299452d57ba90
+Which band had more members, Semisonic or Cake?
+A: ["Semisonic", "Chemistry (Semisonic song)", "Cake (band)", "List of Faith No More band members", "Great Divide (Semisonic album)"]
+Q: Which band had more members, Semisonic or Cake?
+A: "Semisonic"
+Q: [EOQ]
+S: 0.0
+
+5a7dbb295542990b8f503a4b
+Which Russian professional ice hockey player, known as the Magic Man, was the final recipient of the NHL Plus-Minus Award?
+A: ["NHL Plus-Minus Award", "WHL Plus-Minus Award", "Plus-minus", "Plus-minus (disambiguation)", "Man of Ice Awards"]
+Q: Which Russian professional ice hockey player, known as the Magic Man, was the final recipient of the NHL Plus-Minus Award?
+A: "Pavel Datsyuk"
+Q: [EOQ]
+S: 0.0
+
+5abb9ad4554299642a094abe
+Which terrorist group was the cause of the battle in which Mark E. Michell won an award for his actions?
+A: ["The terrorists have won", "Mark E. Mitchell", "Battle Effectiveness Award", "Implied cause of action", "AZF (terrorist group)"]
+Q: Which terrorist group was the cause of the battle in which Mark E. Michell won an award for his actions?
+A: "AZF"
+Q: [EOQ]
+S: 0.0
+
+5a836a2d554299334474600f
+What ended the career of the German composer of Bunte Blatter?
+A: ["Blatter", "Heinz Blatter", "Silvio Blatter", "Bunte", "Rustic bunting"]
+Q: What ended the career of the German composer of Bunte Blatter?
+A: "Patricia Riekel"
+Q: [EOQ]
+S: 0.0
+
+5abb03325542992ccd8e7eae
+The magazine that nominated George Rainsford for their Best Actor award in 2017 comes out every week on what day of the week?
+A: ["George Rainsford (actor)", "One Week and a Day", "Every Day of the Week", "Weeks and Day", "British Movie Nominations Awards 2017"]
+Q: The magazine that nominated George Rainsford for their Best Actor award in 2017 comes out every week on what day of the week?
+A: "Monday"
+Q: [EOQ]
+S: 0.0
+
+5ae764a85542997b22f6a720
+In what New York town did Glenn Martin Hughes attend high school?
+A: ["Elwood-John H. Glenn High School", "Somers High School (New York)", "Martin Van Buren High School", "Hicksville High School (New York)", "Glenns Ferry High School"]
+Q: In what New York town did Glenn Martin Hughes attend high school?
+A: "Glenns Ferry"
+Q: [EOQ]
+S: 0.0
+
+5abd077055429965836004f4
+Who created and mostly wrote the show that Idris Akuna Elba played Stringer Bell in?
+A: ["Idris Elba", "Stringer Bell", "Idris Bell", "Belle maman", "Lava stringer"]
+Q: Who created and mostly wrote the show that Idris Akuna Elba played Stringer Bell in?
+A: "David A. Heinz"
+Q: [EOQ]
+S: 0.0
+
+5a77a9df55429967ab10521c
+What British novelist born in November 1898 wrote Surprised by Joy: The Shape of My Early Life?
+A: ["Surprised by Joy", "My Early Life", "A Life of Surprises", "To My Surprise", "My Joy"]
+Q: What British novelist born in November 1898 wrote Surprised by Joy: The Shape of My Early Life?
+A: "C. S. Lewis"
+Q: [EOQ]
+S: 0.0
+
+5ac1c9a15542994ab5c67e1c
+What is the population of the city in which the first edition of the South American Youth Olympic Games were held?
+A: ["South American Youth Games", "Rowing at the Youth Olympic Games", "Athletics at the Youth Olympic Games", "2013 Asian Youth Games", "Youth Olympic Games"]
+Q: What is the population of the city in which the first edition of the South American Youth Olympic Games were held?
+A: "87,069"
+Q: [EOQ]
+S: 0.0
+
+5ab8f3235542991b5579f084
+What number president was Annie Caputo nominated by to become a member of the Nuclear Regulatory Commission?
+A: ["Annie Caputo", "Regions of the Nuclear Regulatory Commission", "Jordan Nuclear Regulatory Commission", "Nuclear Regulatory Commission", "Licensed to Kill? The Nuclear Regulatory Commission and the Shoreham Power Plant"]
+Q: What number president was Annie Caputo nominated by to become a member of the Nuclear Regulatory Commission?
+A: 2
+Q: [EOQ]
+S: 0.0
+
+5a86296a55429960ec39b631
+What was the job of the character Jack Nicholson played in a 1992 French-American biographical crime film directed by Danny DeVito?
+A: ["Hoffa", "Lorraine Nicholson", "Goin' South", "Lucy DeVito", "Jack the Bear"]
+Q: What was the job of the character Jack Nicholson played in a 1992 French-American biographical crime film directed by Danny DeVito?
+A: "policeman"
+Q: [EOQ]
+S: 0.0
+
+5a7eec6f55429934daa2fc7c
+The Hindmarsh Stadium is sponsored by a brewery that sold how many liters of beer in 2013 ?
+A: ["Hindmarsh Stadium", "Israel Beer Breweries", "List of breweries in Idaho", "Lacons Brewery", "Moosehead Breweries"]
+Q: The Hindmarsh Stadium is sponsored by a brewery that sold how many liters of beer in 2013 ?
+A: "7,500 pints"
+Q: [EOQ]
+S: 0.0
+
+5a8220db5542995ce29dccc1
+Which was secretary to President Richard Nixon: Rose Mary Woods or H. R. Haldeman?
+A: ["Rose Mary Woods", "H. R. Haldeman", "Timeline of the presidency of Richard Nixon", "Presidency of Richard Nixon", "Bibliography of Richard Nixon"]
+Q: Which was secretary to President Richard Nixon: Rose Mary Woods or H. R. Haldeman?
+A: "Rose Mary Woods"
+Q: [EOQ]
+S: 0.0
+
+5ae4932855429970de88d9b8
+Which  American chain of bakery-café fast casual restaurants sponsored Bill Steers Men's 4-Miler
+A: ["Bill Steers Men's 4-Miler", "Perkins Restaurant and Bakery", "Paradise Bakery &amp; Caf\u00e9", "List of casual dining restaurant chains", "List of fast food restaurant chains"]
+Q: Which  American chain of bakery-café fast casual restaurants sponsored Bill Steers Men's 4-Miler
+A: "Panera Bread"
+Q: [EOQ]
+S: 0.0
+
+5a8a5a1955429930ff3c0da7
+In what year was the Sayrevill, New Jersey rock band that Frankie LaRocka played drums for formed?
+A: ["Frankie LaRocka", "Sayreville Station, New Jersey", "Sayreville Junction, New Jersey", "Phoenix, Sayreville, New Jersey", "Sayreville, New Jersey"]
+Q: In what year was the Sayrevill, New Jersey rock band that Frankie LaRocka played drums for formed?
+A: 1977
+Q: [EOQ]
+S: 0.0
+
+5a7eacd855429930675135c3
+What is the nationality of the actor who was a leading man of Michèle Mercier and born on November 3, 1921?
+A: ["Mich\u00e8le Mercier", "Claudine Mercier", "Leading man", "Auguste Mercier", "\u00c9ric Mercier"]
+Q: What is the nationality of the actor who was a leading man of Michèle Mercier and born on November 3, 1921?
+A: "French"
+Q: [EOQ]
+S: 0.0
+
+5adfeeed55429925eb1afb44
+What is the birthdate of this Uruguayan former footballer, who management team consists of Charlie Oatway?
+A: ["Charlie Oatway", "Alby Oatway", "Charlie Mulgrew (Gaelic footballer)", "Re Oatway", "Uruguayan Football Association"]
+Q: What is the birthdate of this Uruguayan former footballer, who management team consists of Charlie Oatway?
+A: "28 September 1913"
+Q: [EOQ]
+S: 0.0
+
+5ac5188255429924173fb5a3
+About how many people are employed by the company founded by Denise Coates?
+A: ["Denise Coates", "Coat of many colors", "Coat of Many Colors (song)", "Coat of Many Cupboards", "Coat of Many Colors"]
+Q: About how many people are employed by the company founded by Denise Coates?
+A: "7,000"
+Q: [EOQ]
+S: 0.0
+
+5ab3bd7d55429969a97a819f
+Which team featured in both the 2012 and 2011 Cops del Rey Finals ?
+A: ["2011 Copa del Rey Final", "2011 Copa del Rey Juvenil", "2011\u201312 Copa del Rey de Futsal", "1910 Copa del Rey Final", "2011\u201312 Copa del Rey"]
+Q: Which team featured in both the 2012 and 2011 Cops del Rey Finals ?
+A: "Barcelona"
+Q: [EOQ]
+S: 0.0
+
+5ae7b6055542993210983f00
+What is the organized crime syndicate founded and led by Carlos Alberto Rosales Mendoza who is friends with Osiel Cárdenas Guillén?
+A: ["Carlos Rosales Mendoza", "Mario C\u00e1rdenas Guill\u00e9n", "Osiel C\u00e1rdenas Guill\u00e9n", "Rafael C\u00e1rdenas Vela", "Homero C\u00e1rdenas Guill\u00e9n"]
+Q: What is the organized crime syndicate founded and led by Carlos Alberto Rosales Mendoza who is friends with Osiel Cárdenas Guillén?
+A: "La Familia Michoacana"
+Q: [EOQ]
+S: 0.0
+
+5aba7cfe554299232ef4a2fd
+The 2017–18 Wigan Athletic F.C. season will be a year in which the team competes in the league cup known as what for sponsorship reasons?
+A: ["2017\u201318 Wigan Athletic F.C. season", "2017\u201318 Scottish League Cup", "2004\u201305 Wigan Athletic F.C. season", "1999\u20132000 Wigan Athletic F.C. season", "1996\u201397 Wigan Athletic F.C. season"]
+Q: The 2017–18 Wigan Athletic F.C. season will be a year in which the team competes in the league cup known as what for sponsorship reasons?
+A: "Betfred Cup"
+Q: [EOQ]
+S: 0.0
+
+5abb11c15542992ccd8e7ef8
+Selena Quintanilla-Pérez's assistant and head of her fan club will be eligible for parole on what date?
+A: ["Selena (disambiguation)", "Murder of Selena", "Selena (film)", "Corpus: A Home Movie About Selena", "Selena Remembered"]
+Q: Selena Quintanilla-Pérez's assistant and head of her fan club will be eligible for parole on what date?
+A: "March 15, 2018"
+Q: [EOQ]
+S: 0.0
+
+5abf11d45542997719eab660
+Driven To Perform has a sponsor that includes the electronics store chain from what country?
+A: ["Driven To Perform", "Move (electronics store)", "Electron transport chain", "Germanos Chain of Stores", "Steinberg's (electronics store)"]
+Q: Driven To Perform has a sponsor that includes the electronics store chain from what country?
+A: "Australia"
+Q: [EOQ]
+S: 0.0
+
+5a7f296f55429934daa2fd10
+Live Wire Radio will possibly be considered as a replacement for a variety show created in what year?
+A: ["Live Wire Radio", "Variety show", "Radio minstrel", "Live Wired", "Canada Live (1992 radio program)"]
+Q: Live Wire Radio will possibly be considered as a replacement for a variety show created in what year?
+A: 2004
+Q: [EOQ]
+S: 0.0
+
+5ac546975542993e66e8229a
+What year was the early consumer co-operative, in which a 2012 British biographical feature film tells the story of, formed?
+A: ["Consumers' co-operative", "Biographical film", "Billy: The Early Years", "Tell (2012 film)", "British co-operative movement"]
+Q: What year was the early consumer co-operative, in which a 2012 British biographical feature film tells the story of, formed?
+A: 1844
+Q: [EOQ]
+S: 0.0
+
+5a81e4e8554299676cceb140
+In which University is Richard Williams' former assistant a member of the Athletics Hall of Fame?
+A: ["List of University of Florida Athletic Hall of Fame members", "List of Morgan State University Athletic Hall of Fame members", "University of Missouri Intercollegiate Athletics Hall of Fame", "Wisconsin Athletic Hall of Fame", "Louisiana State University Athletic Hall of Fame"]
+Q: In which University is Richard Williams' former assistant a member of the Athletics Hall of Fame?
+A: "University of Oklahoma"
+Q: [EOQ]
+S: 0.0
+
+5a7a11c85542996a35c170b4
+What is the English translation of the name of the novel series which the Four III is the final installment of?
+A: ["The Four III", "Series finale", "List of Swedish-language novels translated into English", "List of English translated personal names", "Final Fantasy III"]
+Q: What is the English translation of the name of the novel series which the Four III is the final installment of?
+A: "Final Fantasy"
+Q: [EOQ]
+S: 0.0
+
+5a7a45425542990783324ee2
+What American corporation owns Claim Jumper?
+A: ["Claim Jumper", "American Record Corporation", "Municipally owned corporation", "Sheffield Jumpers", "Jolly Jumper"]
+Q: What American corporation owns Claim Jumper?
+A: "Landry's, Inc."
+Q: [EOQ]
+S: 0.0
+
+5ab521575542996a3a96a02e
+Is Xingcheng or Ulan Hot located in the Inner Mongolia region of China?
+A: ["Inner Mongolia University", "Inner Mongolia", "Inner Mongolia Museum", "Inner Mongolia Normal University", "Inner Mongolia Agricultural University"]
+Q: Is Xingcheng or Ulan Hot located in the Inner Mongolia region of China?
+A: "Xingcheng"
+Q: [EOQ]
+S: 0.0
+
+5a8dbc8b554299441c6ba077
+Spring Waltz starred the American actor who is known for what 2007 film?
+A: ["Spring Waltz OST", "Spring Waltz", "Waltzing Matilda (film)", "Voices of Spring (1933 film)", "Christoph Waltz"]
+Q: Spring Waltz starred the American actor who is known for what 2007 film?
+A: "Django Unchained"
+Q: [EOQ]
+S: 0.0
+
+5a88fc4255429938390d4019
+On what date will the comedy film directed by Kevin Tent and starring the Bulgarian-Canadian actress known for portraying the role of Mia Jones be released on video on demand services?
+A: ["Kevin Tent", "Donna on Demand", "Date and Switch", "Nina Dobrev", "Mia Riverton"]
+Q: On what date will the comedy film directed by Kevin Tent and starring the Bulgarian-Canadian actress known for portraying the role of Mia Jones be released on video on demand services?
+A: "February 14, 2014"
+Q: [EOQ]
+S: 0.0
+
+5a8b78f055429971feec471a
+Was Steve Sekely and Willian King Baggot known by multiple names or nicknames?
+A: ["Steve Sekely", "King Baggot (cinematographer)", "King Baggot", "Seke Rural", "Willians Santana"]
+Q: Was Steve Sekely and Willian King Baggot known by multiple names or nicknames?
+A: "Steve Sekely and Willian King Baggot"
+Q: [EOQ]
+S: 0.0
+
+5a7cfea2554299452d57babe
+Which aired first, Life After People or Werner Herzog Eats His Shoe?
+A: ["Werner Herzog Eats His Shoe", "Portrait Werner Herzog", "Werner Herzog bibliography", "Werner Herzog", "The Shoe People"]
+Q: Which aired first, Life After People or Werner Herzog Eats His Shoe?
+A: "Werner Herzog Eats His Shoe"
+Q: [EOQ]
+S: 0.0
+
+5a7fa0d55542995d8a8dded3
+What professional do both Marc Bolan and Ian MacKaye share?
+A: ["Ian MacKaye", "Marc Bolan", "Great Jewish Music: Marc Bolan", "Rachel Bolan", "Bolan's Rock Shrine"]
+Q: What professional do both Marc Bolan and Ian MacKaye share?
+A: "singer, songwriter, guitarist, musician, record label owner and producer"
+Q: [EOQ]
+S: 0.0
+
+5a78abbc554299148911f90c
+Which bi-weekly publication ranked Schreiber Foods as number 81 in 2016.
+A: ["Schreiber Foods", "Howrah - Balurghat Bi-Weekly Express", "Food Weekly News", "81 (number)", "Salem Weekly"]
+Q: Which bi-weekly publication ranked Schreiber Foods as number 81 in 2016.
+A: "Forbes"
+Q: [EOQ]
+S: 0.0
+
+5adc459255429944faac24ad
+Which member of the research project conducted by the Creation Research Society and the Institute for Creation Research between 1997 and 2005 was Kevin R. Henke most critical of? 
+A: ["Creation Research Society", "Institute for Creation Research", "RATE project", "Space for Pan African Research Creation and Knowledge", "Geoscience Research Institute"]
+Q: Which member of the research project conducted by the Creation Research Society and the Institute for Creation Research between 1997 and 2005 was Kevin R. Henke most critical of?
+A: "Steven A. Austin"
+Q: [EOQ]
+S: 0.0
+
+5a80735b554299485f5985f3
+What location under Charing Cross railway station did G-A-Y move to?
+A: ["Charing Cross (Glasgow) railway station", "Charing Cross", "Charing Cross tube station", "Charing railway station", "Charing Cross Road"]
+Q: What location under Charing Cross railway station did G-A-Y move to?
+A: "Tottenham Court Road"
+Q: [EOQ]
+S: 0.0
+
+5ac11201554299294b21908c
+What county is Ron Teachworth from?
+A: ["Ron Teachworth", "The Ron and Ron Show", "Going Back (film)", "Ron Ron", "Ron Suster"]
+Q: What county is Ron Teachworth from?
+A: "Michigan"
+Q: [EOQ]
+S: 0.0
+
+5a77415b55429966f1a36cd2
+What actor from Northern Ireland born in 1983 starred in Whole Lotta Sole?
+A: ["Whole Lotta Sole", "Whole Lotta Lovin'", "And a Whole Lotta You!", "1983 in Northern Ireland", "Whole Lotta History"]
+Q: What actor from Northern Ireland born in 1983 starred in Whole Lotta Sole?
+A: "Martin McCann"
+Q: [EOQ]
+S: 0.0
+
+5ae4eb9255429908b63264ba
+What were the nations after 1722 that composed a culture that was extensively studied by William N. Fenton?
+A: ["William N. Fenton", "Robert Fenton", "William M. Fenton", "Cultural studies", "Extension studies"]
+Q: What were the nations after 1722 that composed a culture that was extensively studied by William N. Fenton?
+A: "New Zealand"
+Q: [EOQ]
+S: 0.0
+
+5adf38ae5542993a75d26433
+Both Alexander Hall and Pierre Morel are involved in which profession?
+A: ["Pierre Morel", "Pierre Morel (cyclist)", "Pierre Morel-\u00c0-L'Huissier", "Morel's ear", "Pierre Morel d'Arleux"]
+Q: Both Alexander Hall and Pierre Morel are involved in which profession?
+A: "film director"
+Q: [EOQ]
+S: 0.0
+
+5a72f7df5542991f9a20c5d7
+Piers Bizony has written articles for which magazine based in Bristol, UK?
+A: ["Piers Bizony", "Bristol Port Railway and Pier", "List of films based on magazine articles", "Bristol Live Magazine", "Pilot (UK magazine)"]
+Q: Piers Bizony has written articles for which magazine based in Bristol, UK?
+A: "Bristol Live Magazine"
+Q: [EOQ]
+S: 0.0
+
+5a8198565542995ce29dcc13
+Are Ranger Rick and Tennis both sports magazines?
+A: ["Ranger Rick", "Tennis (magazine)", "Sport Ranger", "Sport (UK magazine)", "Rick Fisher (tennis)"]
+Q: Are Ranger Rick and Tennis both sports magazines?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5ae81032554299540e5a572a
+Which satellite suburb of Melbourne is partially included in the Electoral district of Bass?
+A: ["Electoral district of Bass Hill", "Electoral district of Melbourne", "Electoral district of Ivanhoe", "Electoral district of Bass", "Electoral district of Frankston"]
+Q: Which satellite suburb of Melbourne is partially included in the Electoral district of Bass?
+A: "Bass Hill"
+Q: [EOQ]
+S: 0.0
+
+5abd68d655429933744ab7c0
+Were Dee Dee Ramone and Ben Weasel ever in the same band?
+A: ["Dee Dee Ramone I.C.L.C.", "Dee Dee Ramone and the Chinese Dragons", "Dee Dee Ramone", "Youth Gone Mad Featuring Dee Dee Ramone", "Dee Dee Ramone / Terrorgruppe split single"]
+Q: Were Dee Dee Ramone and Ben Weasel ever in the same band?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+5a806e01554299485f5985e5
+Who starred in the 1991 American action comedy film The Hard Way and was featured on the roster of Rawkus Records?
+A: ["The Hard Way (1991 film)", "Rawkus Records", "The Cowboy Way (film)", "Hard Way Tour 1991", "The American Way (film)"]
+Q: Who starred in the 1991 American action comedy film The Hard Way and was featured on the roster of Rawkus Records?
+A: "Michael J. Fox"
+Q: [EOQ]
+S: 0.0
+
+5a7f48e15542992e7d278ce6
+Brad Elterman is a professional photographer who addressed the rock 'n' roll lifestyle of a band that became noted for what?
+A: ["Brad Elterman", "Rock 'n' Roll Lifestyle", "Rock 'n' Roll Band", "Doomsday Rock 'n Roll", "Rock 'n' Roll Rumble"]
+Q: Brad Elterman is a professional photographer who addressed the rock 'n' roll lifestyle of a band that became noted for what?
+A: "a career in Hollywood"
+Q: [EOQ]
+S: 0.0
+
+5a7b89a3554299294a54a9e3
+A Big Daddy is a fictional character in a series that has sold more than how many copies? 
+A: ["Big Daddy (BioShock)", "Daddy Who? Daddy Cool", "Big Daddy Kane", "Treasure Hunting (series)", "Survival (series)"]
+Q: A Big Daddy is a fictional character in a series that has sold more than how many copies?
+A: "13 million"
+Q: [EOQ]
+S: 0.0
+
+5a7a030c5542996a35c17077
+J.B. Scotts located on this 11 mile stretch in Albany New York and is also known by this name in Schenectady County?
+A: ["Central Avenue (Albany, New York)", "Schenectady County, New York", "J.B. Scott's", "Schenectady, New York", "Albany, New York"]
+Q: J.B. Scotts located on this 11 mile stretch in Albany New York and is also known by this name in Schenectady County?
+A: "Central Avenue"
+Q: [EOQ]
+S: 0.0
+
+5adde16a5542997dc7907084
+Which bay in the Irish Sea is located Wales's first offshore wind farm?
+A: ["List of offshore wind farms in the Irish Sea", "North Hoyle Offshore Wind Farm", "Burbo Bank Offshore Wind Farm", "First Flight wind farm", "Barrow Offshore Wind Farm"]
+Q: Which bay in the Irish Sea is located Wales's first offshore wind farm?
+A: "Liverpool Bay"
+Q: [EOQ]
+S: 0.0
+
+5a87bd4e5542996432c57279
+Who does the minister at The First Church of Springfield help make teaching evolution illegal?
+A: ["First Church of Christ, Congregational (Springfield, Massachusetts)", "First Lutheran Church (Springfield, Ohio)", "Springfield Baptist Church (Springfield, Kentucky)", "Teach First Deutschland", "Springfield Presbyterian Church (Springfield, New Jersey)"]
+Q: Who does the minister at The First Church of Springfield help make teaching evolution illegal?
+A: "the government"
+Q: [EOQ]
+S: 0.0
+
+5a80707e5542992bc0c4a70e
+The actress who played Laurie Keller in the episode "Pilot" of the show Cougartown won what award in 2011?
+A: ["Laurie Keller", "Rachel Keller (actress)", "List of The Daily Show episodes (2011)", "Pilot (television episode)", "The Pilot Show"]
+Q: The actress who played Laurie Keller in the episode "Pilot" of the show Cougartown won what award in 2011?
+A: "AWARD: Best Actress"
+Q: [EOQ]
+S: 0.0
+
+5a8d93bf554299068b959d46
+Are both Yangzhou and Jiangyan District considered coastal cities?
+A: ["Jiangyan District", "Hanjiang District, Yangzhou", "Weiyang District, Yangzhou", "Yangzhou Museum", "Jiangyan High School"]
+Q: Are both Yangzhou and Jiangyan District considered coastal cities?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+5ae4db9c55429908b6326492
+What was held in 2011 at the same stadium where the seventeenth edition of the IAAF World Championships is scheduled to be held in 2019?
+A: ["2019 World Championships in Athletics", "2019 UCI Road World Championships", "2021 World Championships in Athletics", "2019 World Aquatics Championships", "2011 World Taekwondo Championships"]
+Q: What was held in 2011 at the same stadium where the seventeenth edition of the IAAF World Championships is scheduled to be held in 2019?
+A: "2011 World Cup"
+Q: [EOQ]
+S: 0.0
+
+5a76334c5542994ccc918710
+Where is the author of Killing Pablo: The Hunt for the World's Greatest Outlaw (2001) born?
+A: ["Killing Pablo", "Hunt to Kill", "Greatest Hits of The Outlaws... High Tides Forever", "World of Outlaws", "Andy Hunt (author)"]
+Q: Where is the author of Killing Pablo: The Hunt for the World's Greatest Outlaw (2001) born?
+A: "Philadelphia"
+Q: [EOQ]
+S: 0.0
+
+5a7bb7f2554299042af8f7b6
+What Cantonese slang term can mean both "ghost man" and to refer to Westerners?
+A: ["Cantonese slang", "Ghosts (2006 film)", "Cantonese internet slang", "Queen (slang)", "G-Man (slang)"]
+Q: What Cantonese slang term can mean both "ghost man" and to refer to Westerners?
+A: "Gweilo"
+Q: [EOQ]
+S: 0.0
+
+5ab576c4554299637185c5a4
+TMNT is a single-player action-adventure multi-platform action game based on a film which was the final film role for who?
+A: ["TMNT (video game)", "TMNT (film)", "Satellite Award for Outstanding Platform Action/Adventure Game", "Action-adventure game", "Action role-playing game"]
+Q: TMNT is a single-player action-adventure multi-platform action game based on a film which was the final film role for who?
+A: "Mako"
+Q: [EOQ]
+S: 0.0
+
+5a8da97c554299068b959d84
+Which university offers more campuses in the Philippines, Fairleigh Dickinson University or the Western Institute of Technology?
+A: ["Fairleigh Dickinson University", "Fairleigh Dickinson University Press", "Fairleigh S. Dickinson", "Fairleigh Dickinson Knights", "Technological University of the Philippines"]
+Q: Which university offers more campuses in the Philippines, Fairleigh Dickinson University or the Western Institute of Technology?
+A: "Fairleigh Dickinson University"
+Q: [EOQ]
+S: 0.0
+
+5abefbc15542990832d3a117
+Michael Lent is best known as the co-writer of the memoirs of Hugh Rowland, a star on a reality television series that premiered on what date?
+A: ["Michael Lent (writer and producer)", "List of reality television programs", "Critics' Choice Television Award for Best Reality Series", "Hugh King (television producer)", "Star Dates"]
+Q: Michael Lent is best known as the co-writer of the memoirs of Hugh Rowland, a star on a reality television series that premiered on what date?
+A: "September 11, 2001"
+Q: [EOQ]
+S: 0.0
+
+5a78eff155429974737f790a
+What Happens in Vegas, an American comedy film starring Lake Bell, was released in what year?
+A: ["What Happens in Vegas", "Lake Bell", "The Vegas Years", "Vegas Vacation", "Everything Happens at Night"]
+Q: What Happens in Vegas, an American comedy film starring Lake Bell, was released in what year?
+A: 2008
+Q: [EOQ]
+S: 0.0
+
+5ae4ad3155429913cc2044cb
+Do both Adventist World and Girls' Life have a headquarter or editor based in Maryland?
+A: ["Adventist World", "Adventist Review", "Girls' Life (magazine)", "Adventist HealthCare", "General Conference of Seventh-day Adventists"]
+Q: Do both Adventist World and Girls' Life have a headquarter or editor based in Maryland?
+A: "yes"
+Q: [EOQ]
+S: 0.0
+
+5ae612f3554299546bf83065
+Which musician who first became famous in the late 1960s and early 1970s is Inner Secrets  the ninth studio album by
+A: ["Inner Secrets", "Inner Ear Studios", "Ninth (album)", "Famous Studios", "Secret Secrets"]
+Q: Which musician who first became famous in the late 1960s and early 1970s is Inner Secrets  the ninth studio album by
+A: "Santana"
+Q: [EOQ]
+S: 0.0
+
+5a77c3d55542995d831812af
+Who was the head of the Imperial Family that was making an broadcast announcement of Japan's surrender in 1945?
+A: ["Surrender of Japan", "Victory over Japan Day", "US Initial Post-Surrender Policy for Japan", "Imperial House of Japan", "Masahiko Takeshita"]
+Q: Who was the head of the Imperial Family that was making an broadcast announcement of Japan's surrender in 1945?
+A: "Lt. Col. Masahiko Takeshita"
+Q: [EOQ]
+S: 0.0
+
+5a7503945542996c70cfae76
+Which Lithuanian-Canadian anthropologist, primatologist, conservationist, ethologist, and author was chosen by  Louis Leakey, along with Jane Goodall, Dian Fossey to study hominids in their natural environments?
+A: ["The Trimates", "Dian Fossey", "Jane Goodall Institute", "Jane Goodall", "Birut\u0117 Galdikas"]
+Q: Which Lithuanian-Canadian anthropologist, primatologist, conservationist, ethologist, and author was chosen by  Louis Leakey, along with Jane Goodall, Dian Fossey to study hominids in their natural environments?
+A: "Birut Galdikas"
+Q: [EOQ]
+S: 0.0
+
+5a8db2105542994ba4e3dd04
+The Government Digital Service is overseen by the Chief Secretary to the Treasury, who is from which party?
+A: ["Shadow Chief Secretary to the Treasury", "Government Digital Service", "Secretary for Financial Services and the Treasury", "Secretary to the Treasury", "Chief Secretary to the Treasury"]
+Q: The Government Digital Service is overseen by the Chief Secretary to the Treasury, who is from which party?
+A: "Labour Party"
+Q: [EOQ]
+S: 0.0
+
+5adde6535542990dbb2f7ef9
+Which documentary was filmed first, Almost Sunrise or Hail! Hail! Rock 'n' Roll?
+A: ["Hail! Hail! Rock 'n' Roll", "Hail! Hail! Rock 'n' Roll (album)", "Hail, Hail", "Hail to the Sunrise Statue", "Hail (film)"]
+Q: Which documentary was filmed first, Almost Sunrise or Hail! Hail! Rock 'n' Roll?
+A: "Almost Sunrise"
+Q: [EOQ]
+S: 0.0
+
+5a7323ef5542994cef4bc477
+Which battle took place first out of the Battle of the Ch'ongch'on River and the Battle of Tarawa?
+A: ["Battle of the Ch'ongch'on River", "Battle of Tarawa", "Battle of the Terek River", "First Battle of Cellorigo", "Battle of the Caecus River"]
+Q: Which battle took place first out of the Battle of the Ch'ongch'on River and the Battle of Tarawa?
+A: "Battle of Tarawa"
+Q: [EOQ]
+S: 0.0
+
+5a7c8e7955429935c91b521a
+Back Home is a children's historical novel adapted into a TV drama starring what English actress born in 1946?
+A: ["Back Home (novel)", "Teen Choice Award for Choice TV Actress Drama", "Back (novel)", "Back Home (film)", "PMPC Star Award for Best Drama Actor and Actress"]
+Q: Back Home is a children's historical novel adapted into a TV drama starring what English actress born in 1946?
+A: "Hayley Mills"
+Q: [EOQ]
+S: 0.0
+
+5ae554ce55429960a22e02b7
+ "I Will Not Say Goodbye" is a song written in part by a music artist who first gained national attention as a winner of what talent competition?
+A: ["Song to Say Goodbye", "Saying Hello, Saying I Love You, Saying Goodbye", "I Just Called to Say Goodbye Again", "Never Say Goodbye (musical)", "Somebody's Always Saying Goodbye"]
+Q: "I Will Not Say Goodbye" is a song written in part by a music artist who first gained national attention as a winner of what talent competition?
+A: "American Idol"
+Q: [EOQ]
+S: 0.0
+
+5add78bf5542992ae4cec57b
+In between Thomas Anders and Micky Dolenz, who was the a vocalist of the Monkees?
+A: ["Micky Dolenz", "The Monkees Present", "Hey, Hey, It's the Monkees", "The Monkees", "Good Clean Fun (The Monkees song)"]
+Q: In between Thomas Anders and Micky Dolenz, who was the a vocalist of the Monkees?
+A: "Micky Dolenz"
+Q: [EOQ]
+S: 0.0
+
+5ae1408a5542997b2ef7d17c
+Which is a university in Pennsylvania, University of New Haven or Carnegie Mellon University?
+A: ["Carnegie Mellon University", "Carnegie Mellon University Press", "Miller Gallery at Carnegie Mellon University", "Carnegie Mellon University, Australia", "Carnegie Mellon University in Qatar"]
+Q: Which is a university in Pennsylvania, University of New Haven or Carnegie Mellon University?
+A: "Carnegie Mellon University"
+Q: [EOQ]
+S: 0.0
+
+5ae76c235542991e8301cc97
+Matt Doheny lost his primary race to what current youngest woman ever elected to Congress?
+A: ["Matt Doheny", "Doheny", "Matt Evers", "Matt Palmer (racing driver)", "Matt Delligatti"]
+Q: Matt Doheny lost his primary race to what current youngest woman ever elected to Congress?
+A: "Elise Stefanik"
+Q: [EOQ]
+S: 0.0
+
+5a89fb525542993b751ca9d6
+Which composer created Night Ferry first performed in 2012 at Symphony Center in Chicago?
+A: ["Night Ferry (composition)", "Symphony Center", "Symphony No. 1 (Corigliano)", "Symphony No. 1 (Price)", "American Symphony"]
+Q: Which composer created Night Ferry first performed in 2012 at Symphony Center in Chicago?
+A: "Anna Clyne"
+Q: [EOQ]
+S: 0.0
+
+5ab6cd0e554299710c8d1f68
+What are a Uruguayan professional footballer and Luz Pfannenstiel are best known as?
+A: ["Lutz Pfannenstiel", "La Luz F.C.", "Diego Rodr\u00edguez Da Luz", "Mauro Da Luz", "Uruguayan Championship of the Uruguayan Football Federation"]
+Q: What are a Uruguayan professional footballer and Luz Pfannenstiel are best known as?
+A: "goalkeeper"
+Q: [EOQ]
+S: 0.0
+
+5a7634f155429976ec32bd6b
+What shallow water table aquifer is located near the county seat of Keith County, Nebraska?
+A: ["Keith County, Nebraska", "Ogallala Aquifer", "Ogallala, Nebraska", "Surficial aquifer", "Lincoln County, Nebraska"]
+Q: What shallow water table aquifer is located near the county seat of Keith County, Nebraska?
+A: "Ogallala Aquifer"
+Q: [EOQ]
+S: 0.0
+
+5a7b1e22554299042af8f6e4
+What award won by only twelve people has a man who Ted Kooshian has performed with won?
+A: ["Ted Kooshian", "Choi Ha-won", "Ha Dae-won", "Ha Jung-won", "Only Won"]
+Q: What award won by only twelve people has a man who Ted Kooshian has performed with won?
+A: "Grammy Award for Best Jazz Album"
+Q: [EOQ]
+S: 0.0
+
+5ae7535c5542997b22f6a6d8
+The 53rd National Hockey League All-Star Game took place at the indoor arena that was completed in what year?
+A: ["53rd National Hockey League All-Star Game", "2012 Kontinental Hockey League All-Star Game", "52nd National Hockey League All-Star Game", "2010 Kontinental Hockey League All-Star Game", "2nd National Hockey League All-Star Game"]
+Q: The 53rd National Hockey League All-Star Game took place at the indoor arena that was completed in what year?
+A: 2007
+Q: [EOQ]
+S: 0.0
+
+5a736f7c5542991f29ee2e18
+Which legal, autonomous North American tribal government signed its constitution in Oklahoma on September 6, 1839?
+A: ["Constitution of Oklahoma", "Legal constitution", "Oklahoma Tribal Statistical Area", "Government of Oklahoma", "Government of Vojvodina"]
+Q: Which legal, autonomous North American tribal government signed its constitution in Oklahoma on September 6, 1839?
+A: "Oklahoma"
+Q: [EOQ]
+S: 0.0
+
+5ae6e0485542996d980e7ca6
+Who was the winner of the season of The Rap Game where a contestant named Lady Leshurr as one of her influences?
+A: ["Lady Leshurr", "The Rap Game", "Rap Jam: Volume One", "Contestant", "A Lady in Her Bath"]
+Q: Who was the winner of the season of The Rap Game where a contestant named Lady Leshurr as one of her influences?
+A: "Miss Mulatto"
+Q: [EOQ]
+S: 0.0
+
+5a8e8d665542995085b3744e
+What was the birth name of the start of Hwarang: The Poet Warrior Youth?
+A: ["Hwarang: The Poet Warrior Youth", "Hwarang", "Hwarang Segi", "Hwarang Archery Field", "List of Urdu-language poets"]
+Q: What was the birth name of the start of Hwarang: The Poet Warrior Youth?
+A: "Park Seo-joon"
+Q: [EOQ]
+S: 0.0
+
+5ae1319c55429920d5234301
+The tap dancing soloist in My Feet Keep Dancing also starred in what 1935 MGM musical?
+A: ["My Feet Keep Dancing", "Tap dance", "Tap dance technique", "American Tap Dance Foundation", "Dancing with the Stars: We Dance!"]
+Q: The tap dancing soloist in My Feet Keep Dancing also starred in what 1935 MGM musical?
+A: "The Nicholas Brothers"
+Q: [EOQ]
+S: 0.0
+
+5ae5b06e554299546bf82f2a
+What was the capacity of the stadium that Colección Privada that was filmed on October 10, 2000?
+A: ["Colecci\u00f3n Privada", "List of closed stadiums by capacity", "List of stadiums in Wales by capacity", "La M\u00e1s Perfecta Colecci\u00f3n", "List of South American stadiums by capacity"]
+Q: What was the capacity of the stadium that Colección Privada that was filmed on October 10, 2000?
+A: "30,000"
+Q: [EOQ]
+S: 0.0
+
+5abd09585542996e802b469b
+What year did the musical premiere that was based on the 2007 Irish romantic musical film of the same name?
+A: ["2007 in Irish music", "Music in the Air (film)", "My Favorite Year (musical)", "Romantic music", "The Romantics (film)"]
+Q: What year did the musical premiere that was based on the 2007 Irish romantic musical film of the same name?
+A: 2007
+Q: [EOQ]
+S: 0.0
+
+5ab3bfd3554299233954ff99
+ The Nike Hoop Summit has had many current NBA players as former participants, including what German player from the Dallas Mavericks?
+A: ["Nike Hoop Summit", "History of the Dallas Mavericks", "Dallas Mavericks", "1980 NBA Expansion Draft", "Dallas Mavericks draft history"]
+Q: The Nike Hoop Summit has had many current NBA players as former participants, including what German player from the Dallas Mavericks?
+A: "Patrick Mills"
+Q: [EOQ]
+S: 0.0
+
+5ae8096f5542994a481bbe99
+What lawyers were featured in The State of Marriage, with the lawyer nominated by Governor Peter Shumlin?
+A: ["Peter Shumlin", "Lawyer Lawyer", "Lawyers' Edition", "Cause lawyer", "Peter Williams (lawyer)"]
+Q: What lawyers were featured in The State of Marriage, with the lawyer nominated by Governor Peter Shumlin?
+A: "Peter Williams"
+Q: [EOQ]
+S: 0.0
+
+5a7a5b3a5542996c55b2dd71
+What building is opposite the ceremonial meeting place of the Accession Council in the United Kingdom?
+A: ["Accession Council", "Ceremony of Opposites", "Leader of the Opposition (United Kingdom)", "Accession of the United Kingdom to the European Communities", "Official Opposition Shadow Cabinet (United Kingdom)"]
+Q: What building is opposite the ceremonial meeting place of the Accession Council in the United Kingdom?
+A: "St James's Palace"
+Q: [EOQ]
+S: 0.0
+
+5a8f0986554299458435d535
+Gerd Neggo trained under the founder of which type of dance analysis?
+A: ["Gerd Neggo", "Training analysis", "Training needs analysis", "American Type Founders", "Types of modern dance"]
+Q: Gerd Neggo trained under the founder of which type of dance analysis?
+A: "modern dance"
+Q: [EOQ]
+S: 0.0
+
+5a859a0c5542992a431d1b69
+Do both Icehouse pieces and El Grande come from the same game?
+A: ["Icehouse pieces", "From TV Animation - One Piece: Grand Battle!", "Icehouse (band)", "From TV Animation - One Piece: Grand Battle! 2", "One Piece: Grand Battle! Rush"]
+Q: Do both Icehouse pieces and El Grande come from the same game?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+5a8a5bd355429970aeb702b9
+Falling Stars is a role-playing game published by the company based out of what country?
+A: ["Star Trek Role Playing Game", "List of role-playing game publishers", "Star Trek: The Role Playing Game", "Star Rovers (role-playing game)", "Star Wars role-playing games"]
+Q: Falling Stars is a role-playing game published by the company based out of what country?
+A: "United States"
+Q: [EOQ]
+S: 0.0
+
+5a89d2d75542992e4fca83d2
+What country of origin does Shawnee Trail and Great Indian Warpath have in common?
+A: ["Great Indian Warpath", "Shawnee Trail (West Virginia)", "Catawba Trail", "Great Himalaya Trails", "On the Warpath"]
+Q: What country of origin does Shawnee Trail and Great Indian Warpath have in common?
+A: "American"
+Q: [EOQ]
+S: 0.0
+
+5ac4920d5542996feb3fe8d3
+When was the designer of the Disneyland attraction with variants in California, France, Hong Kong, Tokyo, and the Tomorrowland Speedway born?
+A: ["Autopia", "List of Hong Kong Disneyland attractions", "Hong Kong Disneyland", "Hong Kong Disneyland Railroad", "List of Tokyo Disneyland attractions"]
+Q: When was the designer of the Disneyland attraction with variants in California, France, Hong Kong, Tokyo, and the Tomorrowland Speedway born?
+A: "February 15, 1939"
+Q: [EOQ]
+S: 0.0
+
+5a7fb1765542992e7d278d20
+Why does the City of Boston get their christmas tree from Ainslee Glen Nova Scotia?
+A: ["Boston Christmas Tree", "Ainslie Glen, Nova Scotia", "MacDonalds Glen, Nova Scotia", "Pine Tree, Nova Scotia", "Glen Haven, Nova Scotia"]
+Q: Why does the City of Boston get their christmas tree from Ainslee Glen Nova Scotia?
+A: "assistance after the 1917 Halifax Explosion"
+Q: [EOQ]
+S: 0.0
+
+5a75d45f5542994ccc918630
+Which refers to more breeds, Stabyhoun or Griffon Bruxellois?
+A: ["Griffon Bruxellois", "Stabyhoun", "Griffon", "Griffon (disambiguation)", "Wirehaired Pointing Griffon"]
+Q: Which refers to more breeds, Stabyhoun or Griffon Bruxellois?
+A: "Griffon Bruxellois"
+Q: [EOQ]
+S: 0.0
+
+5ade811e5542992fa25da7a0
+Marvel Classics Comics specialized in adaptations of literary classics, such as a novel by American writer Herman Melville, that was published in what year?
+A: ["Marvel Classics Comics", "Classical Comics", "Love Classics", "Marvel Illustrated", "DC Comics Classics Library"]
+Q: Marvel Classics Comics specialized in adaptations of literary classics, such as a novel by American writer Herman Melville, that was published in what year?
+A: 1976
+Q: [EOQ]
+S: 0.0
+
+5ae005b555429942ec259bec
+In what year was the novel that Lourenço Mutarelli based "Nina" on based first published?
+A: ["Louren\u00e7o Mutarelli", "Mutarelli", "Prisoner's Base", "Quando Eu Era Vivo", "Drained"]
+Q: In what year was the novel that Lourenço Mutarelli based "Nina" on based first published?
+A: 2004
+Q: [EOQ]
+S: 0.0
+
+5a75e67f55429976ec32bc8b
+Robert Jan van Pelt testified for the defense in this "Churchill's War" author's civil libel suit?
+A: ["Robert Jan van Pelt", "Robert Van Pelt", "Van Pelt Library", "Van Pelt", "John Vredenburgh Van Pelt"]
+Q: Robert Jan van Pelt testified for the defense in this "Churchill's War" author's civil libel suit?
+A: "John Vredenburgh Van Pelt"
+Q: [EOQ]
+S: 0.0
+
+5abc3d505542993a06baf8a7
+Which is founded by a president, University of Washington or University of Virginia?
+A: ["List of presidents of the University of Virginia", "George Washington University Virginia Campus", "List of Presidents of Washington and Lee University", "List of presidents of Virginia Commonwealth University", "List of University of Washington presidents"]
+Q: Which is founded by a president, University of Washington or University of Virginia?
+A: "University of Washington"
+Q: [EOQ]
+S: 0.0
+
+5a8ff69655429916514e73f1
+Who co-starred in an episode of The ABC Comedy Hour with the man who played Duke Slater in "Gomer Pyle, U.S.M.C."? 
+A: ["Gomer Pyle, U.S.M.C. (season 3)", "Gomer Pyle, U.S.M.C. (season 1)", "Gomer Pyle, U.S.M.C. (season 2)"]
+Q: Who co-starred in an episode of The ABC Comedy Hour with the man who played Duke Slater in "Gomer Pyle, U.S.M.C."?
+A: "Max Schreck"
+Q: [EOQ]
+S: 0.0
+
+5a8066d15542992097ad2fe8
+What Nobel Laureate teaches at  Chapman University?
+A: ["List of Nobel laureates affiliated with the University of Tokyo", "List of Nobel laureates affiliated with Cornell University", "List of Nobel laureates associated with the University of Copenhagen", "List of Nobel laureates affiliated with the University of Edinburgh"]
+Q: What Nobel Laureate teaches at  Chapman University?
+A: "John F. Kennedy"
+Q: [EOQ]
+S: 0.0
+
+5ab4da5b55429942dd415f96
+Are Floor Jansen and John McCrea from the same band?
+A: ["Floor Jansen", "John McCrea (musician)", "Floor (band)", "John McCrea (comics)", "John L. McCrea"]
+Q: Are Floor Jansen and John McCrea from the same band?
+A: "no"
+Q: [EOQ]
+S: 0.0
+
+5ae18b555542997b2ef7d1f7
+How far from Buenos Aires is the birthplace of Ezequiel Lazaro? 
+A: ["Ezequiel Garr\u00e9", "Ezequiel Echeverr\u00eda", "Ezequiel Castillo (footballer)", "Diego Ezequiel Aguirre", "Alberti, Buenos Aires"]
+Q: How far from Buenos Aires is the birthplace of Ezequiel Lazaro?
+A: "ten miles"
+Q: [EOQ]
+S: 0.0
+
+5a8dcbc0554299068b959df4
+Many right wing WNP were  connected to a clandestine operation ran by a "stay-behind"  operation ran by what organization?
+A: ["Operation Gladio", "Clandestine operation", "Stay-behind", "Clandestine HUMINT operational techniques", "WNP-1 and WNP-4"]
+Q: Many right wing WNP were  connected to a clandestine operation ran by a "stay-behind"  operation ran by what organization?
+A: "NATO"
+Q: [EOQ]
+S: 0.0
+
+5ae68fcb5542992ae0d1635b
+"Ew!" is a song by a television host born where?
+A: ["Ew!", "Ewing family (television)", "Pif (television host)", "Elizabeth Stanton (television host)", "Jock Ewing"]
+Q: "Ew!" is a song by a television host born where?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+5a8708ba55429960ec39b701
+Snoop Dogg's Doggystyle and Snoop Dogg's Hustlaz: Diary of a Pimp are hip-hop music videos that feature what film genre?
+A: ["Snoop Dogg's Hustlaz: Diary of a Pimp", "Snoop Dogg's Doggystyle", "Snoop Dogg filmography", "Snoop Dogg", "Signs (Snoop Dogg song)"]
+Q: Snoop Dogg's Doggystyle and Snoop Dogg's Hustlaz: Diary of a Pimp are hip-hop music videos that feature what film genre?
+A: "porn"
+Q: [EOQ]
+S: 0.0
+
+5ae524415542992663a4f121
+In what city did the 23rd overall pick of the 2015 NHL Entry Draft helped the United States national junior team win a bronze medal?
+A: ["2009 NHL Entry Draft", "2015 NHL Entry Draft", "2000 NHL Entry Draft", "1983 NHL Entry Draft", "1987 NHL Entry Draft"]
+Q: In what city did the 23rd overall pick of the 2015 NHL Entry Draft helped the United States national junior team win a bronze medal?
+A: "New York City"
+Q: [EOQ]
+S: 0.0
+
+5a74f3f55542993748c8974b
+What movie was the actor born on May 4, 1946 involved in in 1972?
+A: ["John Rawls (actor)", "Chin Han (actor, born 1946)", "Movie 4", "Fritz Schulz (actor)", "Johannes Meyer (actor)"]
+Q: What movie was the actor born on May 4, 1946 involved in in 1972?
+A: "The Man Who Shot Himself"
+Q: [EOQ]
+S: 0.0
+
+5ab3cc395542992ade7c6e9f
+Party of Syrian Unity was established in the wake of a public statement that announced what ?
+A: ["Statement of 1000", "National Unity Party", "Unity Party", "Gabonese National Unity Party", "Latvian Unity Party"]
+Q: Party of Syrian Unity was established in the wake of a public statement that announced what ?
+A: "the establishment of a new government"
+Q: [EOQ]
+S: 0.0
+
+5a83a4bc554299123d8c217f
+Bobby Arora is the trading director of a retail chain that was formed in what year?
+A: ["Bobby Arora", "Robin Arora", "Simon Arora", "British Retail Consortium", "Chain store"]
+Q: Bobby Arora is the trading director of a retail chain that was formed in what year?
+A: 1972
+Q: [EOQ]
+S: 0.0
+
+5add26075542994ed6169c9c
+What public radio network in New York has allowed Eric Plakun to dis his psychiatric work?
+A: ["Eric Plakun", "New York Giants Radio Network", "New York Public Radio", "New York Mets Radio Network", "New Jersey Public Radio"]
+Q: What public radio network in New York has allowed Eric Plakun to dis his psychiatric work?
+A: "NPR"
+Q: [EOQ]
+S: 0.0
+
+5ab2c418554299545a2cfa67
+Ckm wz. 25 Hotchkiss was a Polish derivative of what machine gun that became the standard machine gun of the French Army during World War I?
+A: ["Ckm wz. 25 Hotchkiss", "Hotchkiss M1914 machine gun", "Modified Hotchkiss machine gun", "Ckm wz. 30", "Hotchkiss M1909 Ben\u00e9t\u2013Merci\u00e9 machine gun"]
+Q: Ckm wz. 25 Hotchkiss was a Polish derivative of what machine gun that became the standard machine gun of the French Army during World War I?
+A: "Hotchkiss M1914"
+Q: [EOQ]
+S: 0.0
