@@ -225,6 +225,7 @@ class LLMClientGenerator:
         result = llm_call(**params)
 
         generated_texts = result["generated_texts"]
+        generated_scores = result["generated_scores"]
         modified_texts = []
         for text in generated_texts:
             # remove the prompt
