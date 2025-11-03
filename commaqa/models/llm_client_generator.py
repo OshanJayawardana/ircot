@@ -1,7 +1,7 @@
 import requests
 import os
 from typing import Dict
-
+import torch
 from diskcache import Cache
 from commaqa.inference.prompt_reader import fit_prompt_into_given_limit
 
@@ -235,11 +235,11 @@ class LLMClientGenerator:
             modified_texts.append(text)
         generated_texts = modified_texts
 
-        output_seq_score = [(text, 1 / (index + 1)) for index, text in enumerate(generated_texts)]
+        # output_seq_score = [(text, 1 / (index + 1)) for index, text in enumerate(generated_texts)]
         # print(prompt)
         # print("------------")
         # print(output_seq_score[0][0])
-
+         
         # TODO: Deal with output-probabilities if needed.
-
+        output_seq_score = [(text, score) for text, score in zip(generated_texts, generated_scores)]
         return sorted(output_seq_score, key=lambda x: x[1])

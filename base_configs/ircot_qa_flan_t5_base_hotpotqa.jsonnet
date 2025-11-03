@@ -82,6 +82,7 @@ local qa_question_prefix = (
             "next_model": "step_by_step_bm25_retriever",
             "answer_extractor_regex": ".* answer is:? (.*)\\.?",
             "answer_extractor_remove_last_fullstop": true,
+            "confidence_threshold": 0.8,
             "terminal_state_next_model": "generate_main_question",
             "terminal_return_type": "pids",
             "global_max_num_paras": 15,
