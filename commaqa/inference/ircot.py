@@ -843,10 +843,16 @@ class StepByStepCOTGenParticipant(ParticipantModel):
                 print("Can not handle more than one answer for this model yet" + "\n" + str(output_text_scores))
 
             new_generation = output_text_scores[0][0].strip()
+            generation_confidence = output_text_scores[0][1]
+
             new_sents = list(self.spacy_object(new_generation).sents)
             if new_sents:
                 new_generation = new_sents[0].text
                 new_state.data[f"generated_{self.generation_type}"].append(new_generation)
+                
+                if "generation_confidences" not in new_state.data:
+                    new_state.data["generation_confidences"] = []
+                new_state.data["generation_confidences"].append(generation_confidence) 
 
                 if self.answer_extractor_regex.match(new_generation):
                     return_answer = self.answer_extractor_regex.match(new_generation).group(1)
@@ -912,6 +918,7 @@ class StepByStepExitControllerParticipant(ParticipantModel):
         generation_key="generated_sentences",
         next_model=None,
         end_state="[EOQ]",
+        confidence_threshold=None,
     ):
         if terminal_return_type not in ("answer", "titles", "pids"):
             raise Exception(f"terminal_return_type has to be one of answer or titles. Found {terminal_return_type}.")
@@ -926,6 +933,7 @@ class StepByStepExitControllerParticipant(ParticipantModel):
         self.generation_key = generation_key
         self.next_model = next_model
         self.end_state = end_state
+        self.confidence_threshold = confidence_threshold
 
     def return_model_calls(self):
         return {"step_by_step_exit_controller": self.num_calls}
@@ -962,6 +970,11 @@ class StepByStepExitControllerParticipant(ParticipantModel):
             return_answer = generated_sentences[-1]
         else:
             return_answer = " ".join(generated_sentences)
+        
+        if self.confidence_threshold is not None and "generation_confidences" in state.data:
+            confidences = state.data["generation_confidences"]
+            if confidences and confidences[-1] >= self.confidence_threshold:
+                exit_generation = True
 
         if generated_sentences and self.answer_extractor_regex.match(generated_sentences[-1]):
             return_answer = self.answer_extractor_regex.match(generated_sentences[-1]).group(1)

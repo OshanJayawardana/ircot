@@ -196,10 +196,11 @@ async def generate(
         repetition_penalty=repetition_penalty,
         length_penalty=length_penalty,
         stopping_criteria=stopping_criteria_list,
-        output_scores=False,  # make it configurable later. It turns in generated_output["scores"]
+        output_scores=True,  # make it configurable later. It turns in generated_output["scores"]
     )
     generated_ids = generated_output["sequences"]
     generated_texts = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
+    generated_scores = generated_output["output_scores"]
 
     generated_num_tokens = [len(generated_ids_) for generated_ids_ in generated_ids]
     if not keep_prompt and not is_encoder_decoder:
@@ -216,6 +217,7 @@ async def generate(
         "generated_texts": generated_texts,
         "run_time_in_seconds": run_time_in_seconds,
         "model_name": model_shortname,
+        "generated_scores": generated_scores,
     }
 
 
