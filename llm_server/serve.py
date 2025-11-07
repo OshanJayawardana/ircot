@@ -203,25 +203,40 @@ async def generate(
     
     # Compute sequence scores from token scores    
     if "scores" in generated_output and generated_output["scores"]:    
-        import torch.nn.functional as F    
+        import torch.nn.functional as F
+        import torch
+        import math
         generated_scores = []    
+        answer_prefix = " So the answer is:"
+        answer_prefix_tokens = tokenizer.encode(answer_prefix, add_special_tokens=False)
         for seq_idx in range(len(generated_ids)):    
+            sequence_tokens = generated_ids[seq_idx].tolist()
+            answer_start_pos = -1
+            for i in range(len(sequence_tokens) - len(answer_prefix_tokens) + 1):
+                if sequence_tokens[i:i+len(answer_prefix_tokens)] == answer_prefix_tokens:
+                    answer_start_pos = i + len(answer_prefix_tokens)
+                    break
             token_scores = []    
             for step_idx, step_scores in enumerate(generated_output["scores"]):    
                 # Get the score for the token that was actually generated    
-                if seq_idx < len(step_scores) and step_idx < len(generated_ids[seq_idx]):  
+                if seq_idx >= step_scores.shape[0]:
+                    continue  # skip if index out of bounds  
                     # For encoder-decoder models, generated_ids doesn't include input  
                     # For decoder-only models, we need to skip the input tokens  
-                    if is_encoder_decoder:  
-                        token_id = generated_ids[seq_idx][step_idx]  
+                if is_encoder_decoder:  
+                    if step_idx < len(sequence_tokens):
+                        token_id = sequence_tokens[step_idx]
+                    else:
+                        continue
+                else:  
+                    # For decoder-only, generated_ids includes input + output  
+                    if step_idx + inputs.shape[1] < len(generated_ids[seq_idx]):  
+                        token_id = generated_ids[seq_idx][step_idx + inputs.shape[1]]  
                     else:  
-                        # For decoder-only, generated_ids includes input + output  
-                        if step_idx + inputs.shape[1] < len(generated_ids[seq_idx]):  
-                            token_id = generated_ids[seq_idx][step_idx + inputs.shape[1]]  
-                        else:  
-                            continue  
+                        continue  
                     token_score = F.log_softmax(step_scores[seq_idx], dim=-1)[token_id].item()    
-                    token_scores.append(token_score)    
+                    if answer_start_pos == -1 or step_idx >= answer_start_pos:
+                        token_scores.append(token_score)    
             # Average log probabilities for sequence score    
             seq_score = sum(token_scores) / len(token_scores) if token_scores else 0.0    
             generated_scores.append(seq_score)    
